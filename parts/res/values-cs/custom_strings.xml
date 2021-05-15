@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="display_title">Displej</string>
+    <string name="dc_dimming_enable_title">Eliminace blikání</string>
+    <string name="dc_dimming_enable_summary">Režim \"Eliminace blikání\" pomáhá omezit blikání při zhoršených světelných podmínkách pomocí funkce \"DC-Dimming. Může to snížit přesnost barev a ovlivnit způsob zobrazení některých položek.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Eliminace blikání není momentálně jádrem podporována</string>
+    <string name="dirac_title">Vylepšení Mi Sound</string>
+    <string name="dirac_summary">Vylepšit kvalitu zvuku</string>
+    <string name="dirac_headset_title">Vyberte typ sluchátek</string>
+    <string name="dirac_preset_title">Zvolit přednastavené</string>
+    <string name="dirac_hifi_title">Hi-Fi</string>
+    <string name="dirac_hifi_summary">Snížit hlasitost, zkreslení a zvýšit tím kvalitu přehrávané hudby.</string>
+    <string name="dirac_hifi_enable_title">Zapnout Hi-Fi</string>
+    <string name="dirac_headset_default">Výchozí</string>
+    <string name="dirac_headset_earbuds">Mi pecky</string>
+    <string name="dirac_headset_in_ear_2013">Mi špunty (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">Obyčejná</string>
+    <string name="dirac_headset_general_inear">Běžné špunty</string>
+    <string name="dirac_headset_piston_basic">Základní edice</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Standardní edice</string>
+    <string name="dirac_headset_headphone">Mi sluchátka</string>
+    <string name="dirac_headset_piston_youth">Pro mladé</string>
+    <string name="dirac_headset_piston_color">Barevná edice</string>
+    <string name="dirac_headset_in_ear">Mi špunty</string>
+    <string name="dirac_headset_capsule">Mi kapsle</string>
+    <string name="dirac_headset_in_ear_pro">Mi špunty Pro</string>
+    <string name="dirac_headset_comfort">Mi Komfort</string>
+    <string name="dirac_headset_reduction_noise">Mi Noise Cancelling Type-C</string>
+    <string name="dirac_headset_cancelling">Mi Noise Cancelling 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Mi Earphones</string>
+    <string name="dirac_preset_default">Výchozí</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Klasická</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Elektronická</string>
+    <string name="dirac_preset_country">Country</string>
+    <string name="dirac_preset_dance">Taneční</string>
+    <string name="dirac_preset_metal">Metal</string>
+    <string name="popup_settings_title">Nastavení vyskakovacího fotoaparátu</string>
+    <string name="popup_led_title">LED fotoaparátu</string>
+    <string name="popup_led_summary">Zablikat LED kontrolkou při vysunutí a zasunutí předního fotoaparátu</string>
+    <string name="popup_sound_title">Zvukové efekty</string>
+    <string name="popup_title_muqin">Xylofon</string>
+    <string name="popup_title_yingyan">Kondor</string>
+    <string name="popup_title_mofa">Kouzlo</string>
+    <string name="popup_title_jijia">Mecha</string>
+    <string name="popup_title_chilun">Ozubené kolo</string>
+    <string name="popup_title_cangmen">Dveře lodní kabiny</string>
+    <string name="popup_camera_tip">Upozornění</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Zavření předního fotoaparátu se již několikrát nezdařilo. Zkuste fotoaparát zkalibrovat.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Otevření předního fotoaparátu se již několikrát nezdařilo. Zkuste fotoaparát zkalibrovat.</string>
+    <string name="popup_camera_calibrate_running">Přední fotoaparát nelze používat během kalibrace.</string>
+    <string name="popup_camera_calibrate_now">Kalibrovat</string>
+    <string name="popup_camera_calibrate_failed">Nebylo možné kalibrovat.</string>
+    <string name="popup_camera_calibrate_success">Úspěšně zkalibrováno. Nyní můžete otevřít přední fotoaparát.</string>
+    <string name="stop_operate_camera_frequently">Otevíráte přední fotoaparát příliš často.</string>
+    <string name="takeback_camera_front_failed">Zavření předního fotoaparátu se nezdařilo. Zkuste to znovu.</string>
+    <string name="popup_camera_front_failed">Otevření předního fotoaparátu se nezdařilo. Zkuste to znovu.</string>
+    <string name="popup_camera_proximity_obstructed">Chcete-li spustit přední fotoaparát, sejměte ruku ze snímače přiblížení...</string>
+    <string name="clear_speaker_title">Vyčistit reproduktor</string>
+    <string name="clear_speaker_summary">Přehraje 30sekundový zvuk a vyčistí reproduktor</string>
+    <string name="clear_speaker_description">Tuto funkci spusťte jednou nebo dvakrát, pokud zjistíte, že váš reproduktor je lehce znečištěn prachem. Nastavte hlasitost na maximum.\n\nPokud je reproduktor silně znečištěn, spusťte tuto funkci 2-5krát a zatřeste zařízením tak, aby reproduktor směřoval dolů.</string>
+    <string name="moto_actions_title">Moto Akce</string>
+    <string name="device_gestures_title">Gesta zařízení</string>
+    <string name="device_gestures_summary">Spravovat gesta zařízení</string>
+    <string name="ambient_display_manage_summary">Spravovat gesta ambientního displeje</string>
+    <string name="fingerprint_gestures_title">Gesta pomocí otisků prstů</string>
+    <string name="fingerprint_gestures_summary">Použít gesta otisků prstů</string>
+    <string name="fingerprint_gestures_manage_summary">Spravovat gesta otisků prstů</string>
+    <string name="fingerprint_actions_screenon">Akce při zapnuté obrazovce</string>
+    <string name="fingerprint_gestures_screenoff_title">Gesta otisků prstů při vypnuté obrazovce</string>
+    <string name="fingerprint_gestures_screenoff_summary">Použít gesta otisků prstů při vypnuté obrazovce.\n\nOdemknutí pomocí otisků prstů musí být pro použití této funkce zakázáno.</string>
+    <string name="fingerprint_actions_screenoff">Akce při vypnuté obrazovce</string>
+    <string name="action_home">Domů</string>
+    <string name="action_power">Zapnout/vypnout obrazovku</string>
+    <string name="action_wake">Probudit</string>
+    <string name="action_back">Zpět</string>
+    <string name="action_recents">Nedávné</string>
+    <string name="action_last_app">Poslední aplikace</string>
+    <string name="action_volume_up">Zesílit</string>
+    <string name="action_volume_down">Zeslabit</string>
+    <string name="action_voice_assistant">Hlasový asistent</string>
+    <string name="action_play_pause">Přehrát/pozastavit</string>
+    <string name="action_previous_track">Předchozí skladba</string>
+    <string name="action_next_track">Další skladba</string>
+    <string name="action_flashlight">Zapnout/vypnout svítilnu</string>
+    <string name="action_camera">Otevřít fotoaparát</string>
+    <string name="action_screenshot">Pořídit snímek obrazovky</string>
+    <string name="action_browser">Otevřít prohlížeč</string>
+    <string name="action_dialer">Spustit vytáčení</string>
+    <string name="action_email">Otevřít emailový klient</string>
+    <string name="action_messages">Otevřít aplikaci SMS</string>
+    <string name="screen_off_gestures_manage_summary">Spravovat gesta při vypnuté obrazovce</string>
+    <string name="swipe_left_dlg_title">Vyberte akci přejetím doleva</string>
+    <string name="swipe_right_dlg_title">Vyberte akci přejetím doprava</string>
+    <string name="swipe_up_dlg_title">Vyberte akci přejetím nahoru</string>
+    <string name="swipe_down_dlg_title">Vyberte akci přejetím dolů</string>
+    <string name="tap_title">Jedno klepnutí</string>
+    <string name="double_tap_title">Dvojité poklepání</string>
+    <string name="long_tap_title">Dlouhý stisk</string>
+    <string name="tap_dlg_title">Vyberte akci jedním klepnutím</string>
+    <string name="double_tap_dlg_title">Vyberte akci dvojitým poklepáním</string>
+    <string name="long_tap_dlg_title">Vyberte akci dlouhým stiskem</string>
+    <string name="tap_to_wake">Probudit klepnutím</string>
+    <string name="tap_to_wake_summary">Dvojitým klepnutím kamkoli na obrazovku zařízení probudíte</string>
+    <string name="allow_proximity_sensor_title">Povolit senzor přiblížení</string>
+    <string name="allow_proximity_sensor_summary">Zkontrolovat senzor přiblížení před provedením akce</string>
+    <string name="oneplus_advanced_settings">OnePlus nastavení</string>
+    <string name="oneplus_advanced_settings_summary">Vlastní nastavení pro vaše zařízení</string>
+    <string name="notification_slider_category_title">Posuvník oznámení</string>
+    <string name="notification_slider_selection_dialog_title">Akce</string>
+    <string name="notification_slider_top_position">Pozice nahoře</string>
+    <string name="notification_slider_middle_position">Pozice uprostřed</string>
+    <string name="notification_slider_bottom_position">Pozice dole</string>
+    <string name="notification_slider_mode_total_silence">Úplné ticho</string>
+    <string name="notification_slider_mode_alarms_only">Pouze budíky</string>
+    <string name="notification_slider_mode_priority_only">Pouze prioritní</string>
+    <string name="notification_slider_mode_silent">Tichý</string>
+    <string name="notification_slider_mode_vibrate">Vibrace</string>
+    <string name="notification_slider_mode_none">Normální</string>
+    <string name="thermal_title">Profily optimalizace</string>
+    <string name="thermal_summary">Upravte profily podle aplikací pro optimální výkon</string>
+    <string name="thermal_default">Žádná optimalizace</string>
+    <string name="thermal_benchmark">Výkon</string>
+    <string name="thermal_browser">Prohlížeč</string>
+    <string name="thermal_camera">Fotoaparát</string>
+    <string name="thermal_dialer">Vytáčení</string>
+    <string name="thermal_gaming">Hry</string>
+    <string name="thermal_streaming">Aplikace pro streamování</string>
+    <string name="raise_to_wake_gesture_title">Zvednutím probudit</string>
+    <string name="raise_to_wake_gesture_summary">Místo pulzujícího oznámení zařízení probudit</string>
+    <string name="device_min_refresh_rate">Minimální obnovovací frekvence</string>
+    <string name="refresh_rate_settings_title">Obnovovací frekvence obrazovky</string>
+    <string name="refresh_rate_settings_summary">Upravte obnovovací frekvenci obrazovky</string>
+    <string name="touch_control_title">Optimalizace dotykové obrazovky</string>
+    <string name="touch_game_mode_title">Zapnout Herní režim</string>
+    <string name="touch_game_mode_summary">Pomáhá vylepšit herní zážitek optimalizací dotykové obrazovky</string>
+    <string name="touch_response_title">Dotyková odezva</string>
+    <string name="touch_response_summary">Ovládá dotykovou odezvu</string>
+    <string name="touch_sensitivity_title">Citlivost dotyků</string>
+    <string name="touch_sensitivity_summary">Ovládá citlivost opakovaných klepnutí</string>
+    <string name="touch_resistant_title">Oblast odolná proti dotyku</string>
+    <string name="touch_resistant_summary">Snižuje citlivost blízko okrajů, aby se zabránilo náhodným dotykům</string>
+    <string name="home_button_extra_settings">Přizpůsobit chování tlačítka Domů</string>
+    <string name="assistant_button_action">Akce tlačítka Asistent</string>
+    <string name="stylus_title">Dotykové pero</string>
+</resources>

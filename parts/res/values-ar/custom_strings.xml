@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="display_title">شاشة العرض</string>
+    <string name="dc_dimming_enable_title">مضاد رعش الشاشة </string>
+    <string name="dc_dimming_enable_summary">وضع مضاد رعش الشاشة يساعد على تقليل إجهاد العين في ظروف الإضاءة المنخفضة باستخدام خاصية \"التعتيم باستخدام التيار المستمر\". ربما يقلل ذلك من دقة الألوان ويؤثر في كيفية عرض بعض العناصر.</string>
+    <string name="dc_dimming_enable_summary_not_supported">وضع مضاد رعش الشاش  غير مدعوم بواسطة Kernal </string>
+    <string name="dirac_title">محسن صوت Mi</string>
+    <string name="dirac_summary">تحسين جودة الصوت</string>
+    <string name="dirac_headset_title">اختيار نوع سماعة الرأس</string>
+    <string name="dirac_preset_title">اختر إعداد</string>
+    <string name="dirac_hifi_title">صوت Hi-Fi</string>
+    <string name="dirac_hifi_summary">تقليل الضوضاء والتشويش وزيادة جودة الصوت</string>
+    <string name="dirac_hifi_enable_title">تمكين Hi-fi</string>
+    <string name="dirac_headset_default">التطبيقات التلقائية</string>
+    <string name="dirac_headset_earbuds">سماعات Mi Earbuds</string>
+    <string name="dirac_headset_in_ear_2013">سماعات (Mi In-Ear (2013</string>
+    <string name="dirac_headset_piston_1">سماعات Mi Piston-1</string>
+    <string name="dirac_headset_general">عام</string>
+    <string name="dirac_headset_general_inear">سماعات General In-Ear</string>
+    <string name="dirac_headset_piston_basic">الإصدار الرئيسي</string>
+    <string name="dirac_headset_piston_2">سماعات Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">الإصدار القياسي</string>
+    <string name="dirac_headset_headphone">سماعات رأس Mi</string>
+    <string name="dirac_headset_piston_youth">الإصدار الشبابي</string>
+    <string name="dirac_headset_piston_color">الإصدار الملون</string>
+    <string name="dirac_headset_in_ear">سماعة Mi In-Ear</string>
+    <string name="dirac_headset_capsule">سماعة Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">سماعة Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">سماعة رأس Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">سماعة  Mi Type-C اللاغية للضوضاء </string>
+    <string name="dirac_headset_cancelling">سماعة Mi اللاغية للضوضاء 3.5ملم</string>
+    <string name="dirac_headset_half_in_ear">سماعة Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">سماعة Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">سماعة Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">سماعة Mi Earphones</string>
+    <string name="dirac_preset_default">الافتراضي</string>
+    <string name="dirac_preset_rock">وضع الروك</string>
+    <string name="dirac_preset_jazz">وضع الجازز</string>
+    <string name="dirac_preset_pop">وضع البوب</string>
+    <string name="dirac_preset_classical">وضع الكلاسيك</string>
+    <string name="dirac_preset_hiphop">وضع الهيب هوب</string>
+    <string name="dirac_preset_blues">وضع الإيقاع</string>
+    <string name="dirac_preset_electronic">الوضع الالكتروني</string>
+    <string name="dirac_preset_country">وضع الريف</string>
+    <string name="dirac_preset_dance">وضع الرقص</string>
+    <string name="dirac_preset_metal">وضع الميتال</string>
+    <string name="popup_settings_title">خيارات الكاميرا المنبثقة</string>
+    <string name="popup_led_title">ضوء الكاميرا المنبثقة</string>
+    <string name="popup_led_summary">تشغيل الضوء عند ظهور واختفاء الكاميرا الأمامية</string>
+    <string name="popup_sound_title">المؤثرات الصوتية</string>
+    <string name="popup_title_muqin">سيلوفون</string>
+    <string name="popup_title_yingyan">كندور</string>
+    <string name="popup_title_mofa">سحر</string>
+    <string name="popup_title_jijia">ميكا</string>
+    <string name="popup_title_chilun">عجلة مسننة</string>
+    <string name="popup_title_cangmen">باب مقصورة</string>
+    <string name="popup_camera_tip">تنبيه</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">تعذر إغلاق الكاميرا الامامية عدة مرات. حاول معايرة الكاميرا.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">تعذر فتح الكاميرا الامامية عدة مرات. حاول معايرة الكاميرا.</string>
+    <string name="popup_camera_calibrate_running">لا يمكن استخدام الكاميرا الأمامية أثناء المعايرة.</string>
+    <string name="popup_camera_calibrate_now">معايرة</string>
+    <string name="popup_camera_calibrate_failed">تعذرت المعايرة</string>
+    <string name="popup_camera_calibrate_success">تم المعايرة بنجاح. يمكنك فتح الكاميرا الامامية الآن.</string>
+    <string name="stop_operate_camera_frequently">انت تفتح الكاميرا الأمامية كثيرا.</string>
+    <string name="takeback_camera_front_failed">تعذر فتح الكاميرا الامامية. حاول مجددا.</string>
+    <string name="popup_camera_front_failed">تعذر فتح الكاميرا الامامية. حاول مجدداً.</string>
+    <string name="popup_camera_proximity_obstructed">أبعد يدك عن مستشعر القرب لتشغيل الكاميرا الأمامية</string>
+    <string name="clear_speaker_title">تنظيف السماعات</string>
+    <string name="clear_speaker_summary">تشغيل صوت لمدة 30 ثانية لتنظيف السماعات</string>
+    <string name="clear_speaker_description">قم بتشغيل هذه الميزة مرة او مرتين مع رفع مستوى الصوت الى الاقصى اذا وجدت انا سماعاتك مسدودة قليلا بسبب التراب. واذا كانت سماعاتك مسدودة تماما قم بتشغيل هذه الميزة من 2-5 مرات مع هز الجهاز و السماعات اتجاهها الى الاسفل.</string>
+    <string name="moto_actions_title">إجراءات موتو</string>
+    <string name="device_gestures_title">إيماءات الجهاز</string>
+    <string name="device_gestures_summary">إدارة إيماءات الجهاز</string>
+    <string name="ambient_display_manage_summary">ادارة إيماءات العرض المحيطي</string>
+    <string name="fingerprint_gestures_title">إيماءات البصمة</string>
+    <string name="fingerprint_gestures_summary">استخدم إيماءات البصمة</string>
+    <string name="fingerprint_gestures_manage_summary">ادارة إيماءات البصمة</string>
+    <string name="fingerprint_actions_screenon">إجراءات مع الشاشة مشغلة</string>
+    <string name="fingerprint_gestures_screenoff_title">إيماءات البصمة عندما تكون الشاشة مغلقة</string>
+    <string name="fingerprint_gestures_screenoff_summary">استخدم إيماءات البصمة عندما تكون الشاشة مغلقة، يجب الغاء الفتح عن طريق البصمة للاستفادة من هذه الميزة.</string>
+    <string name="fingerprint_actions_screenoff">إجراءات مع الشاشة مغلقة</string>
+    <string name="action_home">الصفحة الرئيسية</string>
+    <string name="action_power">الشاشة تشغيل/إيقاف</string>
+    <string name="action_wake">أيقظ</string>
+    <string name="action_back">رجوع</string>
+    <string name="action_recents">التطبيقات الأخيرة</string>
+    <string name="action_last_app">ٱخر تطبيق</string>
+    <string name="action_volume_up">رفع الصوت</string>
+    <string name="action_volume_down">خفض الصوت</string>
+    <string name="action_voice_assistant">المساعد الصوتي</string>
+    <string name="action_play_pause">تشغيل/إيقاف مؤقت</string>
+    <string name="action_previous_track">المسار السابق</string>
+    <string name="action_next_track">المقطوعة التالية</string>
+    <string name="action_flashlight">المصباح تشغيل/إيقاف</string>
+    <string name="action_camera">افتح الكاميرا</string>
+    <string name="action_screenshot">أخذ لقطة للشاشة</string>
+    <string name="action_browser">افتح المتصفح</string>
+    <string name="action_dialer">افتح لوحة مفاتيح الاتصال</string>
+    <string name="action_email">افتح تطبيق البريد الإلكتروني</string>
+    <string name="action_messages">افتح تطبيق الرسائل</string>
+    <string name="screen_off_gestures_manage_summary">إدارة الإيماءات عندما تكون الشاشة مغلقة</string>
+    <string name="swipe_left_dlg_title">حدد اجراء السحب الى اليسار</string>
+    <string name="swipe_right_dlg_title">حدد إجراء السحب الى اليمين</string>
+    <string name="swipe_up_dlg_title">حدد اجراء السحب الى الاعلى</string>
+    <string name="swipe_down_dlg_title">حدد إجراء السحب الى الأسفل</string>
+    <string name="tap_title">نقرة واحدة</string>
+    <string name="double_tap_title">نقرة مزدوجة</string>
+    <string name="long_tap_title">نقرة مطولة</string>
+    <string name="tap_dlg_title">حدد إجراء للنقرة الواحدة</string>
+    <string name="double_tap_dlg_title">حدد إجراء للنقرة المزدوجة</string>
+    <string name="long_tap_dlg_title">حدد إجراء للنقر المطول</string>
+    <string name="tap_to_wake">انقر للإيقاظ</string>
+    <string name="tap_to_wake_summary">انقر نقرًا مزدوجًا على أي مكان بالشاشة لإيقاظ الجهاز من وضع السكون</string>
+    <string name="allow_proximity_sensor_title">تشغيل مستشعر التقارب</string>
+    <string name="allow_proximity_sensor_summary">تحقق من مستشعر القرب قبل تنفيذ الإجراء</string>
+    <string name="oneplus_advanced_settings">إعدادات OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">إعدادات مخصصة لجهازك</string>
+    <string name="notification_slider_category_title">مزلاق التنبيه</string>
+    <string name="notification_slider_selection_dialog_title">إجراء</string>
+    <string name="notification_slider_top_position">الموضع العلوي</string>
+    <string name="notification_slider_middle_position">الموضع الوسطي</string>
+    <string name="notification_slider_bottom_position">الموضع السفلي</string>
+    <string name="notification_slider_mode_total_silence">كتم الصوت تماماً</string>
+    <string name="notification_slider_mode_alarms_only">التنبيهات فقط</string>
+    <string name="notification_slider_mode_priority_only">الأولوية فقط</string>
+    <string name="notification_slider_mode_silent">صامت</string>
+    <string name="notification_slider_mode_vibrate">اهتزاز</string>
+    <string name="notification_slider_mode_none">عادي</string>
+    <string name="thermal_title">وضع التحسين</string>
+    <string name="thermal_summary">تعديل الإعدادات بحسب نوع التطبيق لأفضل أداء</string>
+    <string name="thermal_default">بدون تحسين</string>
+    <string name="thermal_benchmark">الأداء</string>
+    <string name="thermal_browser">المتصفح</string>
+    <string name="thermal_camera">الكاميرا</string>
+    <string name="thermal_dialer">الإتصال</string>
+    <string name="thermal_gaming">الألعاب</string>
+    <string name="thermal_streaming">تطبيقات البث</string>
+    <string name="raise_to_wake_gesture_title">الرفع للإيقاظ</string>
+    <string name="raise_to_wake_gesture_summary">ايقاظ الجهاز بدلا من ارسال اشعار</string>
+    <string name="device_min_refresh_rate">معدل التحديث الأدنى</string>
+    <string name="refresh_rate_settings_title">معدل تحديث الشاشة</string>
+    <string name="touch_control_title">تحسينات شاشة اللمس</string>
+    <string name="touch_game_mode_title">تفعيل وضع الالعاب</string>
+    <string name="touch_game_mode_summary">تساعد على تحسين تجربة اللعب عن طريق تحسين استجابة اللمس</string>
+    <string name="touch_response_title">حساسية استجابة اللمس</string>
+    <string name="touch_response_summary">التحكم في حساسية استجابة اللمس</string>
+    <string name="touch_sensitivity_title">حساسية اللمس</string>
+    <string name="touch_sensitivity_summary">تتحكم في حساسية اللمس المتكرر</string>
+    <string name="touch_resistant_title">المنطقة المضادة للمس</string>
+    <string name="touch_resistant_summary">تقليل الحساسية اتجاه اطراف الشاشة لمنع الادخالات الخاطئة</string>
+    <string name="home_button_extra_settings">تعديل وظيفة زر الشاشة الرئيسية</string>
+</resources>

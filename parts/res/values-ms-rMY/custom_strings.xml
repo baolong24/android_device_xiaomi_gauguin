@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Paparan</string>
+    <!-- Dirac settings -->
+    <string name="dirac_title">Penambah Bunyi Mi</string>
+    <string name="dirac_summary">Optimumkan kualiti audio</string>
+    <string name="dirac_headset_title">Pilih jenis fon kepala</string>
+    <string name="dirac_preset_title">Memilih pratetap</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Audio Hi-Fi</string>
+    <string name="dirac_hifi_summary">Mengurangkan bunyi bising dan gangguan dan meningkatkan kualiti audio</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">Lalai</string>
+    <string name="dirac_headset_earbuds">Bud telinga Mi</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi piston-1</string>
+    <string name="dirac_headset_general">Umum</string>
+    <string name="dirac_headset_general_inear">General In-Ear</string>
+    <string name="dirac_headset_piston_basic">Edisi asas</string>
+    <string name="dirac_headset_piston_2">Piston-2 Mi</string>
+    <string name="dirac_headset_piston_standard">Edisi biasa</string>
+    <string name="dirac_headset_headphone">Mi Headphone</string>
+    <string name="dirac_headset_piston_youth">Edisi Remaja</string>
+    <string name="dirac_headset_piston_color">Edisi Warna</string>
+    <string name="dirac_headset_in_ear">Mi di telinga</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Pembatalan Bunyi Bising Mi Type-C</string>
+    <string name="dirac_headset_cancelling">Pembatalan Bunyi Bising Mi 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Mi Earphones</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">Lalai</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Klasik</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Elektronik</string>
+    <string name="dirac_preset_country">Negara</string>
+    <string name="dirac_preset_dance">Tarian</string>
+    <string name="dirac_preset_metal">Metal</string>
+    <!-- Popup camera settings -->
+    <string name="popup_title_muqin">Xylofon</string>
+    <string name="popup_title_yingyan">Condor</string>
+    <string name="popup_title_mofa">Magik</string>
+    <string name="popup_title_jijia">Mecha</string>
+    <string name="popup_title_chilun">Gearwheel</string>
+    <string name="popup_title_cangmen">Pintu kabin</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">Perhatian</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Tidak dapat menutup kamera depan berulang kali. Cuba kalibrasi kamera.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Tidak dapat membuka kamera depan berulang kali. Cuba kalibrasi kamera.</string>
+    <string name="popup_camera_calibrate_running">Kamera depan tidak boleh digunakan semasa penentukuran.</string>
+    <string name="popup_camera_calibrate_now">Kalibrasi</string>
+    <string name="popup_camera_calibrate_failed">Tidak dapat kalibrasi</string>
+    <string name="popup_camera_calibrate_success">Berjaya kalibrasi. Anda boleh membuka kamera depan sekarang.</string>
+    <string name="stop_operate_camera_frequently">Anda membuka kamera depan terlalu kerap.</string>
+    <string name="takeback_camera_front_failed">Tidak dapat menutup kamera depan. Cuba lagi.</string>
+    <string name="popup_camera_front_failed">Tidak dapat membuka kamera depan. Cuba lagi.</string>
+    <!-- Title and summary -->
+    <string name="moto_actions_title">Tindakan Moto</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">Gerak isyarat untuk peranti</string>
+    <string name="device_gestures_summary">Menguruskan gerak isyarat peranti</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">Menguruskan gerak isyarat paparan ambient</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">Gerak isyarat cap jari</string>
+    <string name="fingerprint_gestures_summary">Gunakan gerak isyarat cap jari</string>
+    <string name="fingerprint_gestures_manage_summary">Menguruskan gerak isyarat cap jari</string>
+    <string name="fingerprint_actions_screenon">Tindakan dengan skrin yang hidup</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">Pergerakan cap jari apabila paparan dalam keadaan terpadam</string>
+    <string name="fingerprint_gestures_screenoff_summary">Gunakan pergerakan cap jari apabila paparan dipadamkan.\n\nNyah kunci menggunakan cap jari perlu dimatikan jika ingin menggunakan fungsi ini.</string>
+    <string name="fingerprint_actions_screenoff">Tindakan dengan paparan terpadam</string>
+    <!-- Actions -->
+    <string name="action_home">Paparan utama</string>
+    <string name="action_power">Paparan hidup/mati</string>
+    <string name="action_wake">Bangun</string>
+    <string name="action_back">Kembali</string>
+    <string name="action_recents">Terbaru</string>
+    <string name="action_last_app">Aplikasi terakhir</string>
+    <string name="action_volume_up">Tingkatkan audio</string>
+    <string name="action_volume_down">Turunkan audio</string>
+    <string name="action_voice_assistant">Pembantu suara</string>
+    <string name="action_play_pause">Main/Henti seketika</string>
+    <string name="action_previous_track">Lagu sebelumnya</string>
+    <string name="action_next_track">Trek selanjutnya</string>
+    <string name="action_flashlight">Lampu suluh hidup/mati</string>
+    <string name="action_camera">Buka kamera</string>
+    <string name="action_screenshot">Ambil Cekupanskrin</string>
+    <string name="action_browser">Buka Pelayar</string>
+    <string name="action_dialer">Buka pendail</string>
+    <string name="action_email">Buka applikasi email</string>
+    <string name="action_messages">Buka applikasi mesej</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">Uruskan pergerakan jari di paparan apabila paparan terpadam</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">Pilih tindakan untuk leret ke kiri</string>
+    <string name="swipe_right_dlg_title">Pilih tindakan untuk leret ke kanan</string>
+    <string name="swipe_up_dlg_title">Pilih tindakan untuk leret ke atas</string>
+    <string name="swipe_down_dlg_title">Pilih tindakan untuk leret ke bawah</string>
+    <string name="tap_title">Ketuk sekali</string>
+    <string name="double_tap_title">Tekan dua kali</string>
+    <string name="long_tap_title">Sentuh dengan jeda masa yang panjang</string>
+    <string name="tap_dlg_title">Pilih tindakan untuk ketuk sekali</string>
+    <string name="double_tap_dlg_title">Pilih tindakan untuk tekan dua kali</string>
+    <string name="long_tap_dlg_title">Pilih tindakan untuk tekan dengan jeda masa panjang</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">Tekan untuk bangun</string>
+    <string name="tap_to_wake_summary">Tekan skrin dua kali dimana-mana untuk bangunkan peranti</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">Benarkan sensor pengesan jarak</string>
+    <string name="allow_proximity_sensor_summary">Pastikan sensor pengesan jarak sebelum melakukan tindakan</string>
+    <!-- OnePlus - General -->
+    <string name="oneplus_advanced_settings">Tetapan OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Tetapan peribadi untuk peranti anda</string>
+    <!-- OnePlus - Alert slider settings -->
+    <string name="notification_slider_selection_dialog_title">Tindakan</string>
+    <string name="notification_slider_top_position">Kedudukan atas</string>
+    <string name="notification_slider_middle_position">Kedudukan tengah</string>
+    <string name="notification_slider_bottom_position">Kedudukan bawah</string>
+    <string name="notification_slider_mode_total_silence">Senyap sepenuhnya</string>
+    <string name="notification_slider_mode_priority_only">Keutamaan sahaja</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Profil optimasi</string>
+    <string name="thermal_default">Tiada optimasi</string>
+    <string name="thermal_benchmark">Prestasi</string>
+    <string name="thermal_browser">Pelayar</string>
+    <string name="thermal_camera">Kamera</string>
+    <string name="thermal_dialer">Pendail</string>
+    <string name="thermal_gaming">Permainan</string>
+    <!-- Refresh Rate Settings -->
+</resources>

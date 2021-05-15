@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="display_title">Ecrã</string>
+    <string name="dc_dimming_enable_title">Anti Cintilação</string>
+    <string name="dc_dimming_enable_summary">O modo anti-cintilação ajuda a reduzir a fadiga visual através do uso da funcionalidade \"DC dimming\". Pode diminuir a qualidade das cores e afetar a forma como alguns itens são exibidos.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Anti Cintilação não é suportado por este kernel</string>
+    <string name="dirac_title">Amplificador Mi Sound</string>
+    <string name="dirac_summary">Otimizar qualidade de áudio</string>
+    <string name="dirac_headset_title">Escolher tipo de auricular</string>
+    <string name="dirac_preset_title">Escolher uma predefinição</string>
+    <string name="dirac_hifi_title">Áudio Hi-Fi</string>
+    <string name="dirac_hifi_summary">Reduzir ruído, distorção e aumentar a qualidade do som</string>
+    <string name="dirac_hifi_enable_title">Permitir Hi-fi</string>
+    <string name="dirac_headset_default">Padrão</string>
+    <string name="dirac_headset_earbuds">Mi Earbuds</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston 1</string>
+    <string name="dirac_headset_general">Genéricos</string>
+    <string name="dirac_headset_general_inear">Genéricos In-Ear</string>
+    <string name="dirac_headset_piston_basic">Edição básica</string>
+    <string name="dirac_headset_piston_2">Mi Piston 2</string>
+    <string name="dirac_headset_piston_standard">Edição padrão</string>
+    <string name="dirac_headset_headphone">Mi Headphones</string>
+    <string name="dirac_headset_piston_youth">Edição Youth</string>
+    <string name="dirac_headset_piston_color">Edição Color</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi Noise Cancelling (USB-C)</string>
+    <string name="dirac_headset_cancelling">Mi Noise Cancelling (3.5mm)</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Mi Earphones</string>
+    <string name="dirac_preset_default">Predefinido</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Clássica</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Eletrónica</string>
+    <string name="dirac_preset_country">Country</string>
+    <string name="dirac_preset_dance">Dança</string>
+    <string name="dirac_preset_metal">Metal</string>
+    <string name="popup_settings_title">Pop-up de definições da câmara</string>
+    <string name="popup_led_title">LED da câmara</string>
+    <string name="popup_led_summary">Mostrar LED quando a câmara frontal surgir e retrair</string>
+    <string name="popup_sound_title">Efeitos de som</string>
+    <string name="popup_title_muqin">Xilofone</string>
+    <string name="popup_title_yingyan">Condor</string>
+    <string name="popup_title_mofa">Mágica</string>
+    <string name="popup_title_jijia">Robô</string>
+    <string name="popup_title_chilun">Roda de engrenagem</string>
+    <string name="popup_title_cangmen">Porta de cabina</string>
+    <string name="popup_camera_tip">Atenção</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Não foi possível fechar a câmara frontal. Tente calibrar a câmara</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Não foi possível abrir a câmara frontal. Tente calibrar a câmara</string>
+    <string name="popup_camera_calibrate_running">Não pode usar a câmara frontal durante a calibração.</string>
+    <string name="popup_camera_calibrate_now">Calibrar</string>
+    <string name="popup_camera_calibrate_failed">Não foi possível calibrar</string>
+    <string name="popup_camera_calibrate_success">Calibrada com sucesso. Pode abrir a câmara frontal agora.</string>
+    <string name="stop_operate_camera_frequently">Está a abrir a câmara frontal com muita frequência.</string>
+    <string name="takeback_camera_front_failed">Não foi possível fechar a câmara frontal. Tente novamente.</string>
+    <string name="popup_camera_front_failed">Não foi possível abrir a câmara frontal. Tente novamente.</string>
+    <string name="popup_camera_proximity_obstructed">Remova a mão do sensor de proximidade para abrir a câmera frontal ...</string>
+    <string name="clear_speaker_title">Limpar altifalante</string>
+    <string name="clear_speaker_summary">Tocar um som de 30 segundos para limpar o altifalante</string>
+    <string name="clear_speaker_description">Execute este recurso uma ou duas vezes se o altifalante estiver bloqueado por sujidade ou água. Deve ajustar o volume de multimédia para o máximo.\n\nSe o altifalante estiver muito bloqueado, execute este recurso 2 a 5 vezes enquanto agita o seu dispositivo com o altifalante voltado para baixo.</string>
+    <string name="moto_actions_title">Moto Ações</string>
+    <string name="device_gestures_title">Gestos do dispositivo</string>
+    <string name="device_gestures_summary">Gerir gestos do dispositivo</string>
+    <string name="ambient_display_manage_summary">Gerenciar os gestos na visualização de ambiente</string>
+    <string name="fingerprint_gestures_title">Gestos de impressão digital</string>
+    <string name="fingerprint_gestures_summary">Utilizar gestos para impressão digital</string>
+    <string name="fingerprint_gestures_manage_summary">Gerir gestos de impressão digital</string>
+    <string name="fingerprint_actions_screenon">Ações com o ecrã ligado</string>
+    <string name="fingerprint_gestures_screenoff_title">Gestos de impressão digital com o ecrã desligado</string>
+    <string name="fingerprint_gestures_screenoff_summary">Utilizar gestos de impressão digital com o ecrã desligado.\n\nPara ativar esta funcionalidade, tem que desativar o desbloqueio com impressão digital.</string>
+    <string name="fingerprint_actions_screenoff">Ações com o ecrã desligado</string>
+    <string name="action_home">Início</string>
+    <string name="action_power">Ecrã ligado/desligado</string>
+    <string name="action_wake">Acordar</string>
+    <string name="action_back">Recuar</string>
+    <string name="action_recents">Recentes</string>
+    <string name="action_last_app">Última aplicação</string>
+    <string name="action_volume_up">Aumentar volume</string>
+    <string name="action_volume_down">Diminuir volume</string>
+    <string name="action_voice_assistant">Assistente de voz</string>
+    <string name="action_play_pause">Reproduzir/pausa</string>
+    <string name="action_previous_track">Faixa anterior</string>
+    <string name="action_next_track">Faixa seguinte</string>
+    <string name="action_flashlight">Ligar/desligar lanterna</string>
+    <string name="action_camera">Abrir câmara</string>
+    <string name="action_screenshot">Capturar ecrã</string>
+    <string name="action_browser">Abrir navegador</string>
+    <string name="action_dialer">Abrir marcador</string>
+    <string name="action_email">Abrir aplicação de e-mail</string>
+    <string name="action_messages">Abrir aplicação de mensagens</string>
+    <string name="screen_off_gestures_manage_summary">Gerir gestos para quando o ecrã estiver desligado</string>
+    <string name="swipe_left_dlg_title">Selecione ação para deslize à esquerda</string>
+    <string name="swipe_right_dlg_title">Selecione ação para deslize à direita</string>
+    <string name="swipe_up_dlg_title">Selecione ação para deslize acima</string>
+    <string name="swipe_down_dlg_title">Selecione ação para deslize abaixo</string>
+    <string name="tap_title">Toque simples</string>
+    <string name="double_tap_title">Duplo toque</string>
+    <string name="long_tap_title">Toque longo</string>
+    <string name="tap_dlg_title">Selecione ação para um toque</string>
+    <string name="double_tap_dlg_title">Selecione ação para dois toques</string>
+    <string name="long_tap_dlg_title">Selecione ação para toque longo</string>
+    <string name="tap_to_wake">Tocar para acordar</string>
+    <string name="tap_to_wake_summary">Dois toques em qualquer ponto do ecrã para acordar o dispositivo</string>
+    <string name="allow_proximity_sensor_title">Permitir sensor de proximidade</string>
+    <string name="allow_proximity_sensor_summary">Verificar sensor de proximidade antes de executar a ação</string>
+    <string name="oneplus_advanced_settings">Definições OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Definições personalizadas para o seu dispositivo</string>
+    <string name="notification_slider_category_title">Slider de alerta</string>
+    <string name="notification_slider_selection_dialog_title">Ação</string>
+    <string name="notification_slider_top_position">Posição superior</string>
+    <string name="notification_slider_middle_position">Posição central</string>
+    <string name="notification_slider_bottom_position">Posição inferior</string>
+    <string name="notification_slider_mode_total_silence">Silêncio total</string>
+    <string name="notification_slider_mode_alarms_only">Apenas alarmes</string>
+    <string name="notification_slider_mode_priority_only">Apenas prioritários</string>
+    <string name="notification_slider_mode_silent">Silencioso</string>
+    <string name="notification_slider_mode_vibrate">Vibrar</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <string name="thermal_title">Perfis de otimização</string>
+    <string name="thermal_summary">Ajustar perfis por aplicação para um melhor desempenho</string>
+    <string name="thermal_default">Sem otimização</string>
+    <string name="thermal_benchmark">Desempenho</string>
+    <string name="thermal_browser">Navegador</string>
+    <string name="thermal_camera">Câmara</string>
+    <string name="thermal_dialer">Marcador</string>
+    <string name="thermal_gaming">Jogos</string>
+    <string name="thermal_streaming">Aplicações de transmissão</string>
+    <string name="raise_to_wake_gesture_title">Elevar para acordar</string>
+    <string name="raise_to_wake_gesture_summary">Acordar dispositivo em vez de notificação pulsannte</string>
+    <string name="device_min_refresh_rate">Taxa mínima de atualização</string>
+    <string name="refresh_rate_settings_title">Taxa de atualização do ecrã</string>
+    <string name="refresh_rate_settings_summary">Ajustar taxa de atualização do ecrã</string>
+    <string name="touch_control_title">Otimizações para toques no ecrã</string>
+    <string name="touch_game_mode_title">Ativar modo jogador</string>
+    <string name="touch_game_mode_summary">Ajuda a melhorar o desempenho dos jogos otimizando o ecrã para toques</string>
+    <string name="touch_response_title">Respostas de toques</string>
+    <string name="touch_response_summary">Controla a resposta aos toques</string>
+    <string name="touch_sensitivity_title">Sensibilidade de toques</string>
+    <string name="touch_sensitivity_summary">Controla a sensibilidade dos toques repetitivos</string>
+    <string name="touch_resistant_title">Área resistente ao toque</string>
+    <string name="touch_resistant_summary">Reduz a sensibilidade juntos às margens do ecrã para impedir toques acidentais</string>
+    <string name="home_button_extra_settings">Personalizar comportamento do botão Página inicial</string>
+    <string name="assistant_button_action">Ação da tecla Assistente</string>
+    <string name="stylus_title">Estilo da caneta</string>
+</resources>

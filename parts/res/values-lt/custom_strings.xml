@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="display_title">Ekranas</string>
+    <string name="dc_dimming_enable_title">Nemirksėjimo režimas</string>
+    <string name="dc_dimming_enable_summary">Apsaugos nuo mirgėjimo režimas padeda sumažinti akių nuovargį esant silpnam apšvietimui, naudojant „DC diling“ funkciją. Tai gali pabloginti spalvų tikslumą ir paveikti kai kurių elementų rodymą.</string>
+    <string name="dirac_title">„Mi garso pagerinimas“</string>
+    <string name="dirac_summary">Optimizuoti garso kokybę</string>
+    <string name="dirac_headset_title">Pasirinkite ausinių tipą</string>
+    <string name="dirac_preset_title">Pasirinkti ruošinį</string>
+    <string name="dirac_hifi_title">Hi-Fi audio</string>
+    <string name="dirac_hifi_summary">Triukšmų ir iškraipymų sumažinimas garso kokybei pagerinti</string>
+    <string name="dirac_hifi_enable_title">Įjungti „Hi-fi“</string>
+    <string name="dirac_headset_default">Numatytieji</string>
+    <string name="dirac_headset_earbuds">Mi Ausinės</string>
+    <string name="dirac_headset_general">Įprastos ausinės</string>
+    <string name="dirac_headset_general_inear">Paprastos įkišamos ausinės</string>
+    <string name="dirac_headset_piston_basic">Įprastos kamštinės</string>
+    <string name="dirac_headset_piston_standard">Standartinis Leidimas</string>
+    <string name="dirac_headset_headphone">Mi Ausinės</string>
+    <string name="dirac_headset_piston_youth">Jaunimo Leidimas</string>
+    <string name="dirac_headset_piston_color">Spalvų Leidimas</string>
+    <string name="dirac_headset_in_ear">Mi Įkišamos ausinės</string>
+    <string name="dirac_headset_capsule">Mi Kapsulė</string>
+    <string name="dirac_headset_comfort">Mi Komfortas</string>
+    <string name="dirac_headset_reduction_noise">„Mi“ triukšmo mažinimas (Tipas-C)</string>
+    <string name="dirac_headset_cancelling">„Mi“ triukšmo mažinimas (3.5mm)</string>
+    <string name="dirac_headset_half_in_ear">„Mi Half in Ear“</string>
+    <string name="dirac_headset_in_ear2">„Mi In-Ear 2“</string>
+    <string name="dirac_headset_earphone_basic">Įprastos „Mi“ ausinės</string>
+    <string name="dirac_headset_earphone">„Mi“ ausinės</string>
+    <string name="dirac_preset_default">Numatytasis</string>
+    <string name="dirac_preset_rock">Rokas</string>
+    <string name="dirac_preset_jazz">Džiazas</string>
+    <string name="dirac_preset_classical">Klasika</string>
+    <string name="dirac_preset_hiphop">Hiphopas</string>
+    <string name="dirac_preset_blues">Bliuzas</string>
+    <string name="dirac_preset_electronic">Elektronika</string>
+    <string name="dirac_preset_country">Kantri</string>
+    <string name="dirac_preset_dance">Šokių</string>
+    <string name="dirac_preset_metal">Metalas</string>
+    <string name="popup_settings_title">Iššokančiųjų fotoaparatų nustatymai</string>
+    <string name="popup_led_title">LED kamera</string>
+    <string name="popup_led_summary">Blykstės šviesos diodas, kai priekinė kamera yra išstumiama ir įtraukiama</string>
+    <string name="popup_sound_title">Garso efektai</string>
+    <string name="popup_title_muqin">Ksilofonas</string>
+    <string name="popup_title_yingyan">Kondoras</string>
+    <string name="popup_title_mofa">Magija</string>
+    <string name="popup_title_jijia">„Mecha“</string>
+    <string name="popup_title_chilun">Krumpliaratis</string>
+    <string name="popup_title_cangmen">Trobelės durys</string>
+    <string name="popup_camera_tip">Įspėjimas</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Keletą kartų nepavyko išjungti priekinio fotoaparato. Pamėginkite sukalbruoti fotoaparatą.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Keletą kartų nepavyko paleisti priekinio fotoaparato. Pamėginkite sukalbruoti fotoaparatą.</string>
+    <string name="popup_camera_calibrate_running">Priekinės kameros negalima naudoti kalibruojant.</string>
+    <string name="popup_camera_calibrate_now">Kalibruoti</string>
+    <string name="popup_camera_calibrate_failed">Kalibruoti nepavyko</string>
+    <string name="popup_camera_calibrate_success">Sėkmingai sukalibruota. Dabar galite paleisti priekinį fotoaparatą.</string>
+    <string name="stop_operate_camera_frequently">Per dažnai atidarote priekinį fotoaparatą.</string>
+    <string name="takeback_camera_front_failed">Nepavyko išjungti priekinio fotoaparato. Pabandykite dar kartą.</string>
+    <string name="popup_camera_front_failed">Nepavyko paleisti priekinio fotoaparato. Pabandykite dar kartą.</string>
+    <string name="popup_camera_proximity_obstructed">Nuimkite ranką nuo artumo jutiklio, kad atidarytumėte priekinę kamerą ...</string>
+    <string name="moto_actions_title">Papildomi gestai</string>
+    <string name="device_gestures_title">Įrenginio gestai</string>
+    <string name="device_gestures_summary">Valdykite įrenginio gestus</string>
+    <string name="ambient_display_manage_summary">Aplinkos vaizdo gestai</string>
+    <string name="fingerprint_gestures_title">Pirštų atspaudų gestai</string>
+    <string name="fingerprint_gestures_summary">Naudokite pirštų atspaudų gestus</string>
+    <string name="fingerprint_gestures_manage_summary">Tvarkykite pirštų atspaudų gestus</string>
+    <string name="fingerprint_actions_screenon">Veiksmai su ekranu</string>
+    <string name="fingerprint_gestures_screenoff_title">Kai ekranas išjungtas, pirštų atspaudų gestai</string>
+    <string name="fingerprint_gestures_screenoff_summary">Išjungus ekraną, naudokite pirštų atspaudų gestus. \ N \ n(Fingerprint unlocking) turi būti išjungtas, jei norite naudoti šią funkciją.</string>
+    <string name="fingerprint_actions_screenoff">Veiksmai su išjungtu ekranu</string>
+    <string name="action_home">Namo</string>
+    <string name="action_power">Ekranas įjungtas / išjungtas</string>
+    <string name="action_wake">Pažadinti</string>
+    <string name="action_back">Atgal</string>
+    <string name="action_recents">Paskutinės</string>
+    <string name="action_last_app">Paskutinė programa</string>
+    <string name="action_volume_up">Pagarsinti</string>
+    <string name="action_volume_down">Patildyti</string>
+    <string name="action_voice_assistant">Balso asistentas</string>
+    <string name="action_play_pause">Groti/Pauzė</string>
+    <string name="action_previous_track">Ankstesnis takelis</string>
+    <string name="action_next_track">Sekantis takelis</string>
+    <string name="action_flashlight">Žibintuvėlis įjungtas/išjungtas</string>
+    <string name="action_camera">Atidaryti fotoaparatą</string>
+    <string name="action_screenshot">Padaryti ekrano nuotrauką</string>
+    <string name="action_browser">Atidaryti naršyklę</string>
+    <string name="action_dialer">Atidarykite numerio rinkiklį</string>
+    <string name="action_email">Atidarykite el. Pašto programą</string>
+    <string name="action_messages">Atidarykite pranešimų programą</string>
+    <string name="screen_off_gestures_manage_summary">Tvarkykite gestus, kai ekranas išjungtas</string>
+    <string name="swipe_left_dlg_title">Pasirinkite veiksmą, skirtą perbraukti kairėn</string>
+    <string name="swipe_right_dlg_title">Pasirinkite veiksmą, skirtą perbraukti dešinėn</string>
+    <string name="swipe_up_dlg_title">Pasirinkite braukti aukštyn</string>
+    <string name="swipe_down_dlg_title">Pasirinkite veiksmą perbraukite žemyn</string>
+    <string name="tap_title">Vienu bakstelėjimu</string>
+    <string name="double_tap_title">Dvigubas bakstelėjimas</string>
+    <string name="long_tap_title">Ilgas bakstelėjimas</string>
+    <string name="tap_dlg_title">Pasirinkite veiksmą vienam bakstelėjimui</string>
+    <string name="double_tap_dlg_title">Pasirinkite veiksmą dvigubam bakstelėjimui</string>
+    <string name="long_tap_dlg_title">Pasirinkite veiksmą ilgam bakstelėjimui</string>
+    <string name="tap_to_wake">Bakstelėkite, kad pabusti</string>
+    <string name="tap_to_wake_summary">Dukart palieskite bet kurioje ekrano vietoje, kad įjungtumėte įrenginį</string>
+    <string name="allow_proximity_sensor_title">Įjungti artumo jutiklį</string>
+    <string name="allow_proximity_sensor_summary">Prieš atlikdami veiksmą, patikrinkite artumo jutiklį</string>
+    <string name="oneplus_advanced_settings">OnePlus nustatymai</string>
+    <string name="oneplus_advanced_settings_summary">Pasirinktiniai nustatymai jūsų įrenginiui</string>
+    <string name="notification_slider_category_title">Įspėjimo slankiklis</string>
+    <string name="notification_slider_selection_dialog_title">Veiksmas</string>
+    <string name="notification_slider_top_position">Viršutinė pozicija</string>
+    <string name="notification_slider_middle_position">Vidurinė pozicija</string>
+    <string name="notification_slider_bottom_position">Apatinė pozicija</string>
+    <string name="notification_slider_mode_total_silence">Visiška tyla</string>
+    <string name="notification_slider_mode_alarms_only">Tik žadintuvo signalai</string>
+    <string name="notification_slider_mode_priority_only">Tik prioritetiniai</string>
+    <string name="notification_slider_mode_silent">Tylus</string>
+    <string name="notification_slider_mode_vibrate">Vibruoti</string>
+    <string name="notification_slider_mode_none">Normalus</string>
+    <string name="thermal_title">Optimizavimo profilis</string>
+    <string name="thermal_summary">Norėdami optimaliausio našumo, sureguliuokite kiekvienos programos profilius</string>
+    <string name="thermal_default">Nėra optimizavimo</string>
+    <string name="thermal_benchmark">Našumas</string>
+    <string name="thermal_browser">Naršyklė</string>
+    <string name="thermal_camera">Fotoaparatas</string>
+    <string name="thermal_dialer">Rinkiklis</string>
+    <string name="thermal_gaming">Žaidimai</string>
+    <string name="thermal_streaming">Srautinės programos</string>
+    <string name="device_min_refresh_rate">Mažiausias atnaujinimo dažnis</string>
+    <string name="refresh_rate_settings_title">Ekrano atnaujinimo dažnis</string>
+    <string name="refresh_rate_settings_summary">Koreguokite ekrano atnaujinimo dažnį</string>
+    <string name="assistant_button_action">Pagalbinio mygtuko valdymas</string>
+    <string name="stylus_title">Rašiklis</string>
+</resources>

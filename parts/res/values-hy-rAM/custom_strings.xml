@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Էկրան</string>
+    <!-- Dirac settings -->
+    <string name="dirac_title">Mi Ձայնի բարելավում</string>
+    <string name="dirac_summary">Օպտիմիզացնել ձայնի որակը</string>
+    <string name="dirac_headset_title">Ընտրել ականջակալների տեսակը</string>
+    <string name="dirac_preset_title">Ընտրել նախնական կարգավորում</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Hi-Fi ձայն</string>
+    <string name="dirac_hifi_summary">Նվազեցնել աղմուկը և աղավաղումը, բարձրացնել աուդիո որակը</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">Կանխադրված</string>
+    <string name="dirac_headset_earbuds">Mi Earbuds</string>
+    <string name="dirac_headset_in_ear_2013">Mi ներդրվող (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">Սովորական</string>
+    <string name="dirac_headset_general_inear">Սովորական ներդրվող</string>
+    <string name="dirac_headset_piston_basic">Հիմնական տարբերակ</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Ստանդարտ տարբերակ</string>
+    <string name="dirac_headset_headphone">Mi ականջակալներ</string>
+    <string name="dirac_headset_piston_youth">Երիտասարդական տարբերակ</string>
+    <string name="dirac_headset_piston_color">Գունավոր տարբերակ</string>
+    <string name="dirac_headset_in_ear">Mi ներդրվող</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi ներդրվող Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi Աղմուկի Չեղարկում Տիպ C</string>
+    <string name="dirac_headset_cancelling">Mi Աղմուկի Չեղարկում 3.5մմ</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Mi Earphones</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">Կանխադրված</string>
+    <string name="dirac_preset_rock">Ռոք</string>
+    <string name="dirac_preset_jazz">Ջազ</string>
+    <string name="dirac_preset_pop">Փոփ</string>
+    <string name="dirac_preset_classical">Դասական</string>
+    <string name="dirac_preset_hiphop">Հիպ Հոփ</string>
+    <string name="dirac_preset_blues">Բլյուզ</string>
+    <string name="dirac_preset_electronic">Էլեկտրոնային</string>
+    <string name="dirac_preset_country">Քանտրի</string>
+    <string name="dirac_preset_dance">Պար</string>
+    <string name="dirac_preset_metal">Մետալ</string>
+    <!-- Popup camera settings -->
+    <string name="popup_led_title">Խցիկի լույսը</string>
+    <string name="popup_sound_title">Ձայնային էֆեկտներ</string>
+    <string name="popup_title_muqin">Քսիլոֆոն</string>
+    <string name="popup_title_yingyan">Կատարյալ</string>
+    <string name="popup_title_mofa">Կախարդանք</string>
+    <string name="popup_title_jijia">Մեխանիկորեն</string>
+    <string name="popup_title_chilun">Ատամնանիվ</string>
+    <string name="popup_title_cangmen">Խցիկի դուռ</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">Ուշադրություն</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Հնարավոր չէ փակել առջևի տեսախցիկը մի քանի անգամ: Փորձեք ստուգել տեսախցիկը:</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Հնարավոր չէ բացել առջեւի տեսախցիկը մի քանի անգամ: Փորձեք ստուգել տեսախցիկը:</string>
+    <string name="popup_camera_calibrate_running">Առջևի ֆոտոխցիկը չի կարող օգտագործվել տրամաչափման ժամանակ.</string>
+    <string name="popup_camera_calibrate_now">Հաշվարկել</string>
+    <string name="popup_camera_calibrate_failed">Հնարավոր չէ տրամաչափել</string>
+    <string name="popup_camera_calibrate_success">Հաջողությամբ հավաստագրված: Դուք այժմ կարող եք բացել առջևի տեսախցիկը:</string>
+    <string name="stop_operate_camera_frequently">Դուք շատ հաճախ եք բացում առջեւի տեսախցիկը:</string>
+    <string name="takeback_camera_front_failed">Հնարավոր չէ փակել առջեւի տեսախցիկը: Կրկին փորձեք:</string>
+    <string name="popup_camera_front_failed">Հնարավոր չէ բացել առջեւի տեսախցիկը: Կրկին փորձեք:</string>
+    <!-- Title and summary -->
+    <string name="moto_actions_title">Մոտո գործողություններ</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">Սարքի ժեստերը</string>
+    <string name="device_gestures_summary">Կառավարել սարքի ժեստերը</string>
+    <!-- Ambient display gestures -->
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">Մատնահետքի ժեստեր</string>
+    <string name="fingerprint_gestures_summary">Օգտագործել մատնահետքի ժեստեր</string>
+    <string name="fingerprint_gestures_manage_summary">Կառավարել մատնահետքի ժեստերը</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_actions_screenoff">Էկրանի անջատման գործողությունները</string>
+    <!-- Actions -->
+    <string name="action_home">Գլխավոր</string>
+    <string name="action_power">Էկրանը միաց․/անջ․</string>
+    <string name="action_wake">Զարթնել</string>
+    <string name="action_back">Հետ</string>
+    <string name="action_recents">Վերջին</string>
+    <string name="action_last_app">Վերջին հավելվածը</string>
+    <string name="action_volume_up">Ավելացնել ձայնը</string>
+    <string name="action_volume_down">Պակասեցնել ձայնը</string>
+    <string name="action_voice_assistant">Ձայնային օգնական</string>
+    <string name="action_play_pause">Երգել/դադարեցնել</string>
+    <string name="action_previous_track">Նախորդ երգը</string>
+    <string name="action_next_track">Հաջորդ երգը</string>
+    <string name="action_flashlight">Լապտերը միացնել/անջատել</string>
+    <string name="action_camera">Բացել տեսախցիկը</string>
+    <string name="action_screenshot">Վերցնել էկրանի պատկերը</string>
+    <string name="action_browser">Բացել դիտարկիչը</string>
+    <string name="action_dialer">Բացել զարգերը</string>
+    <string name="action_email">Բացել էլ․ փոստի հավելվածը</string>
+    <string name="action_messages">Բացել նամակների հավելվածը</string>
+    <!-- Screen off gestures -->
+    <!-- Swipe/tap/long tap -->
+    <string name="tap_title">Մեկ հպում</string>
+    <string name="double_tap_title">Կրկնակի հպում</string>
+    <string name="long_tap_title">Երկար հպում</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">Հպվեք արթնացնելու համար</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">Միացնել զգայուն սենսորը</string>
+    <!-- OnePlus - General -->
+    <string name="oneplus_advanced_settings">OnePlus Կարգավորումներ</string>
+    <string name="oneplus_advanced_settings_summary">Ձեր սարքի անհատական կարգավորումները</string>
+    <!-- OnePlus - Alert slider settings -->
+    <string name="notification_slider_category_title">Զգուշացման սահունակ</string>
+    <string name="notification_slider_selection_dialog_title">Գործողություն</string>
+    <string name="notification_slider_top_position">Վերին դիրք</string>
+    <string name="notification_slider_middle_position">Միջին դիրք</string>
+    <string name="notification_slider_bottom_position">Ներքին դիրք</string>
+    <string name="notification_slider_mode_total_silence">Լիակատար լռություն</string>
+    <string name="notification_slider_mode_alarms_only">Միայն ազդանշաններ</string>
+    <string name="notification_slider_mode_priority_only">Միայն կարևորները</string>
+    <string name="notification_slider_mode_silent">Լուռ</string>
+    <string name="notification_slider_mode_vibrate">Թրթռալ</string>
+    <string name="notification_slider_mode_none">Նորմալ</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_default">Օպտիմալացված է</string>
+    <string name="thermal_benchmark">Արդյունավետություն</string>
+    <string name="thermal_browser">Դիտարկիչ</string>
+    <string name="thermal_camera">Ֆոտոխցիկ</string>
+    <string name="thermal_dialer">Համարհավաքիչ</string>
+    <string name="thermal_gaming">Խաղեր</string>
+    <string name="thermal_streaming">Հեռարձկման հավելվածներ</string>
+    <!-- Refresh Rate Settings -->
+</resources>

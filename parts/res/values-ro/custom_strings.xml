@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="display_title">Display</string>
+    <string name="dc_dimming_enable_title">Anti-pâlpâire</string>
+    <string name="dc_dimming_enable_summary">Modul anti-flicker ajută la reducerea oboselii ochilor în condiții de lumină slabă, utilizând funcția „DC dimming”. S-ar putea să degradeze precizia culorii și să afecteze modul în care sunt afișate unele elemente.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Anti-pâlpâirea nu este suportată de către nucleu</string>
+    <string name="dirac_title">Mi Sound Amplificator</string>
+    <string name="dirac_summary">Optimizare calitate audio</string>
+    <string name="dirac_headset_title">Alege tipul de căști</string>
+    <string name="dirac_preset_title">Alege o presetare</string>
+    <string name="dirac_hifi_title">Hi-Fi audio</string>
+    <string name="dirac_hifi_summary">Reducerea zgomotului și a distorsiunilor și creșterea calității audio</string>
+    <string name="dirac_hifi_enable_title">Activaţi Hi-Fi</string>
+    <string name="dirac_headset_default">Prestabilite</string>
+    <string name="dirac_headset_earbuds">Căşti în ureche Mi</string>
+    <string name="dirac_headset_in_ear_2013">Căști în ureche Mi (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">General</string>
+    <string name="dirac_headset_general_inear">General în ureche</string>
+    <string name="dirac_headset_piston_basic">Ediție de bază</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Ediție standard</string>
+    <string name="dirac_headset_headphone">Căşti Mi</string>
+    <string name="dirac_headset_piston_youth">Ediție Youth</string>
+    <string name="dirac_headset_piston_color">Ediție Color</string>
+    <string name="dirac_headset_in_ear">Mi în ureche</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ureche Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Se anulează Zgomotul Mi Type C</string>
+    <string name="dirac_headset_cancelling">Se anulează Zgomotul Mi 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ureche 2</string>
+    <string name="dirac_headset_earphone_basic">Căști Mi Basic</string>
+    <string name="dirac_headset_earphone">Căști Mi</string>
+    <string name="dirac_preset_default">Implicit</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Clasic</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Amplificator FX</string>
+    <string name="dirac_preset_country">Țară</string>
+    <string name="dirac_preset_dance">Dance</string>
+    <string name="dirac_preset_metal">Metal</string>
+    <string name="popup_settings_title">Setări cameră pop-up</string>
+    <string name="popup_led_title">Camera LED</string>
+    <string name="popup_led_summary">Afișează lumina LED, atunci când aparatul foto apare și se retrage</string>
+    <string name="popup_sound_title">Efecte sonore</string>
+    <string name="popup_title_muqin">Xylophone</string>
+    <string name="popup_title_yingyan">Condor</string>
+    <string name="popup_title_mofa">Magic</string>
+    <string name="popup_title_jijia">Mecha</string>
+    <string name="popup_title_chilun">Roată dințată</string>
+    <string name="popup_title_cangmen">Ușă cabină</string>
+    <string name="popup_camera_tip">Atenție</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Nu s-a putut închide camera frontală de mai multe ori. Încercați să calibrați camera.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Nu s-a putut deschide camera frontală de mai multe ori. Încercați să calibrați camera.</string>
+    <string name="popup_camera_calibrate_running">Camera frontală nu poate fi utilizată în timpul calibrării.</string>
+    <string name="popup_camera_calibrate_now">Calibrați</string>
+    <string name="popup_camera_calibrate_failed">Nu s-a putut calibra</string>
+    <string name="popup_camera_calibrate_success">Calibrată cu succes. Puteți deschide camera frontală acum.</string>
+    <string name="stop_operate_camera_frequently">Deschideți camera frontală prea frecvent.</string>
+    <string name="takeback_camera_front_failed">Nu s-a putut închide camera frontală. Încercați din nou.</string>
+    <string name="popup_camera_front_failed">Nu s-a putut deschide camera frontală. Încercați din nou.</string>
+    <string name="popup_camera_proximity_obstructed">Înlăturați mâna de pe senzorul de proximitate pentru a deschide camera frontală...</string>
+    <string name="clear_speaker_title">Claritatea sunetului</string>
+    <string name="clear_speaker_summary">Joacă un sunet de 30 sec. pentru claritatea sunetului</string>
+    <string name="clear_speaker_description">Rulați această caracteristică o dată sau de două ori dacă descoperiți că difuzorul dvs. este ușor blocat de praf. Setați volumul media la maxim.\n\n Dacă difuzorul este blocat puternic, rulați această caracteristică de 2-5 ori în timp ce scuturați dispozitivul cu difuzorul orientat în jos.</string>
+    <string name="moto_actions_title">Moto acțiuni</string>
+    <string name="device_gestures_title">Gesturi</string>
+    <string name="device_gestures_summary">Adinistrați gesturile</string>
+    <string name="ambient_display_manage_summary">Administrați gesturile ecranului ambiental</string>
+    <string name="fingerprint_gestures_title">Gesturile scanerului de amprente</string>
+    <string name="fingerprint_gestures_summary">Folosiți gesturile scanerului de amprente</string>
+    <string name="fingerprint_gestures_manage_summary">Administrați gesturile scanerului de amprente</string>
+    <string name="fingerprint_actions_screenon">Acțiuni cu ecranul pornit</string>
+    <string name="fingerprint_gestures_screenoff_title">Gesturile scanerului de amprente când ecranul e oprit</string>
+    <string name="fingerprint_gestures_screenoff_summary">Utilizați gesturile scanrului de amprente când ecranul e oprit.\n\nScanerul de amprente trebuie să fie oprit pentru a folosi această funcție.</string>
+    <string name="fingerprint_actions_screenoff">Acțiuni cu ecranul oprit</string>
+    <string name="action_home">Acasă</string>
+    <string name="action_power">Ecran pornit/oprit</string>
+    <string name="action_wake">Trezește</string>
+    <string name="action_back">Înapoi</string>
+    <string name="action_recents">Recente</string>
+    <string name="action_last_app">Ultima aplicație</string>
+    <string name="action_volume_up">Volum sus</string>
+    <string name="action_volume_down">Volum jos</string>
+    <string name="action_voice_assistant">Asistență vocală</string>
+    <string name="action_play_pause">Redă/pauză</string>
+    <string name="action_previous_track">Piesa anterioară</string>
+    <string name="action_next_track">Piesa următoare</string>
+    <string name="action_flashlight">Lanternă pornită/oprită</string>
+    <string name="action_camera">Deschide camera</string>
+    <string name="action_screenshot">Fă captură de ecran</string>
+    <string name="action_browser">Deschide browser</string>
+    <string name="action_dialer">Deschide telefonul</string>
+    <string name="action_email">Deschide aplicația de email</string>
+    <string name="action_messages">Deschide aplicația de mesaje</string>
+    <string name="screen_off_gestures_manage_summary">Gestionați gesturi pe ecranul oprit</string>
+    <string name="swipe_left_dlg_title">Selectați acțiunea pentru glisarea la stânga</string>
+    <string name="swipe_right_dlg_title">Selectați acțiunea pentru glisarea la dreapta</string>
+    <string name="swipe_up_dlg_title">Selectați acțiunea pentru glisarea în sus</string>
+    <string name="swipe_down_dlg_title">Selectați acțiunea pentru glisarea în jos</string>
+    <string name="tap_title">O singură atingere</string>
+    <string name="double_tap_title">Atingere dublă</string>
+    <string name="long_tap_title">Atingere îndelungată</string>
+    <string name="tap_dlg_title">Selectați acțiunea pentru o singură atingere</string>
+    <string name="double_tap_dlg_title">Selectați acțiunea pentru atingere dublă</string>
+    <string name="long_tap_dlg_title">Selectați acțiunea pentru atingere îndelungată</string>
+    <string name="tap_to_wake">Atingeți pentru trezire</string>
+    <string name="tap_to_wake_summary">Atingeți de două ori oriunde pe ecran pentru a trezi dispozitivul</string>
+    <string name="allow_proximity_sensor_title">Activează senzorul de proximitate</string>
+    <string name="allow_proximity_sensor_summary">Verifică senzorul de proximitate înainte de a efectua acțiunea</string>
+    <string name="oneplus_advanced_settings">Setări OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Setări personalizate pentru dispozitivul dvs.</string>
+    <string name="notification_slider_category_title">Slider de alertă</string>
+    <string name="notification_slider_selection_dialog_title">Acţiune</string>
+    <string name="notification_slider_top_position">Poziția de sus</string>
+    <string name="notification_slider_middle_position">Poziția de mijloc</string>
+    <string name="notification_slider_bottom_position">Poziția de jos</string>
+    <string name="notification_slider_mode_total_silence">Niciun sunet</string>
+    <string name="notification_slider_mode_alarms_only">Doar alarme</string>
+    <string name="notification_slider_mode_priority_only">Doar cu prioritate</string>
+    <string name="notification_slider_mode_silent">Silențios</string>
+    <string name="notification_slider_mode_vibrate">Vibrare</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <string name="thermal_title">Profil optimizare</string>
+    <string name="thermal_summary">Ajustare profiluri per-aplicație pentru performanță optimă</string>
+    <string name="thermal_default">Nicio optimizare</string>
+    <string name="thermal_benchmark">Performanță</string>
+    <string name="thermal_browser">Navigator</string>
+    <string name="thermal_camera">Cameră</string>
+    <string name="thermal_dialer">Telefon</string>
+    <string name="thermal_gaming">Jocuri</string>
+    <string name="thermal_streaming">Aplicații streaming</string>
+    <string name="raise_to_wake_gesture_title">Ridică dispozitivul pentru pornire.</string>
+    <string name="raise_to_wake_gesture_summary">Treziți dispozitivul în loc de notificare pulsantă</string>
+    <string name="device_min_refresh_rate">Rata minimă de reîmprospătare</string>
+    <string name="refresh_rate_settings_title">Rata de actualizare a ecranului</string>
+    <string name="refresh_rate_settings_summary">Modificarea frecvenței ecranului</string>
+    <string name="touch_control_title">Optimizarea ecranului tactil</string>
+    <string name="touch_game_mode_title">Pornirea modului joc</string>
+    <string name="touch_game_mode_summary">Ajută pentru a îmbunătăți experiența de joc prin optimizarea ecranului tactil</string>
+    <string name="touch_response_title">Răspuns la atingere</string>
+    <string name="touch_response_summary">Controtlul răspunsului la atingere</string>
+    <string name="touch_sensitivity_title">Sensibilitatea la atingere</string>
+    <string name="touch_sensitivity_summary">Controlul sensibilității la antigeri repetate</string>
+    <string name="touch_resistant_title">Zona rezistentă la atingere</string>
+    <string name="touch_resistant_summary">Reduce sensibilitatea în apropierea marginilor pentru a preveni atingerile accidentale</string>
+    <string name="home_button_extra_settings">Personalizați comportamentul butonului de pornire</string>
+    <string name="assistant_button_action">Asistent acțiune cheie</string>
+    <string name="stylus_title">Stylus</string>
+</resources>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <!-- Dirac settings -->
+    <string name="dirac_title">Mi Soinu indartzailea</string>
+    <string name="dirac_summary">Audio kalitatea optimizatu</string>
+    <string name="dirac_headset_title">Entzungailu mota aukeratu</string>
+    <string name="dirac_preset_title">Aurrez ezarritakoa aukeratu</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Hi-Fi audioa</string>
+    <string name="dirac_hifi_summary">Zarata eta distortsioa murriztu eta audio kalitatea handitu</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">Lehenetsia</string>
+    <string name="dirac_headset_earbuds">Mi Audiofonoa</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013) </string>
+    <string name="dirac_headset_piston_1">Mi Pistoia-1</string>
+    <string name="dirac_headset_general">Orokorra</string>
+    <string name="dirac_headset_general_inear">In-Ear orokorra</string>
+    <string name="dirac_headset_piston_basic">Oinarrizko Edizioa</string>
+    <string name="dirac_headset_piston_2">Mi Pistoia-2</string>
+    <string name="dirac_headset_piston_standard">Edizio arrunta</string>
+    <string name="dirac_headset_headphone">Mi Entzungailuak</string>
+    <string name="dirac_headset_piston_youth">Gazte Edizioa</string>
+    <string name="dirac_headset_piston_color">Kolore Edizioa</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear </string>
+    <string name="dirac_headset_capsule">Mi Kapsula</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro </string>
+    <string name="dirac_headset_comfort">Mi Comfort </string>
+    <string name="dirac_headset_reduction_noise">Mi Zarata Ezabagailua C-Mota</string>
+    <string name="dirac_headset_cancelling">Mi Zarata Ezabagailua 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half in Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi oinarrizko entzungailuak</string>
+    <string name="dirac_headset_earphone">Mi entzungailuak</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">Lehenetsia</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Klasikoa</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Elektronikoa</string>
+    <string name="dirac_preset_country">Country</string>
+    <string name="dirac_preset_dance">Dance</string>
+    <string name="dirac_preset_metal">Metal</string>
+    <!-- Popup camera settings -->
+    <string name="popup_title_muqin">Xilofonoa</string>
+    <string name="popup_title_yingyan">Kondor</string>
+    <string name="popup_title_mofa">Magikoa</string>
+    <string name="popup_title_jijia">Mecha</string>
+    <string name="popup_title_chilun">Engranajea</string>
+    <string name="popup_title_cangmen">Txabolaren atea</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">Adi</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Ezin izan da aurreko kamera askotan itxi. Saiatu kamera kalibratzen.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Ezin izan da aurreko kamera askotan ireki. Saiatu kamera kalibratzen.</string>
+    <string name="popup_camera_calibrate_running">Aurreko kamera ezin da kalibrazioan erabili.</string>
+    <string name="popup_camera_calibrate_now">Kalibratu</string>
+    <string name="popup_camera_calibrate_failed">Ezin izan da kalibratu</string>
+    <string name="popup_camera_calibrate_success">Arrakastaz kalibratuta. Aurreko kamera orain ireki dezakezu.</string>
+    <string name="stop_operate_camera_frequently">Aurreko kamera maizegi irekitzen ari zara.</string>
+    <string name="takeback_camera_front_failed">Ezin izan da aurreko kamera itxi. Berriro saiatu.</string>
+    <string name="popup_camera_front_failed">Ezin izan da aurreko kamera ireki. Berriro saiatu.</string>
+    <!-- Title and summary -->
+    <string name="moto_actions_title">Moto Ekintzak</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">Mugikorraren keinuak</string>
+    <string name="device_gestures_summary">Mugikorraren keinuak kudeatu</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">Ambient Displai keinuak kudeatu</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">hatz-aztarnaren sentsorea</string>
+    <string name="fingerprint_gestures_summary">Hatz-marken erabilera</string>
+    <string name="fingerprint_gestures_manage_summary">Hatz-marken erabilera</string>
+    <string name="fingerprint_actions_screenon">Pantaila piztuta dagoenean ezkintzak</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">Pantaila hitzalitakin hatz-marka sentsorea</string>
+    <string name="fingerprint_gestures_screenoff_summary">Erabili hatz-marka sentsorea pantaila itzalita dagoenean. \n \n Ezaugarri hau erabili ahal izateko hatz-marka bidez mugikorra desblokeatzeko ezgaituta egon behar da.</string>
+    <string name="fingerprint_actions_screenoff">Pantaila itzalitakin ekintzak</string>
+    <!-- Actions -->
+    <string name="action_home">Etxea</string>
+    <string name="action_power">Pantaila piztu/itzali</string>
+    <string name="action_wake">Esnatu</string>
+    <string name="action_back">Atzera</string>
+    <string name="action_recents">Azkenak</string>
+    <string name="action_last_app">Azken aplikazioa</string>
+    <string name="action_volume_up">Bolumena Igo</string>
+    <string name="action_volume_down">Bolumena jaitzi</string>
+    <string name="action_voice_assistant">Ahots laguntzailea</string>
+    <string name="action_play_pause">Hasi/eten</string>
+    <string name="action_previous_track">Aurreko pista</string>
+    <string name="action_next_track">Hurrengo pista</string>
+    <string name="action_flashlight">Linterna piztu/itzali</string>
+    <string name="action_camera">Ireki kamera</string>
+    <string name="action_screenshot">Pantaila-argazkia egin</string>
+    <string name="action_browser">Nabigatzailean ireki</string>
+    <string name="action_dialer">Markagailua ireki</string>
+    <string name="action_email">Ireki email-aren aplikazioa</string>
+    <string name="action_messages">Ireki mezuak</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">Kudeatu keinuak pantaila itzalita dagoenean</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">Ze gertatzen ezkerrerantz irristatzerakoan</string>
+    <string name="swipe_right_dlg_title">Ze gertatzen ezkerrerantz irristatzerakoan</string>
+    <string name="swipe_up_dlg_title">Ze gertatzen gorantz irristatzerakoan</string>
+    <string name="swipe_down_dlg_title">Ze gertatzen beraka irristatzerakoan</string>
+    <string name="tap_title">Ukitu bat</string>
+    <string name="double_tap_title">Bi ikutu</string>
+    <string name="long_tap_title">Luze sakatu</string>
+    <string name="tap_dlg_title">Ze gertatzen da ukitu bat egiterakoan</string>
+    <string name="double_tap_dlg_title">Ze gertatzen da bi ukitukin</string>
+    <string name="long_tap_dlg_title">Ze gertatzen da luze sakatzerakoan</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">Sakatu aktibatzeko</string>
+    <string name="tap_to_wake_summary">Sakatu birritan pantailako edozein puntu gailua aktibatzeko</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">Gertutasun sentsorea gaitu</string>
+    <string name="allow_proximity_sensor_summary">Gertutasun sentsorea egiaztatu ekintza egin bano lehen</string>
+    <!-- OnePlus - General -->
+    <string name="oneplus_advanced_settings">OnePlus ezarpenak</string>
+    <string name="oneplus_advanced_settings_summary">Zure mugikorrentzako ezarpen pertsonalizatuak</string>
+    <!-- OnePlus - Alert slider settings -->
+    <string name="notification_slider_selection_dialog_title">Ekintza</string>
+    <string name="notification_slider_top_position">Goian</string>
+    <string name="notification_slider_middle_position">Erdian</string>
+    <string name="notification_slider_bottom_position">Behean</string>
+    <string name="notification_slider_mode_total_silence">Isiltasun osoa</string>
+    <string name="notification_slider_mode_priority_only">Lehentasunak bakarrik</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Optimizazio profila</string>
+    <string name="thermal_default">Optimizaziorik gabe</string>
+    <string name="thermal_benchmark">Errendimendua</string>
+    <string name="thermal_browser">Nabigatzailea</string>
+    <string name="thermal_camera">Kamera</string>
+    <string name="thermal_dialer">Markatzailea</string>
+    <string name="thermal_gaming">Jokoak</string>
+    <!-- Refresh Rate Settings -->
+</resources>

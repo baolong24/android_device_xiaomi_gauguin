@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <!-- Dirac settings -->
+    <string name="dirac_title">Mi ಧ್ವನಿ ಎನ್‌ಹ್ಯಾನ್ಸರ್‌‌</string>
+    <string name="dirac_summary">ಆಡಿಯೊ ಗುಣಮಟ್ಟ ಆಪ್ಟಿಮೈಸ್ ಮಾಡಿ</string>
+    <string name="dirac_headset_title">ಹೆಡ್‌‌ಫೋನ್‌ಗಳ ವಿಧವನ್ನು ಆರಿಸಿ</string>
+    <string name="dirac_preset_title">ಪ್ರೀಸೆಟ್ ಆರಿಸಿ</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">ಹೈ-ಫೈ ಆಡಿಯೋ</string>
+    <string name="dirac_hifi_summary">ಗದ್ದಲ ಮತ್ತು ಅಡೆತಡೆಗಳನ್ನು ಕಡಿಮೆ ಮಾಡಿ ಹಾಗೂ ಧ್ವನಿಯ ಗುಣಮಟ್ಟ ಹೆಚ್ಚಿಸಿ</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">ಡಿಫಾಲ್ಟ್</string>
+    <string name="dirac_headset_earbuds">Mi ಇಯರ್‌‌ಬಡ್ಸ್</string>
+    <string name="dirac_headset_in_ear_2013">Mi ಇನ್‌-ಇಯರ್‌ (2013)</string>
+    <string name="dirac_headset_piston_1">Mi ಪಿಸ್ಟನ್-1</string>
+    <string name="dirac_headset_general">ಸಾಮಾನ್ಯ</string>
+    <string name="dirac_headset_general_inear">ಸಾಮಾನ್ಯ ಇನ್-ಇಯರ್</string>
+    <string name="dirac_headset_piston_basic">ಮೂಲ ಆವೃತ್ತಿ</string>
+    <string name="dirac_headset_piston_2">Mi ಪಿಸ್ಟನ್-2</string>
+    <string name="dirac_headset_piston_standard">ಪ್ರಮಾಣಿತ ಆವೃತ್ತಿ</string>
+    <string name="dirac_headset_headphone">Mi ಹೆಡ್‌ಫೋನ್‌ಗಳು</string>
+    <string name="dirac_headset_piston_youth">ಯುವ ಆವೃತ್ತಿ</string>
+    <string name="dirac_headset_piston_color">ಬಣ್ಣದ ಆವೃತ್ತಿ</string>
+    <string name="dirac_headset_in_ear">Mi ಇನ್-ಇಯರ್</string>
+    <string name="dirac_headset_capsule">Mi ಕ್ಯಾಪ್ಸೂಲ್</string>
+    <string name="dirac_headset_in_ear_pro">Mi ಇನ್‌-ಇಯರ್‌ ಪ್ರೋ</string>
+    <string name="dirac_headset_comfort">Mi ಕಂಫರ್ಟ್‌</string>
+    <string name="dirac_headset_reduction_noise">Mi ಸದ್ದು ರದ್ದುಗೊಳಿಸುವಿಕೆ ಪ್ರಕಾರ-C</string>
+    <string name="dirac_headset_cancelling">Mi ಸದ್ದು ರದ್ದುಗೊಳಿಸುವಿಕೆ 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi ಹಾಫ್ ಇನ್ ಇಯರ್</string>
+    <string name="dirac_headset_in_ear2">Mi ಇನ್‌-ಇಯರ್‌ 2</string>
+    <string name="dirac_headset_earphone_basic">Mi ಇಯರ್ಫೋನ್ಸ್ ಬೇಸಿಕ್</string>
+    <string name="dirac_headset_earphone">Mi ಇಯರ್‌ಫೋನ್‌ಗಳು</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">ಡೀಫಾಲ್ಟ್‌</string>
+    <string name="dirac_preset_rock">ರಾಕ್</string>
+    <string name="dirac_preset_jazz">ಜಾಝ್</string>
+    <string name="dirac_preset_pop">ಪಾಪ್</string>
+    <string name="dirac_preset_classical">ಕ್ಲಾಸಿಕಲ್‌</string>
+    <string name="dirac_preset_hiphop">ಹಿಪ್ ಹಾಪ್</string>
+    <string name="dirac_preset_blues">ಬ್ಲೂಸ್</string>
+    <string name="dirac_preset_electronic">ಎಲೆಕ್ಟ್ರಾನಿಕ್</string>
+    <string name="dirac_preset_country">ದೇಶೀಯ</string>
+    <string name="dirac_preset_dance">ಡ್ಯಾನ್ಸ್</string>
+    <string name="dirac_preset_metal">ಮೆಟಲ್‌</string>
+    <!-- Popup camera settings -->
+    <string name="popup_title_muqin">ಕ್ಸೈಲೋಫೋನ್‌</string>
+    <string name="popup_title_yingyan">ಕೊಂಡೊರ್‌</string>
+    <string name="popup_title_mofa">ಮ್ಯಾಜಿಕ್‌</string>
+    <string name="popup_title_jijia">ಮೆಚಾ</string>
+    <string name="popup_title_chilun">ಗೇರ್‌ವೀಲ್‌</string>
+    <string name="popup_title_cangmen">ಕ್ಯಾಬಿನ್‌ ಡೋರ್‌</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">ಗಮನಕ್ಕೆ</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">ಮುಂಬದಿ ಕ್ಯಾಮರಾವನ್ನು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಬಾರಿ ಮುಚ್ಚಲು ಆಗುತ್ತಿಲ್ಲ. ಕ್ಯಾಮರಾ ಕ್ಯಾಲಿಬ್ರೇಟ್‌ ಮಾಡಿ.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">ಮುಂಬದಿ ಕ್ಯಾಮರಾವನ್ನು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಬಾರಿ ತೆರೆಯಲು ಆಗುತ್ತಿಲ್ಲ. ಕ್ಯಾಮರಾ ಕ್ಯಾಲಿಬ್ರೇಟ್‌ ಮಾಡಿ.</string>
+    <string name="popup_camera_calibrate_now">ಕ್ಯಾಲಿಬ್ರೇಟ್‌</string>
+    <string name="popup_camera_calibrate_failed">ಕ್ಯಾಲಿಬ್ರೇಟ್ ಆಗುತ್ತಿಲ್ಲ</string>
+    <string name="popup_camera_calibrate_success">ಕ್ಯಾಲಿಬ್ರೇಟ್‌ ಆಗಿದೆ. ನೀವೀಗ ಮುಂಬದಿ ಕ್ಯಾಮರಾ ತೆರೆಯಬಹುದು.</string>
+    <string name="stop_operate_camera_frequently">ಮುಂದಿನ ಕ್ಯಾಮರಾವನ್ನು ತುಂಬಾ ಸರಿ ತೆರೆಯುತ್ತಿದ್ದೀರಿ.</string>
+    <string name="takeback_camera_front_failed">ಮುಂಬದಿ ಕ್ಯಾಮರಾ ಮುಚ್ಚಲು ಆಗಲಿಲ್ಲ. ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="popup_camera_front_failed">ಮುಂಬದಿ ಕ್ಯಾಮರಾ ತೆರೆಯುತ್ತಿಲ್ಲ. ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <!-- Title and summary -->
+    <string name="moto_actions_title">ಮೋಟೋ ಕ್ರಿಯೆಗಳು</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">ಡಿವೈಸ್ ಗೆಸ್ಟುರ್ಸ್</string>
+    <string name="device_gestures_summary">ಡಿವೈಸ್ ಗೆಸ್ಟುರ್ಸ್ಗಳನ್ನೂ ನಿರ್ವಹಿಸು</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">ಸುತ್ತಲಿನ ಪ್ರದರ್ಶನ ಸನ್ನೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">ಬೆರಳಚ್ಚು ಸನ್ನೆಗಳು</string>
+    <string name="fingerprint_gestures_summary">ಬೆರಳಚ್ಚು ಸನ್ನೆಗಳನ್ನು ಉಪಯೋಗಿಸಿ</string>
+    <string name="fingerprint_gestures_manage_summary">ಬೆರಳಚ್ಚು ಸನ್ನೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ</string>
+    <string name="fingerprint_actions_screenon">ಪರದೆ ಆನ್ ಇರುವಾಗ ಕ್ರಮಗಳು</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">ಪರದೆ ಆಫ್ ಇರುವಾಗ ಸನ್ನೆಗಳು</string>
+    <string name="fingerprint_gestures_screenoff_summary">ಪರದೆ ಆಫ್ ಇರುವಾಗ ಬೆರಳಚ್ಚು ಸನ್ನೆಯನ್ನು ಉಪಯೋಗಿಸಿ.\n\nಈ ವಿಶೇಷತೆಯನ್ನು ಉಪಯೋಗಿಸಲು ಬೆರಳಚ್ಚು ಅನ್ಲಾಕ್ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿರಬೇಕು.</string>
+    <string name="fingerprint_actions_screenoff">ಪರದೆ ಆಫ್ ಇರುವಾಗ ಕ್ರಮಗಳು</string>
+    <!-- Actions -->
+    <string name="action_home">ಮುಖಪುಟ</string>
+    <string name="action_power">ಸ್ಕ್ರೀನ್ ಆನ್ / ಆಫ್</string>
+    <string name="action_wake">ಎಬ್ಬಿಸು</string>
+    <string name="action_back">ಹಿಂದೆ</string>
+    <string name="action_recents">ಇತ್ತೀಚಿನ</string>
+    <string name="action_last_app">ಕೊನೆಯ ಅಪ್ಲಿಕೇಶನ್</string>
+    <string name="action_volume_up">ಧ್ವನಿ/ಸದ್ದು ಹೆಚ್ಚಿಸು</string>
+    <string name="action_volume_down">ಧ್ವನಿ/ಸದ್ದು ತಗ್ಗಿಸು</string>
+    <string name="action_voice_assistant">ಧ್ವನಿ ಸಹಾಯಕ</string>
+    <string name="action_play_pause">ನುಡಿಸು / ವಿರಾಮ</string>
+    <string name="action_previous_track">ಹಿಂದಿನ ಹಾಡು</string>
+    <string name="action_next_track">ಮುಂದಿನ ಹಾಡು</string>
+    <string name="action_flashlight">ಫ್ಲ್ಯಾಶ್ಲೈಟ್ ಆನ್/ಆಫ್</string>
+    <string name="action_camera">ಕ್ಯಾಮೆರಾ ತೆಗೆ</string>
+    <string name="action_screenshot">ಸ್ಕ್ರೀನ್‌ಶಾಟ್‌ ತೆಗೆಯಿರಿ</string>
+    <string name="action_browser">ಬ್ರೌಸರ್ ತೆಗೆ</string>
+    <string name="action_dialer">ಡೈಲರ್ ತೆರೆಯಿರಿ</string>
+    <string name="action_email">ಇಮೇಲ್ ಅಪ್ಲಿಕೇಶನ್ ತೆರೆಯಿರಿ</string>
+    <string name="action_messages">ಸಂದೇಶ ಅಪ್ಲಿಕೇಶನ್ ತೆರೆಯಿರಿ</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">ಪರದೆ ಆಫ್ ಇರುವಾಗ ಸನ್ನೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">ಎಡಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಲು ಕ್ರಿಯೆಯಾನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="swipe_right_dlg_title">ಬಲಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಲು ಕ್ರಿಯೆಯಾನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="swipe_up_dlg_title">ಮೇಲಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಲು ಕ್ರಿಯೆಯಾನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="swipe_down_dlg_title">ಕೆಳಗೆ ಸ್ವೈಪ್ ಮಾಡಲು ಕ್ರಿಯೆಯಾನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="tap_title">ಒಂದು ಬಾರಿ ಟ್ಯಾಪ್</string>
+    <string name="double_tap_title">ಎರಡು ಬಾರಿ ಸ್ಪರ್ಷಿಸು</string>
+    <string name="long_tap_title">ಧೀರ್ಘ ಒತ್ತು</string>
+    <string name="tap_dlg_title">ಒಂದು ಬಾರಿ ಟ್ಯಾಪ್ ನ ಕ್ರಮಗಳು</string>
+    <string name="double_tap_dlg_title">ಎರಡು ಬಾರಿ ಸ್ಪರ್ಶದ ಕ್ರಮಗಳು</string>
+    <string name="long_tap_dlg_title">ದೀರ್ಘ ಒತ್ತುವಿಕೆಯ ಕ್ರಮಗಳು</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">ಎಚ್ಚರಗೊಳಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+    <string name="tap_to_wake_summary">ಸಾಧನವನ್ನು ಎಚ್ಚರಗೊಳಿಸಲು ಪರದೆಯ ಯಾವುದೇ ಭಾಗದಲ್ಲಿ ಎರಡು ಬಾರಿ ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">ಸಾಮೀಪ್ಯ ಸೆನ್ಸರ್ ಅನ್ನು ಅನುಮತಿಸಿ</string>
+    <string name="allow_proximity_sensor_summary">ಕ್ರಿಯೆಯನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮುನ್ನ ಸಾಮೀಪ್ಯ ಸೆನ್ಸರ್ ಅನ್ನು ಪರಿಶೀಲಿಸಿ</string>
+    <!-- OnePlus - General -->
+    <string name="oneplus_advanced_settings">ಒನ್‌ಪ್ಲಸ್ ಸಂಯೋಜನೆಗಳು</string>
+    <string name="oneplus_advanced_settings_summary">ನಿಮ್ಮ ಸಾಧನಕ್ಕೆ ಕಸ್ಟಮ್ ಸಂಯೋಜನೆಗಳು</string>
+    <!-- OnePlus - Alert slider settings -->
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Kannada</string>
+    <!-- Refresh Rate Settings -->
+</resources>

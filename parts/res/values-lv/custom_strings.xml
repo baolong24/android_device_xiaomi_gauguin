@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="dirac_summary">Optimizēt audio kvalitāti</string>
+    <string name="dirac_headset_title">Izvēlieties austiņu tipu</string>
+    <string name="dirac_preset_title">Izvēlēties iestatījumus</string>
+    <string name="dirac_hifi_title">Hi-Fi audio</string>
+    <string name="dirac_hifi_summary">Samazināt troksni un kropļojumu, un palielināt audio kvalitāti</string>
+    <string name="dirac_headset_default">Noklusējuma</string>
+    <string name="dirac_headset_general">Vispārīgi</string>
+    <string name="dirac_headset_general_inear">Vispārīgas ausīs liekamas</string>
+    <string name="dirac_headset_piston_basic">Pamata modelis</string>
+    <string name="dirac_headset_piston_standard">Standarta modelis</string>
+    <string name="dirac_headset_piston_youth">Jauniešu modelis</string>
+    <string name="dirac_headset_piston_color">Krāsu modelis</string>
+    <string name="dirac_headset_reduction_noise">Mi Trokšņu Slāpēšana Tips-C</string>
+    <string name="dirac_headset_cancelling">Mi trokšņu slāpēšana 3.5mm</string>
+    <string name="dirac_preset_default">Noklusējums</string>
+    <string name="dirac_preset_rock">Roks</string>
+    <string name="dirac_preset_jazz">Džezs</string>
+    <string name="dirac_preset_pop">Popmūzika</string>
+    <string name="dirac_preset_classical">Klasiskā mūzika</string>
+    <string name="dirac_preset_hiphop">Hiphops</string>
+    <string name="dirac_preset_blues">Blūzs</string>
+    <string name="dirac_preset_electronic">Elektroniskā mūzika</string>
+    <string name="dirac_preset_country">Kantrī mūzika</string>
+    <string name="dirac_preset_dance">Deju mūzika</string>
+    <string name="dirac_preset_metal">Metāls</string>
+    <string name="popup_title_muqin">Ksilofons</string>
+    <string name="popup_title_yingyan">Kondors</string>
+    <string name="popup_title_mofa">Maģija</string>
+    <string name="popup_title_jijia">Meka</string>
+    <string name="popup_title_chilun">Zobrats</string>
+    <string name="popup_title_cangmen">Kabīnes durvis</string>
+    <string name="popup_camera_tip">Uzmanību</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Vairākas reizes neizdevās aizvērt priekšējo kameru. Mēģiniet kalibrēt kameru.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Vairākas reizes neizdevās atvērt priekšējo kameru. Mēģiniet kalibrēt kameru.</string>
+    <string name="popup_camera_calibrate_running">Priekšējo kameru nevar izmantot kalibrēšanas laikā.</string>
+    <string name="popup_camera_calibrate_now">Kalibrēt</string>
+    <string name="popup_camera_calibrate_failed">Kalibrēšana neizdevās</string>
+    <string name="popup_camera_calibrate_success">Veiksmīgi kalibrēts. Tagad varat atvērt priekšējo kameru.</string>
+    <string name="stop_operate_camera_frequently">Pārāk bieži tiek atvērta priekšējā kamera.</string>
+    <string name="takeback_camera_front_failed">Neizdevās aizvērt priekšējo kameru. Mēģināt vēlreiz.</string>
+    <string name="popup_camera_front_failed">Neizdevās atvērt priekšējo kameru. Mēģināt vēlreiz.</string>
+    <string name="action_home">Sākums</string>
+    <string name="action_power">Ekrāns ieslēgts/izslēgts</string>
+    <string name="action_wake">Pamodināt</string>
+    <string name="action_back">Atpakaļ</string>
+    <string name="action_recents">Pēdējie</string>
+    <string name="action_last_app">Pēdējā lietotne</string>
+    <string name="action_volume_up">Skaļāk</string>
+    <string name="action_volume_down">Klusāk</string>
+    <string name="action_voice_assistant">Balss palīgs</string>
+    <string name="action_play_pause">Atskaņošana/pauze</string>
+    <string name="action_previous_track">Iepriekšējā dziesma</string>
+    <string name="action_next_track">Nākamā dziesma</string>
+    <string name="action_flashlight">Lukturis ieslēgts/izslēgts</string>
+    <string name="action_camera">Atvērt kameru</string>
+    <string name="tap_title">Pieskāriens</string>
+    <string name="double_tap_title">Dubultpieskāriens</string>
+    <string name="long_tap_title">Ilgs pieskāriens</string>
+    <string name="oneplus_advanced_settings">OnePlus Iestatījumi</string>
+    <string name="oneplus_advanced_settings_summary">Iestatījumi īpaši tavai ierīcei</string>
+</resources>

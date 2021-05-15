@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="dc_dimming_enable_title">Anti-parpelleig</string>
+    <string name="dirac_title">Potenciador de so Mi</string>
+    <string name="dirac_summary">Optimitza la qualitat d\'àudio</string>
+    <string name="dirac_headset_title">Seleccioneu el tipus d\'auriculars</string>
+    <string name="dirac_preset_title">Trieu una configuració per defecte</string>
+    <string name="dirac_hifi_title">Àudio Hi-Fi</string>
+    <string name="dirac_hifi_summary">Redueix el soroll, la distorsió i augmenta la qualitat d\'àudio</string>
+    <string name="dirac_hifi_enable_title">Habilita el Hi-Fi</string>
+    <string name="dirac_headset_default">Predeterminada</string>
+    <string name="dirac_headset_earbuds">Mi</string>
+    <string name="dirac_headset_general_inear">In-ear normals</string>
+    <string name="dirac_headset_piston_basic">Edició Bàsica</string>
+    <string name="dirac_headset_piston_standard">Edició Estàndard</string>
+    <string name="dirac_headset_headphone">Mi Auriculars</string>
+    <string name="dirac_headset_piston_youth">Edició Jove</string>
+    <string name="dirac_headset_piston_color">Edició de color</string>
+    <string name="dirac_headset_in_ear">Mi in-ear</string>
+    <string name="dirac_headset_reduction_noise">Cancel·la sorolls Mi Tipus C</string>
+    <string name="dirac_headset_cancelling">Cancel·la sorolls Mi 3.5mm</string>
+    <string name="dirac_headset_earphone_basic">Auriculars Mi Bàsic</string>
+    <string name="dirac_headset_earphone">Mi Auriculars</string>
+    <string name="dirac_preset_default">Per defecte</string>
+    <string name="dirac_preset_classical">Clàssica</string>
+    <string name="dirac_preset_electronic">Electrònica</string>
+    <string name="dirac_preset_metal">Metall</string>
+    <string name="popup_settings_title">Configuració de la càmera Pop-up</string>
+    <string name="popup_led_title">LED de la càmera</string>
+    <string name="popup_led_summary">Mostra l\'animació LED quan la càmera frontal apareix i es retreu</string>
+    <string name="popup_sound_title">Efectes de so</string>
+    <string name="popup_title_muqin">Xilòfon</string>
+    <string name="popup_title_yingyan">Còndor</string>
+    <string name="popup_title_mofa">Màgia</string>
+    <string name="popup_title_jijia">Mecànic</string>
+    <string name="popup_title_chilun">Engranatge</string>
+    <string name="popup_title_cangmen">Porta de cabanya</string>
+    <string name="popup_camera_tip">Avís</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">No s’ha pogut tancar la càmera frontal diverses vegades. Intenteu calibrar la càmera.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">No s’ha pogut obrir la càmera frontal diverses vegades. Intenteu calibrar la càmera.</string>
+    <string name="popup_camera_calibrate_running">La càmera frontal no es pot utilitzar durant la calibració.</string>
+    <string name="popup_camera_calibrate_now">Calibreu</string>
+    <string name="popup_camera_calibrate_failed">No s\'ha pogut calibrar</string>
+    <string name="popup_camera_calibrate_success">Calibrat correctament. Podeu obrir la càmera frontal ara.</string>
+    <string name="stop_operate_camera_frequently">Obriu la càmera frontal amb massa freqüència.</string>
+    <string name="takeback_camera_front_failed">No s’ha pogut tancar la càmera frontal. Proveu-ho de nou.</string>
+    <string name="popup_camera_front_failed">No s’ha pogut obrir la càmera frontal. Proveu-ho de nou.</string>
+    <string name="popup_camera_proximity_obstructed">Traieu la mà del sensor de proximitat per obrir la càmera frontal...</string>
+    <string name="moto_actions_title">Accions Moto</string>
+    <string name="device_gestures_title">Gestos del dispositiu</string>
+    <string name="device_gestures_summary">Gestionar els gestos del dispositiu</string>
+    <string name="ambient_display_manage_summary">Gestionar gestos de la pantalla ambient</string>
+    <string name="fingerprint_gestures_title">Gestos d\'empremta digital</string>
+    <string name="fingerprint_gestures_summary">Utilitzar els gestos d\'empremta digital</string>
+    <string name="fingerprint_gestures_manage_summary">Gestionar els gestos d\'empremta digital</string>
+    <string name="fingerprint_actions_screenon">Accions amb la pantalla encesa</string>
+    <string name="fingerprint_gestures_screenoff_title">Gestos de l\'empremta digital amb la pantalla apagada</string>
+    <string name="fingerprint_gestures_screenoff_summary">Utilitzar els gestos d\'empremta digital amb la pantalla apagada.\n\nEl desbloqueig amb empremta ha de ser desactivat per a utilitzar aquesta funció.</string>
+    <string name="fingerprint_actions_screenoff">Accions amb la pantalla apagada</string>
+    <string name="action_home">Inici</string>
+    <string name="action_power">Pantalla encesa/apagada</string>
+    <string name="action_wake">Desperta</string>
+    <string name="action_back">Enrere</string>
+    <string name="action_last_app">Última aplicació</string>
+    <string name="action_volume_up">Pujar el volum</string>
+    <string name="action_volume_down">Baixar el volum</string>
+    <string name="action_voice_assistant">Assistent de veu</string>
+    <string name="action_play_pause">Reprodueix/pausa</string>
+    <string name="action_previous_track">Pista anterior</string>
+    <string name="action_next_track">Pista posterior</string>
+    <string name="action_flashlight">Llanterna encesa/apagada</string>
+    <string name="action_camera">Obre la càmera</string>
+    <string name="action_screenshot">Pren una captura de pantalla</string>
+    <string name="action_browser">Obre el navegador</string>
+    <string name="action_dialer">Obre el marcador</string>
+    <string name="action_email">Obre l\'aplicació de correu</string>
+    <string name="action_messages">Obre l\'aplicació de missatges</string>
+    <string name="screen_off_gestures_manage_summary">Gestionar els gestos amb la pantalla apagada</string>
+    <string name="swipe_left_dlg_title">Selecciona una acció per a lliscar a l\'esquerra</string>
+    <string name="swipe_right_dlg_title">Selecciona una acció per a lliscar a la dreta</string>
+    <string name="swipe_up_dlg_title">Selecciona una acció per a lliscar amunt</string>
+    <string name="swipe_down_dlg_title">Selecciona una acció per a lliscar avall</string>
+    <string name="tap_title">Un toc</string>
+    <string name="double_tap_title">Doble toc</string>
+    <string name="long_tap_title">Pulsació llarga</string>
+    <string name="tap_dlg_title">Selecciona l\'acció per a un toc</string>
+    <string name="double_tap_dlg_title">Selecciona l\'acció per a doble toc</string>
+    <string name="long_tap_dlg_title">Selecciona una acció per a la pulsació allargada</string>
+    <string name="tap_to_wake">Toca per activar</string>
+    <string name="tap_to_wake_summary">Doble toc a la pantalla per a activar el dispositiu</string>
+    <string name="allow_proximity_sensor_title">Habilita el sensor de proximitat</string>
+    <string name="allow_proximity_sensor_summary">Comprovar el sensor de proximitat abans d\'executar l\'acció</string>
+    <string name="oneplus_advanced_settings">Configuració OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Configuració personalitzada del dispositiu</string>
+    <string name="notification_slider_selection_dialog_title">Acció</string>
+    <string name="notification_slider_top_position">Posició superior</string>
+    <string name="notification_slider_middle_position">Posició mitjana</string>
+    <string name="notification_slider_bottom_position">Posició inferior</string>
+    <string name="notification_slider_mode_total_silence">Silenci total</string>
+    <string name="notification_slider_mode_priority_only">Només prioritat</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <string name="thermal_title">Perfil d\'optimització</string>
+    <string name="thermal_default">Sense optimització</string>
+    <string name="thermal_benchmark">Rendiment</string>
+    <string name="thermal_browser">Navegador</string>
+    <string name="thermal_camera">Càmera</string>
+    <string name="thermal_dialer">Marcador</string>
+    <string name="thermal_gaming">Jocs</string>
+    <string name="device_min_refresh_rate">Freqüència de refresc mínima</string>
+    <string name="refresh_rate_settings_title">Freqüència d\'actualització de la pantalla </string>
+</resources>

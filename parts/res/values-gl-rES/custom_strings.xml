@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Pantalla</string>
+    <string name="dc_dimming_enable_title">Anti pestanexo</string>
+    <string name="dc_dimming_enable_summary">O modo anti-pestanexo axuda a diminuir o cansazo ocular en condicións de pouca luz mediante a función de \"escurecemento DC\".  Pode degradar a precisión da cor e afectar ao xeito en que se amosan algúns elementos.</string>
+    <!-- Dirac settings -->
+    <string name="dirac_title">Potenciador Mi Sound</string>
+    <string name="dirac_summary">Optimizar a calidade do son</string>
+    <string name="dirac_headset_title">Seleccionar o tipo de auriculares</string>
+    <string name="dirac_preset_title">Elixir un predefinido</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Son Hi-Fi</string>
+    <string name="dirac_hifi_summary">Reducir o ruído e a distorsión e aumentar a calidade do son</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">Predeterminado</string>
+    <string name="dirac_headset_earbuds">Mi Earbuds</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">Xeral</string>
+    <string name="dirac_headset_general_inear">Manos libres xeral</string>
+    <string name="dirac_headset_piston_basic">Edición básica</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Edición estándar</string>
+    <string name="dirac_headset_headphone">Auriculares Mi</string>
+    <string name="dirac_headset_piston_youth">Edición mocidade</string>
+    <string name="dirac_headset_piston_color">Edición a cor</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Cancelación de Mi Noise TipoC</string>
+    <string name="dirac_headset_cancelling">Cancelación de Mi Noise 3,5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Auriculares básicos Mi</string>
+    <string name="dirac_headset_earphone">Auriculares Mi</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">Predefinido</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Clásica</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Electrónica</string>
+    <string name="dirac_preset_country">Country</string>
+    <string name="dirac_preset_dance">Dance</string>
+    <string name="dirac_preset_metal">Metal</string>
+    <!-- Popup camera settings -->
+    <string name="popup_settings_title">Elemento emerxente de axustes da cámara </string>
+    <string name="popup_led_title">Cámara LED</string>
+    <string name="popup_led_summary">Amosar luz LED cando aparece a cámara frontal e se retrae</string>
+    <string name="popup_sound_title">Efectos de son</string>
+    <string name="popup_title_muqin">Xilófono</string>
+    <string name="popup_title_yingyan">Cóndor</string>
+    <string name="popup_title_mofa">Maxia</string>
+    <string name="popup_title_jijia">Mecha</string>
+    <string name="popup_title_chilun">Roda dentada</string>
+    <string name="popup_title_cangmen">Porta de cabina</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">Atención</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Non se puido pechar a cámara frontal varias veces. Tenta calibrar a cámara.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Non se puido abrir a cámara frontal varias veces. Tenta calibrar a cámara.</string>
+    <string name="popup_camera_calibrate_running">A cámara frontal non se pode usar durante a calibración.</string>
+    <string name="popup_camera_calibrate_now">Calibrar</string>
+    <string name="popup_camera_calibrate_failed">Non foi posible calibrar</string>
+    <string name="popup_camera_calibrate_success">Calibrada correctamente. Agora podes abrir a cámara frontal.</string>
+    <string name="stop_operate_camera_frequently">Estás abrindo a cámara frontal con moita frecuencia.</string>
+    <string name="takeback_camera_front_failed">Non foi posible pechar a cámara frontal. Téntao de novo.</string>
+    <string name="popup_camera_front_failed">Non foi posible abrir a cámara frontal. Téntao de novo.</string>
+    <string name="popup_camera_proximity_obstructed">Quite a súa man do sensor de proximidade para abrir a cámara frontal ...</string>
+    <!-- Title and summary -->
+    <string name="moto_actions_title">Accións Moto</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">Xestos do dispositivo</string>
+    <string name="device_gestures_summary">Xestionar Xestos do dispositivo</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">Xestos da pantalla ambiente</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">Xestos pegada dactilar</string>
+    <string name="fingerprint_gestures_summary">Usar xestos da pegada dactilar</string>
+    <string name="fingerprint_gestures_manage_summary">Xestionar Xestos da pegada dactilar</string>
+    <string name="fingerprint_actions_screenon">Accións coa pantalla acesa</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">Xestos da pegada dactilar cando a pantalla está apagada</string>
+    <string name="fingerprint_gestures_screenoff_summary">Usa xestos da pegada dactilar cando a pantalla está desactivada. \n\nO desbloqueo da pegada dactilar debe estar desactivado para usar esta función.</string>
+    <string name="fingerprint_actions_screenoff">Accións coa pantalla apagada</string>
+    <!-- Actions -->
+    <string name="action_home">Inicio</string>
+    <string name="action_power">Acender/Apagar pantalla</string>
+    <string name="action_wake">Despertar</string>
+    <string name="action_back">Atrás</string>
+    <string name="action_recents">Recentes</string>
+    <string name="action_last_app">Último aplicativo</string>
+    <string name="action_volume_up">Subir volume</string>
+    <string name="action_volume_down">Baixar volume</string>
+    <string name="action_voice_assistant">Asistente de voz</string>
+    <string name="action_play_pause">Reproducir/Pausar</string>
+    <string name="action_previous_track">Canción anterior</string>
+    <string name="action_next_track">Seguinte canción</string>
+    <string name="action_flashlight">Lanterna acesa/apagada</string>
+    <string name="action_camera">Abrir cámara</string>
+    <string name="action_screenshot">Capturar pantalla</string>
+    <string name="action_browser">Abrir navegador</string>
+    <string name="action_dialer">Abrir o marcador</string>
+    <string name="action_email">Abrir a app do correo electrónico</string>
+    <string name="action_messages">Abrir a app da mensaxería</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">Xestionar xestos cando a pantalla se atope apagada</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">Seleccionar acción pra esvarar a esquerda</string>
+    <string name="swipe_right_dlg_title">Seleccionar acción pra esvarar a dereita</string>
+    <string name="swipe_up_dlg_title">Seleccionar acción pra esvarar cara enriba</string>
+    <string name="swipe_down_dlg_title">Seleccionar acción pra esvarar cara embaixo</string>
+    <string name="tap_title">Un toque</string>
+    <string name="double_tap_title">Dobre toque</string>
+    <string name="long_tap_title">Toque longo</string>
+    <string name="tap_dlg_title">Selecciona acción para un só toque</string>
+    <string name="double_tap_dlg_title">Selecciona acción para dobre toque</string>
+    <string name="long_tap_dlg_title">Selecciona acción para un toque longo</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">Tocar pra activar</string>
+    <string name="tap_to_wake_summary">Toca dúas veces en calquera parte da pantalla pra activar o dispositivo</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">Activar sensor de proximidade</string>
+    <string name="allow_proximity_sensor_summary">Comprobar o sensor de proximidade antes de realizala acción</string>
+    <!-- OnePlus - General -->
+    <string name="oneplus_advanced_settings">Opcións OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Opcións personalizadas para o teu dispistivo</string>
+    <!-- OnePlus - Alert slider settings -->
+    <string name="notification_slider_category_title">Control deslizante de alerta</string>
+    <string name="notification_slider_selection_dialog_title">Acción</string>
+    <string name="notification_slider_top_position">Posición superior</string>
+    <string name="notification_slider_middle_position">Posición media</string>
+    <string name="notification_slider_bottom_position">Posición inferior</string>
+    <string name="notification_slider_mode_total_silence">Silencio total</string>
+    <string name="notification_slider_mode_alarms_only">Só alarmas</string>
+    <string name="notification_slider_mode_priority_only">Só prioridade</string>
+    <string name="notification_slider_mode_silent">Silencio</string>
+    <string name="notification_slider_mode_vibrate">Vibrar</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Optimizacion de perfil</string>
+    <string name="thermal_summary">Axuste os perfís por aplicación para obter un rendemento óptimo</string>
+    <string name="thermal_default">No optimizacion</string>
+    <string name="thermal_benchmark">Desempeño</string>
+    <string name="thermal_browser">Navegador</string>
+    <string name="thermal_camera">Camara</string>
+    <string name="thermal_dialer">Marcador</string>
+    <string name="thermal_gaming">Xogos</string>
+    <string name="thermal_streaming">Aplicacións de Streaming</string>
+    <!-- Refresh Rate Settings -->
+</resources>

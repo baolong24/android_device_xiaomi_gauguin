@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="display_title">画面</string>
+    <string name="dc_dimming_enable_title">アンチフリッカー</string>
+    <string name="dc_dimming_enable_summary">アンチフリッカーモード「DC 調光」によっては暗いライト環境での疲れ目の低減に役立ちます。色の正確性が低減し、いくつかの項目の画面表示に影響する可能性があります。</string>
+    <string name="dc_dimming_enable_summary_not_supported">アンチフリッカーはこのカーネルではサポートされていません</string>
+    <string name="dirac_title">Mi サウンドエンハンサー</string>
+    <string name="dirac_summary">オーディオ品質を最適化</string>
+    <string name="dirac_headset_title">ヘッドフォンの種類を選択</string>
+    <string name="dirac_preset_title">プリセットを選択してください</string>
+    <string name="dirac_hifi_title">Hi-Fiオーディオ</string>
+    <string name="dirac_hifi_summary">ノイズやひずみを低減し、オーディオ品質を向上させる</string>
+    <string name="dirac_hifi_enable_title">HI-FI の有効化</string>
+    <string name="dirac_headset_default">デフォルト</string>
+    <string name="dirac_headset_earbuds">Mi イヤーバッド</string>
+    <string name="dirac_headset_in_ear_2013">Mi インイヤー (2013)</string>
+    <string name="dirac_headset_piston_1">Mi ピストン 1</string>
+    <string name="dirac_headset_general">一般</string>
+    <string name="dirac_headset_general_inear">一般的なインイヤー型</string>
+    <string name="dirac_headset_piston_basic">ベーシック版</string>
+    <string name="dirac_headset_piston_2">Mi ピストン 2</string>
+    <string name="dirac_headset_piston_standard">スタンダード版</string>
+    <string name="dirac_headset_headphone">Mi ヘッドフォン</string>
+    <string name="dirac_headset_piston_youth">青春版</string>
+    <string name="dirac_headset_piston_color">カラー版</string>
+    <string name="dirac_headset_in_ear">Mi インイヤー</string>
+    <string name="dirac_headset_capsule">Mi カプセル</string>
+    <string name="dirac_headset_in_ear_pro">Mi インイヤー Pro</string>
+    <string name="dirac_headset_comfort">Mi コンフォート</string>
+    <string name="dirac_headset_reduction_noise">Mi ノイズキャンセリング Type-C</string>
+    <string name="dirac_headset_cancelling">Mi ノイズキャンセリング 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi ハーフインイヤー</string>
+    <string name="dirac_headset_in_ear2">Mi インイヤー2</string>
+    <string name="dirac_headset_earphone_basic">Mi イヤフォン ベーシック</string>
+    <string name="dirac_headset_earphone">Mi イヤホン</string>
+    <string name="dirac_preset_default">デフォルト</string>
+    <string name="dirac_preset_rock">ロック</string>
+    <string name="dirac_preset_jazz">ジャズ</string>
+    <string name="dirac_preset_pop">ポップ</string>
+    <string name="dirac_preset_classical">クラシック</string>
+    <string name="dirac_preset_hiphop">ヒップホップ</string>
+    <string name="dirac_preset_blues">ブルース</string>
+    <string name="dirac_preset_electronic">エレクトロニック</string>
+    <string name="dirac_preset_country">カントリー</string>
+    <string name="dirac_preset_dance">ダンス</string>
+    <string name="dirac_preset_metal">メタル</string>
+    <string name="popup_settings_title">ポップアップカメラの設定</string>
+    <string name="popup_led_title">カメラ LED</string>
+    <string name="popup_led_summary">フロントカメラを上げ下げするときに LED ライトを表示する</string>
+    <string name="popup_sound_title">サウンド効果</string>
+    <string name="popup_title_muqin">木琴</string>
+    <string name="popup_title_yingyan">コンドル</string>
+    <string name="popup_title_mofa">マジック</string>
+    <string name="popup_title_jijia">メカ</string>
+    <string name="popup_title_chilun">歯車</string>
+    <string name="popup_title_cangmen">キャビンドア</string>
+    <string name="popup_camera_tip">注意</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">前面カメラを複数回終了することができませんでした。カメラのキャリブレーションを試してみてください。</string>
+    <string name="popup_camera_popup_failed_times_calibrate">前面カメラを複数回開くことができませんでした。カメラのキャリブレーションを試してみてください。</string>
+    <string name="popup_camera_calibrate_running">キャリブレーション中はフロントカメラを使用できません。</string>
+    <string name="popup_camera_calibrate_now">キャリブレーション</string>
+    <string name="popup_camera_calibrate_failed">キャリブレーションできませんでした。</string>
+    <string name="popup_camera_calibrate_success">正常にキャリブレーションされました。前面カメラを起動してみてください。</string>
+    <string name="stop_operate_camera_frequently">前面カメラを頻繁に開いているようです。</string>
+    <string name="takeback_camera_front_failed">前面カメラを閉じることができませんでした。もう一度お試しください。</string>
+    <string name="popup_camera_front_failed">前面カメラを開けませんでした。もう一度お試しください。</string>
+    <string name="popup_camera_proximity_obstructed">前面カメラを開くには近接センサーから手を放してください...</string>
+    <string name="clear_speaker_title">スピーカークリーナー</string>
+    <string name="clear_speaker_summary">30秒音楽を鳴らしてスピーカーを清掃する</string>
+    <string name="clear_speaker_description">ほこりでスピーカーが軽く汚れている時に1~2度この機能を実行して下さい。メディア音量を最大に設定します。\n\nスピーカーの汚れがひどい場合は、画面を伏せるように端末を置いてから2~5回実行して下さい。</string>
+    <string name="moto_actions_title">Moto アクション</string>
+    <string name="device_gestures_title">端末ジェスチャー</string>
+    <string name="device_gestures_summary">端末ジェスチャーの管理</string>
+    <string name="ambient_display_manage_summary">アンビエント表示ジェスチャーの管理</string>
+    <string name="fingerprint_gestures_title">指紋ジェスチャー</string>
+    <string name="fingerprint_gestures_summary">指紋ジェスチャーの管理</string>
+    <string name="fingerprint_gestures_manage_summary">指紋ジェスチャーの管理</string>
+    <string name="fingerprint_actions_screenon">画面点灯時アクション</string>
+    <string name="fingerprint_gestures_screenoff_title">画面消灯時の指紋ジェスチャー</string>
+    <string name="fingerprint_gestures_screenoff_summary">画面消灯時は指紋ジェスチャーを使用して下さい。\n\nこの機能を使用するには指紋のロックを解除する必要があります。</string>
+    <string name="fingerprint_actions_screenoff">画面消灯時アクション</string>
+    <string name="action_home">ホーム</string>
+    <string name="action_power">画面の ON/OFF</string>
+    <string name="action_wake">起動</string>
+    <string name="action_back">戻る</string>
+    <string name="action_recents">アプリ履歴</string>
+    <string name="action_last_app">最後に使用したアプリ</string>
+    <string name="action_volume_up">音量を上げる</string>
+    <string name="action_volume_down">音量を下げる</string>
+    <string name="action_voice_assistant">音声アシスタント</string>
+    <string name="action_play_pause">再生/一時停止</string>
+    <string name="action_previous_track">前のトラック</string>
+    <string name="action_next_track">次のトラック</string>
+    <string name="action_flashlight">ライトの ON/OFF</string>
+    <string name="action_camera">カメラを起動</string>
+    <string name="action_screenshot">スクリーンショットを撮る</string>
+    <string name="action_browser">ブラウザーを起動</string>
+    <string name="action_dialer">電話アプリを起動</string>
+    <string name="action_email">メールアプリを起動</string>
+    <string name="action_messages">メッセージアプリを起動</string>
+    <string name="screen_off_gestures_manage_summary">画面消灯時のジェスチャーを管理</string>
+    <string name="swipe_left_dlg_title">左へのスワイプのアクションを選択</string>
+    <string name="swipe_right_dlg_title">右へのスワイプのアクションを選択</string>
+    <string name="swipe_up_dlg_title">上へのスワイプのアクションを選択</string>
+    <string name="swipe_down_dlg_title">下へのスワイプのアクションを選択</string>
+    <string name="tap_title">シングルタップ</string>
+    <string name="double_tap_title">ダブルタップ</string>
+    <string name="long_tap_title">長押し</string>
+    <string name="tap_dlg_title">シングルタップアクションを選択</string>
+    <string name="double_tap_dlg_title">ダブルタップアクションを選択</string>
+    <string name="long_tap_dlg_title">長押しアクションを選択</string>
+    <string name="tap_to_wake">タップして復帰</string>
+    <string name="tap_to_wake_summary">画面をダブルタップすると端末が復帰します</string>
+    <string name="allow_proximity_sensor_title">近接センサーを許可</string>
+    <string name="allow_proximity_sensor_summary">アクションを実行する前に近接センサーを確認する</string>
+    <string name="oneplus_advanced_settings">OnePlus 設定</string>
+    <string name="oneplus_advanced_settings_summary">お使いの端末のカスタム設定</string>
+    <string name="notification_slider_category_title">Alert Slider</string>
+    <string name="notification_slider_selection_dialog_title">アクション</string>
+    <string name="notification_slider_top_position">上部</string>
+    <string name="notification_slider_middle_position">中央</string>
+    <string name="notification_slider_bottom_position">下部</string>
+    <string name="notification_slider_mode_total_silence">サイレント</string>
+    <string name="notification_slider_mode_alarms_only">アラームのみ</string>
+    <string name="notification_slider_mode_priority_only">優先する通知のみ</string>
+    <string name="notification_slider_mode_silent">サイレント</string>
+    <string name="notification_slider_mode_vibrate">振動</string>
+    <string name="notification_slider_mode_none">標準</string>
+    <string name="thermal_title">最適化のプロファイル</string>
+    <string name="thermal_summary">パフォーマンス最適化のためにアプリごとのプロファイルを調整する</string>
+    <string name="thermal_default">最適化なし</string>
+    <string name="thermal_benchmark">パフォーマンス</string>
+    <string name="thermal_browser">ブラウザ</string>
+    <string name="thermal_camera">カメラ</string>
+    <string name="thermal_dialer">電話</string>
+    <string name="thermal_gaming">ゲーム</string>
+    <string name="thermal_streaming">ストリーミングアプリ</string>
+    <string name="raise_to_wake_gesture_title">持ち上げて復帰</string>
+    <string name="raise_to_wake_gesture_summary">通知のライト点滅の代わりに持ち上げる動作でスリープ解除する</string>
+    <string name="device_min_refresh_rate">最小リフレッシュレート</string>
+    <string name="refresh_rate_settings_title">画面リフレッシュレート</string>
+    <string name="refresh_rate_settings_summary">画面のリフレッシュレートを調整する</string>
+    <string name="touch_control_title">タッチ画面の最適化</string>
+    <string name="touch_game_mode_title">ゲームモードを有効化</string>
+    <string name="touch_game_mode_summary">タッチ画面の最適化でゲーミング体験を向上するのに寄与できます</string>
+    <string name="touch_response_title">タッチ反応速度</string>
+    <string name="touch_response_summary">タッチ反応速度を制御する</string>
+    <string name="touch_sensitivity_title">タッチ感度</string>
+    <string name="touch_sensitivity_summary">複数回のタップに対する感度を制御する</string>
+    <string name="touch_resistant_title">タッチ感度低下範囲</string>
+    <string name="touch_resistant_summary">誤動作を回避するために画面の縁の周辺の感度を低下させる</string>
+    <string name="home_button_extra_settings">ホームボタンの動作を編集</string>
+    <string name="assistant_button_action">アシスタントキーのアクション</string>
+    <string name="stylus_title">スタイラスペン</string>
+</resources>

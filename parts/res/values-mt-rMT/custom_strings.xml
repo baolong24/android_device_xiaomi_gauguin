@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <!-- Dirac settings -->
+    <string name="dirac_title">Mi Sound Enhancer</string>
+    <string name="dirac_summary">Tejjeb il-kwalità tal-ħoss</string>
+    <string name="dirac_headset_title">Agħżel it-tip tal-headphones</string>
+    <string name="dirac_preset_title">Agħżel metodu tas-settjar</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Hi-Fi</string>
+    <string name="dirac_hifi_summary">Naqqas l-istorbju u l-ħsejjes li jtellfu u tejjeb il-kwalità tal-ħoss</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">Default</string>
+    <string name="dirac_headset_earbuds">Mi Earbuds</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">Ġenerali</string>
+    <string name="dirac_headset_general_inear">Ġenerali fil-Widna</string>
+    <string name="dirac_headset_piston_basic">Edizzjoni Bażika</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Edizzjoni Standard</string>
+    <string name="dirac_headset_headphone">Mi Headphones</string>
+    <string name="dirac_headset_piston_youth">Edizzjoni Żagħżugħa</string>
+    <string name="dirac_headset_piston_color">Edizzjoni Kkulurita</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi Noise Cancelling Tip-C</string>
+    <string name="dirac_headset_cancelling">Mi Noise Cancelling 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Nofs fil-Widna</string>
+    <string name="dirac_headset_in_ear2">Mi f\'Widna 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Bażiċi</string>
+    <string name="dirac_headset_earphone">Mi Earphones</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">Komuni</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Klassiku</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Elettronika</string>
+    <string name="dirac_preset_country">Country</string>
+    <string name="dirac_preset_dance">Dance</string>
+    <string name="dirac_preset_metal">Metal</string>
+    <!-- Popup camera settings -->
+    <string name="popup_title_muqin">Xilofonu</string>
+    <string name="popup_title_yingyan">Condor</string>
+    <string name="popup_title_mofa">Maġija</string>
+    <string name="popup_title_jijia">Mecha</string>
+    <string name="popup_title_chilun">Gerwiela</string>
+    <string name="popup_title_cangmen">Bieba tal-kabina</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">Oqgħod attent</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Ma setax jagħlaq il-kamera ta\' quddiem diversi drabi. Ipprova kkalibra l-kamera.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Ma setax jiftaħ il-kamera ta\' quddiem diversi drabi. Ipprova kkalibra l-kamera.</string>
+    <string name="popup_camera_calibrate_running">Kamera quddiem ma tistax tintuża waqt il-kalibrazzjoni.</string>
+    <string name="popup_camera_calibrate_now">Ikkalibra</string>
+    <string name="popup_camera_calibrate_failed">Ma setax jikkalibra</string>
+    <string name="popup_camera_calibrate_success">Ikkalibrat b\'suċċess. Issa tista\' tiftaħ il-kamera ta\' quddiem.</string>
+    <string name="stop_operate_camera_frequently">Qed tiftaħ il-kamera ta\' quddiem wisq ta\' spiss.</string>
+    <string name="takeback_camera_front_failed">Ma setax jagħlaq il-kamera ta\' quddiem. Erġa\' pprova.</string>
+    <string name="popup_camera_front_failed">Ma setax jiftaħ il-kamera ta\' quddiem. Erġa\' pprova.</string>
+    <!-- Title and summary -->
+    <!-- Device gestures -->
+    <string name="device_gestures_title">Ġesti tal-apparat</string>
+    <string name="device_gestures_summary">Immaniġġja l-ġesti tal-apparat</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">Immaniġġja l-ġesti tal-iskrin ambjentali</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">Ġesti tal-marki tas-swaba</string>
+    <string name="fingerprint_gestures_summary">Uża l-ġesti tal-marki tas-swaba</string>
+    <string name="fingerprint_gestures_manage_summary">Immaniġġja l-ġesti tal-marki tas-swaba</string>
+    <string name="fingerprint_actions_screenon">Azzjonijiet bl-iskrin mixgħul</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">Ġesti tal-marki tas-swaba meta l-iskrin hu mitfi</string>
+    <string name="fingerprint_gestures_screenoff_summary">Uża l-ġesti tal-marki tal-iswaba meta l-iskrin hu mtifi.\n\nJinfetaħ il-mowbajl bil-marki tal-iswaba rrid jintefa biex tuża din il-karatteristika.</string>
+    <string name="fingerprint_actions_screenoff">Azzjonijiet bl-iskrin mitfi</string>
+    <!-- Actions -->
+    <string name="action_home">Dar</string>
+    <string name="action_power">Skrin mixgħul/mitfi</string>
+    <string name="action_wake">Qum</string>
+    <string name="action_back">Lura</string>
+    <string name="action_recents">Riċenti</string>
+    <string name="action_last_app">L-aħħar app</string>
+    <string name="action_volume_up">Volum fuq</string>
+    <string name="action_volume_down">Volum isfel</string>
+    <string name="action_voice_assistant">Assistent tal-vuċi</string>
+    <string name="action_play_pause">Ilgħab/ieqaf</string>
+    <string name="action_previous_track">Track preċedenti</string>
+    <string name="action_next_track">It-track li jmiss</string>
+    <string name="action_flashlight">Flashlight mixgħul/mitfi</string>
+    <string name="action_camera">Iftaħ kamera</string>
+    <string name="action_screenshot">Ħu screenshot</string>
+    <string name="action_browser">Iftaħ browser</string>
+    <string name="action_dialer">Iftaħ dialer</string>
+    <string name="action_email">Iftaħ l-app tal-email</string>
+    <string name="action_messages">Iftaħ l-app tal-messaġġi</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">Immaniġġja l-ġesti meta l-iskrin hu mitfi</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">Għażel azzjoni għal swipe xellugija</string>
+    <string name="swipe_right_dlg_title">Għażel azzjoni għal swipe leminija</string>
+    <string name="swipe_up_dlg_title">Għażel azzjoni għal swipe \'l fuq</string>
+    <string name="swipe_down_dlg_title">Għażel azzjoni għal swipe \'l isfel</string>
+    <string name="tap_title">Agħfsa waħda</string>
+    <string name="double_tap_title">Agħfsa doppja</string>
+    <string name="long_tap_title">Agħfsa twila</string>
+    <string name="tap_dlg_title">Għażel azzjoni għal agħfsa waħda</string>
+    <string name="double_tap_dlg_title">Għażel azzjoni għal agħfsa doppja</string>
+    <string name="long_tap_dlg_title">Għażel azzjoni għal agħfsa twila</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">Agħfas biex tqajjem</string>
+    <string name="tap_to_wake_summary">Agħfas doppju fejn trid fuq l-iskrin biex tqajjem l-apparat</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">Ħalli s-sensur tal-prossimità</string>
+    <string name="allow_proximity_sensor_summary">Iċċekkja s-sensur tal-prossimità qabel ma tagħmel l-azzjoni</string>
+    <!-- OnePlus - General -->
+    <string name="oneplus_advanced_settings">Settings tal-OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Ippersonalizza s-settings għal-apparat tiegħek</string>
+    <!-- OnePlus - Alert slider settings -->
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Profil tal-ottimizzazzjoni</string>
+    <string name="thermal_default">Ebda ottimizzazzjoni</string>
+    <string name="thermal_benchmark">Eżekuzzjoni</string>
+    <string name="thermal_browser">Browser</string>
+    <string name="thermal_camera">Kamera</string>
+    <string name="thermal_dialer">Dialer</string>
+    <string name="thermal_gaming">Logħob</string>
+    <!-- Refresh Rate Settings -->
+</resources>

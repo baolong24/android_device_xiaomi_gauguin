@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Ekraan</string>
+    <string name="dc_dimming_enable_title">Virvendusfilter</string>
+    <string name="dc_dimming_enable_summary">Virvendusfiltri reziim aitab DC Dimm-i abil vähendada silmade väsimust hämaras. See võib vähendada värvide täpsust ja mõjutada mõne üksuse kuvamist.</string>
+    <!-- Dirac settings -->
+    <string name="dirac_title">Mi Heli Parandaja</string>
+    <string name="dirac_summary">Optimeerige heli kvaliteeti</string>
+    <string name="dirac_headset_title">Valige kõrvaklapitüüp</string>
+    <string name="dirac_preset_title">Valige eelsätestus</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Hi-Fi audio</string>
+    <string name="dirac_hifi_summary">Vähenda müra ja moonutust ja suurenda audio kvaliteeti</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">Vaikeseade</string>
+    <string name="dirac_headset_earbuds">Mi Nööpkuularid</string>
+    <string name="dirac_headset_in_ear_2013">Mi Kõrvasisesed (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">Üldidne</string>
+    <string name="dirac_headset_general_inear">Üldised kõrvasisesed</string>
+    <string name="dirac_headset_piston_basic">Põhiväljalase</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Standardväljalase</string>
+    <string name="dirac_headset_headphone">Mi Kõrvaklapid</string>
+    <string name="dirac_headset_piston_youth">Noorte väljalase</string>
+    <string name="dirac_headset_piston_color">Värviline väljalase</string>
+    <string name="dirac_headset_in_ear">Mi Kõrvasisesed</string>
+    <string name="dirac_headset_capsule">Mi Kapsul</string>
+    <string name="dirac_headset_in_ear_pro">Mi Kõrvasisesed Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi müra tühistamise C-tüüp</string>
+    <string name="dirac_headset_cancelling">Mi müra tühistamine 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Kõrvasisene Mi Half</string>
+    <string name="dirac_headset_in_ear2">Kõrvasisene Mi 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Kõrvaklapid Basic</string>
+    <string name="dirac_headset_earphone">Mi Kõrvaklapid</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">Vaikimisi</string>
+    <string name="dirac_preset_rock">Kivi</string>
+    <string name="dirac_preset_jazz">Džäss</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Klassikaline</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Bluus</string>
+    <string name="dirac_preset_electronic">Elektrooniline</string>
+    <string name="dirac_preset_country">Riik</string>
+    <string name="dirac_preset_dance">Tants</string>
+    <string name="dirac_preset_metal">Metral</string>
+    <!-- Popup camera settings -->
+    <string name="popup_settings_title">Pop-up kaamera seaded</string>
+    <string name="popup_led_title">Kaamera LED</string>
+    <string name="popup_led_summary">Esikaamera ilmumisel ja tagasitõmbumisel näidake LED-valgust</string>
+    <string name="popup_sound_title">Heliefektid</string>
+    <string name="popup_title_muqin">Ksülofon</string>
+    <string name="popup_title_yingyan">Kondor</string>
+    <string name="popup_title_mofa">Maagia</string>
+    <string name="popup_title_jijia">Mehaaniline</string>
+    <string name="popup_title_chilun">Käigukast</string>
+    <string name="popup_title_cangmen">Majakese uks</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">Tähelepanu</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Ei saanud esikaamerat mitu korda sulgeda. Proovi kaamerat kalibreerida.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Ei saanud esikaamerat mitu korda avada. Proovi kaamerat kalibreerida.</string>
+    <string name="popup_camera_calibrate_running">Esikaamerat ei saa kalibreerimise ajal kasutada.</string>
+    <string name="popup_camera_calibrate_now">Kalibreeri</string>
+    <string name="popup_camera_calibrate_failed">Kalibreerimine ei õnnestunud</string>
+    <string name="popup_camera_calibrate_success">Edukalt kalibreeritud. Võid nüüd esikaamera avada.</string>
+    <string name="stop_operate_camera_frequently">Sa avad esikaamerat liiga sageli.</string>
+    <string name="takeback_camera_front_failed">Ei saanud sulgeda esikaamerat. Proovi uuesti.</string>
+    <string name="popup_camera_front_failed">Ei saanud avada esikaamerat. Proovi uuesti.</string>
+    <string name="popup_camera_proximity_obstructed">Esikaamera avamiseks eemaldage oma käsi lähedusandurilt ...</string>
+    <!-- Title and summary -->
+    <string name="moto_actions_title">Moto toimingud</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">Seadme žestid</string>
+    <string name="device_gestures_summary">Halda seadme žeste</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">Halda muutuva ekraani žeste</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">Sõrmejälje žestid</string>
+    <string name="fingerprint_gestures_summary">Kasuta sõrmejälje žeste</string>
+    <string name="fingerprint_gestures_manage_summary">Halda sõrmejälje žeste</string>
+    <string name="fingerprint_actions_screenon">Toimingud ekraani sees olekul</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">Sõrmejälje žestid ekraani väljas olekul</string>
+    <string name="fingerprint_gestures_screenoff_summary">Kasuta sõrmejälje žeste ekraani väljas olekul.\n\nSelle funktsiooni kasutamiseks tuleb sõrmejäljega avamine keelata.</string>
+    <string name="fingerprint_actions_screenoff">Toimingud ekraani väljas olekul</string>
+    <!-- Actions -->
+    <string name="action_home">Avaekraan</string>
+    <string name="action_power">Ekraan sees/väljas</string>
+    <string name="action_wake">Ärata</string>
+    <string name="action_back">Tagasi</string>
+    <string name="action_recents">Hiljutised</string>
+    <string name="action_last_app">Viimane rakendus</string>
+    <string name="action_volume_up">Helitugevus üles</string>
+    <string name="action_volume_down">Helitugevus alla</string>
+    <string name="action_voice_assistant">Häälabiline</string>
+    <string name="action_play_pause">Esita/peata</string>
+    <string name="action_previous_track">Eelmine lugu</string>
+    <string name="action_next_track">Järgmine lugu</string>
+    <string name="action_flashlight">Taskulamp sees/väljas</string>
+    <string name="action_camera">Ava kaamera</string>
+    <string name="action_screenshot">Tee kuvatõmmis</string>
+    <string name="action_browser">Ava brauser</string>
+    <string name="action_dialer">Ava helistaja</string>
+    <string name="action_email">Ava emaili rakendus</string>
+    <string name="action_messages">Ava sõnumite rakendus</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">Hallake ekraani väljas oleku žeste</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">Valige tegevus vasakule viipamise korral</string>
+    <string name="swipe_right_dlg_title">Valige tegevus paremale viipamise korral</string>
+    <string name="swipe_up_dlg_title">Valige tegevus üles viipamise korral</string>
+    <string name="swipe_down_dlg_title">Valige tegevus alla viipamise korral</string>
+    <string name="tap_title">Üks puudutus</string>
+    <string name="double_tap_title">Topeltpuudutus</string>
+    <string name="long_tap_title">Pikk puudutus</string>
+    <string name="tap_dlg_title">Valige tegevus ühe puudutuse korral</string>
+    <string name="double_tap_dlg_title">Valige tegevus topeltpuudutuse korral</string>
+    <string name="long_tap_dlg_title">Valige tegevus pika puudutuse korral</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">Puuduta äratamiseks</string>
+    <string name="tap_to_wake_summary">Topeltpuudutage ekraani seadme äratamiseks</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">Luba lähedussensor</string>
+    <string name="allow_proximity_sensor_summary">Kontrollige lähedussensorit enne tegevuse sooritamist</string>
+    <!-- OnePlus - General -->
+    <string name="oneplus_advanced_settings">OnePlus\'i seaded</string>
+    <string name="oneplus_advanced_settings_summary">Kohandatud seaded sinu seadmele</string>
+    <!-- OnePlus - Alert slider settings -->
+    <string name="notification_slider_category_title">Teatise lüliti</string>
+    <string name="notification_slider_selection_dialog_title">Tegevus</string>
+    <string name="notification_slider_top_position">Ülemine positsioon</string>
+    <string name="notification_slider_middle_position">Keskmine positsioon</string>
+    <string name="notification_slider_bottom_position">Alumine positsioon</string>
+    <string name="notification_slider_mode_total_silence">Täielik vaikus</string>
+    <string name="notification_slider_mode_alarms_only">Ainult äratused</string>
+    <string name="notification_slider_mode_priority_only">Ainult prioriteetsed</string>
+    <string name="notification_slider_mode_silent">Hääletu</string>
+    <string name="notification_slider_mode_vibrate">Vibreering</string>
+    <string name="notification_slider_mode_none">Tavaline</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Optimeerimise profiil</string>
+    <string name="thermal_summary">Reguleerige profiile rakenduse optimaalse jõudluse saavutamiseks</string>
+    <string name="thermal_default">Optimeeritud puudub</string>
+    <string name="thermal_benchmark">Jõudlus</string>
+    <string name="thermal_browser">Veebilehitseja</string>
+    <string name="thermal_camera">Kaamera</string>
+    <string name="thermal_dialer">Valija</string>
+    <string name="thermal_gaming">Mängud</string>
+    <string name="thermal_streaming">Rakenduste voogesitus</string>
+    <!-- Refresh Rate Settings -->
+</resources>

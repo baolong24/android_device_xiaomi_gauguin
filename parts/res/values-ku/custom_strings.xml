@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="display_title">پیشاندان</string>
+    <string name="dirac_summary">یاشترکردنی جۆرێتی دەنگ</string>
+    <string name="dirac_headset_title">جۆری بیستۆک هەڵبژێرە</string>
+    <string name="dirac_hifi_summary">ژاوەژاو کەمتر دەکاتەوە و جۆرێتی دەنگ باشتر دەکات</string>
+    <string name="dirac_headset_default">بنەڕەت</string>
+    <string name="dirac_headset_general">گشتی</string>
+    <string name="dirac_preset_default">بنەڕەتی</string>
+    <string name="dirac_preset_rock">ڕۆک</string>
+    <string name="dirac_preset_jazz">جاز</string>
+    <string name="dirac_preset_pop">پۆپ</string>
+    <string name="dirac_preset_classical">كلاسیكی</string>
+    <string name="dirac_preset_hiphop">هیپ هۆپ</string>
+    <string name="dirac_preset_electronic">ئەلکترۆنی</string>
+    <string name="dirac_preset_country">وڵات</string>
+    <string name="dirac_preset_dance">سه‌ما</string>
+    <string name="popup_settings_title">ڕێکخستنەکانی کامێرای دەرکەوتە</string>
+    <string name="popup_led_title">فلاشی کامێرا</string>
+    <string name="popup_led_summary">پیشاندانی فلاش کاتێ کامێرای پێشەوە بەکارهات یان  و لابرا</string>
+    <string name="popup_sound_title">کاریگەرییەکانی دەنگ</string>
+    <string name="popup_camera_calibrate_failed">ناتوانرێ چاکبکرێت</string>
+    <string name="popup_camera_calibrate_success">بەسەرکەوتوویی چاککرا، ئێستا دەتوانی کامێرای پێشەوە بکەیتەوە.</string>
+    <string name="stop_operate_camera_frequently">تۆ زۆر بەخێرایی کامێراکە دەکەیتەوە</string>
+    <string name="takeback_camera_front_failed">کامێرای پێشەوە دانەخرا، هەوڵبدەرەوە.</string>
+    <string name="popup_camera_front_failed">کامێرای پێشەوە نەکرایەوە، هەوڵبدەرەوە.</string>
+    <string name="popup_camera_proximity_obstructed">دەستت لە نزیکی هەستەوەرەکە دووربخەرەوە بۆ کردنەوەی کامێرای پێشەوە</string>
+    <string name="moto_actions_title">کردارەکانی مۆتۆ</string>
+    <string name="device_gestures_title">جوڵەکانی ئامێر</string>
+    <string name="device_gestures_summary">ڕێکخستنی جوڵەکانی ئامێر</string>
+    <string name="ambient_display_manage_summary">ڕێکخستنی جوڵەکانی ڕوونمای هەمیشە زیندوو</string>
+    <string name="fingerprint_gestures_title">جوڵەکانی پەنجەمۆر</string>
+    <string name="fingerprint_gestures_summary">بەکارهێنانی جوڵەکانی پەنجەمۆر</string>
+    <string name="fingerprint_gestures_manage_summary">ڕێکخستنی جوڵەکانی پەنجەمۆر</string>
+    <string name="fingerprint_actions_screenon">کردارەکانی هەڵبوونی ڕوونما</string>
+    <string name="fingerprint_gestures_screenoff_title">جوڵەکانی پەنجەمۆر کاتی داخراوی ڕوونما</string>
+    <string name="fingerprint_gestures_screenoff_summary">جوڵەکانی پەنجەمۆر بەکاربهێنە کاتی داخراوی ڕوونما. \n\nکردنەوە لەڕێگای پەنجەمۆر دەبێ ناچالاک بکرێت بۆ بەکارهێنانی ئەم تایبەتمەندییە.</string>
+    <string name="fingerprint_actions_screenoff">کردارەکانی ڕوونمای داخراو</string>
+    <string name="action_home">ماڵەوە</string>
+    <string name="action_power">ڕوونما هەڵبوون/داخران</string>
+    <string name="action_wake">هەڵبوون</string>
+    <string name="action_back">گه‌ڕانه‌وه‌</string>
+    <string name="action_recents">دوایینەکان</string>
+    <string name="action_last_app">کۆتا ئەپ</string>
+    <string name="action_volume_up">زیادکردنی دەنگ</string>
+    <string name="action_volume_down">کەمکردنی دەنگ</string>
+    <string name="action_voice_assistant">یارمەتیدەری دەنگی</string>
+    <string name="action_play_pause">لێدان/ڕاگرتن</string>
+    <string name="action_previous_track">تراکی پێشوو</string>
+    <string name="action_next_track">تراکی دواتر</string>
+    <string name="action_flashlight">چرا چالاک/ناچالاک</string>
+    <string name="action_camera">کردنەوەی کامێرا</string>
+    <string name="action_screenshot">چرکاندنی وێنەی ڕوونما</string>
+    <string name="action_browser">کردنه‌وه‌ی وێبگه‌ر</string>
+    <string name="action_dialer">کردنەوەی پەیوەندیکردن</string>
+    <string name="action_email">کردنەوەی ئەپی ئیمێڵ</string>
+    <string name="action_messages">کردنەوەی ئەپی پەیامەکان</string>
+    <string name="screen_off_gestures_manage_summary">ڕێکخستنی جوڵەکان کاتی داخراوی ڕوونما</string>
+    <string name="swipe_left_dlg_title">دیاریکردنی کرداری ڕاکێشان بۆلای چەپ</string>
+    <string name="swipe_right_dlg_title">دیاریکردنی کرداری ڕاکێشان بۆلای ڕاست</string>
+    <string name="swipe_up_dlg_title">دیاریکردنی کرداری ڕاکێشان بۆ سەرەوە</string>
+    <string name="swipe_down_dlg_title">دیاریکردنی کرداری ڕاکێشان بۆ خوارەوە</string>
+    <string name="tap_title">یەکجار داگرتن</string>
+    <string name="double_tap_title">دوجار داگرتن</string>
+    <string name="long_tap_title">داگرتنی درێژ</string>
+    <string name="tap_dlg_title">دیاریکردنی کرداری یەکجار داگرتن</string>
+    <string name="double_tap_dlg_title">دیاریکردنی کرداری دووجار داگرتن</string>
+    <string name="long_tap_dlg_title">دیاریکردنی کرداری داگرتنی درێژ</string>
+    <string name="tap_to_wake">داگرە بۆ هەڵبوون</string>
+    <string name="tap_to_wake_summary">دووجار هەر شوێنێکی ڕوونما داگرە بۆ هەڵبوونی ڕوونمای ئامێر</string>
+    <string name="allow_proximity_sensor_title">چالاککردنی هەستەوەری نزیکی</string>
+    <string name="allow_proximity_sensor_summary">هەستەوەرەکە بپشکنە پێش ئەنجامدانی ئەو کردارە</string>
+    <string name="oneplus_advanced_settings">ڕێکخستنەکانی وەنپڵەس</string>
+    <string name="oneplus_advanced_settings_summary">ڕێکخستنی دەستی بۆ ئامێرەکەت</string>
+    <string name="notification_slider_category_title">ئاگادارکردنەوەی ڕاکێشان</string>
+    <string name="notification_slider_selection_dialog_title">کردار</string>
+    <string name="notification_slider_top_position">شوێنی سەرەوە</string>
+    <string name="notification_slider_middle_position">شوێنی ناوەند</string>
+    <string name="notification_slider_bottom_position">شوێنی خوارەوە</string>
+    <string name="notification_slider_mode_total_silence">بێدەنگکردنی گشتی</string>
+    <string name="notification_slider_mode_alarms_only">تەنها ووریاکەرەوەکان</string>
+    <string name="notification_slider_mode_priority_only">تەنها پێشەیی</string>
+    <string name="notification_slider_mode_silent">بێدەنگ</string>
+    <string name="notification_slider_mode_vibrate">لەرزین</string>
+    <string name="notification_slider_mode_none">ئاسایی</string>
+    <string name="thermal_title">فرمانەکانی کارایی کردن</string>
+    <string name="thermal_summary">ڕێکخستنی تایبەتی کاراییکردنی بۆ هەر بەرنامەیەک</string>
+    <string name="thermal_default">جێبەجێنەکراو</string>
+    <string name="thermal_benchmark">جێبەجێکردن</string>
+    <string name="thermal_browser">وێبگەڕ</string>
+    <string name="thermal_camera">کامێرا</string>
+    <string name="thermal_dialer">پەیوەندیکردن</string>
+    <string name="thermal_gaming">یارییەکان</string>
+    <string name="thermal_streaming">لێدانی لەسەرهێڵ</string>
+    <string name="refresh_rate_settings_title">ڕێژەی نوێبوونەوەی ڕوونما</string>
+</resources>

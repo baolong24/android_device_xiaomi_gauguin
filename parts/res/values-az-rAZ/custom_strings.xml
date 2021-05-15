@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <!-- Dirac settings -->
+    <string name="dirac_title">Mi Səs Gücləndirici</string>
+    <string name="dirac_summary">Səs keyfiyyətini optimallaşdır</string>
+    <string name="dirac_headset_title">Qulaqlıq növünü seçin</string>
+    <string name="dirac_preset_title">Ön tənzimləmə seçin</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Hi-Fi səs</string>
+    <string name="dirac_hifi_summary">Səs-küy və təhrifi azaldıb səs keyfiyyətini artır</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">Defolt</string>
+    <string name="dirac_headset_earbuds">Mi Qulaqlıqları</string>
+    <string name="dirac_headset_in_ear_2013">Mi Qulaq-İçi (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">Ümumi</string>
+    <string name="dirac_headset_general_inear">Ümumi Qulaq-İçi</string>
+    <string name="dirac_headset_piston_basic">Sadə versiya</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Standart versiya</string>
+    <string name="dirac_headset_headphone">Mi Qulaqlıqları</string>
+    <string name="dirac_headset_piston_youth">Gənc versiyası</string>
+    <string name="dirac_headset_piston_color">Rəngli versiyası</string>
+    <string name="dirac_headset_in_ear">Mi Qulaq-İçi</string>
+    <string name="dirac_headset_capsule">Mi Kapsul</string>
+    <string name="dirac_headset_in_ear_pro">Mi Qulaq-İçi Pro</string>
+    <string name="dirac_headset_comfort">Mi Rahatlıq</string>
+    <string name="dirac_headset_reduction_noise">Mi Səs-küy Əngəlləmə Type-C</string>
+    <string name="dirac_headset_cancelling">Mi Səs-küy Əngəlləmə 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Yarı Qulaq-içi</string>
+    <string name="dirac_headset_in_ear2">Mi Qulaq-İçi 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Qulaqlıq Sadə</string>
+    <string name="dirac_headset_earphone">Mi Qulaqlıq</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">Varsayılan</string>
+    <string name="dirac_preset_rock">Rok</string>
+    <string name="dirac_preset_jazz">Caz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Klassik</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blyuz</string>
+    <string name="dirac_preset_electronic">Elektronik</string>
+    <string name="dirac_preset_country">Kantri</string>
+    <string name="dirac_preset_dance">Rəqs</string>
+    <string name="dirac_preset_metal">Metal</string>
+    <!-- Popup camera settings -->
+    <string name="popup_title_muqin">Ksilofon</string>
+    <string name="popup_title_yingyan">Kondor</string>
+    <string name="popup_title_mofa">Sehr</string>
+    <string name="popup_title_jijia">Mexanik</string>
+    <string name="popup_title_chilun">Dişli təkər</string>
+    <string name="popup_title_cangmen">Kabin qapısı</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">Diqqət</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Ön kamera bir neçə dəfə bağlana bilmədi. Kameranı kalibrləməyə cəhd edin.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Ön kamera bir neçə dəfə açıla bilmədi. Kameranı kalibrləməyə cəhd edin.</string>
+    <string name="popup_camera_calibrate_running">Kalibrləmə zamanı ön kamera istifadə edilə bilməz.</string>
+    <string name="popup_camera_calibrate_now">Kalibrlə</string>
+    <string name="popup_camera_calibrate_failed">Kalibrlənə bilmədi</string>
+    <string name="popup_camera_calibrate_success">Uğurla kalibrləndi. İndi ön kameranı aça bilərsiniz.</string>
+    <string name="stop_operate_camera_frequently">Ön kameranı çox tez-tez açırsınız.</string>
+    <string name="takeback_camera_front_failed">Ön kamera söndürülə bilmədi. Yenidən cəhd edin.</string>
+    <string name="popup_camera_front_failed">Ön kamera açıla bilmədi. Yenidən cəhd edin.</string>
+    <!-- Title and summary -->
+    <string name="moto_actions_title">Moto Hərəkətləri</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">Cihaz jestləri</string>
+    <string name="device_gestures_summary">Cihaz jestlərini idarə edin</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">Aktiv Ekran jestlərini idarə edin</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">Barmaq izi jestləri</string>
+    <string name="fingerprint_gestures_summary">Barmaq izi jestlərindən istifadə edin</string>
+    <string name="fingerprint_gestures_manage_summary">Barmaq izi jestlərini idarə edin</string>
+    <string name="fingerprint_actions_screenon">Açıq ekran hərəkətləri</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">Ekran bağlı olarkən barmaq izi hərəkətləri</string>
+    <string name="fingerprint_gestures_screenoff_summary">Ekran bağlı olarkən barmaq izi jestlərindən istifadə edin.\n\nBu funksiya üçün barmaq izi ilə kilidin açılması xüsusiyyəti qeyri aktiv olmalıdır.</string>
+    <string name="fingerprint_actions_screenoff">Bağlı ekran hərəkətləri</string>
+    <!-- Actions -->
+    <string name="action_home">Ana ekran</string>
+    <string name="action_power">Ekranı aç/bağla</string>
+    <string name="action_wake">Oyandır</string>
+    <string name="action_back">Geri</string>
+    <string name="action_recents">Son tətbiqlər</string>
+    <string name="action_last_app">Son tətbiq</string>
+    <string name="action_volume_up">Səsi artır</string>
+    <string name="action_volume_down">Səsi azalt</string>
+    <string name="action_voice_assistant">Səsli köməkçi</string>
+    <string name="action_play_pause">Oxut/saxla</string>
+    <string name="action_previous_track">Əvvəlki mahnı</string>
+    <string name="action_next_track">Sonrakı mahnı</string>
+    <string name="action_flashlight">Fənəri yandır/söndür</string>
+    <string name="action_camera">Kameranı aç</string>
+    <string name="action_screenshot">Ekran şəkli çək</string>
+    <string name="action_browser">Veb səyyahı aç</string>
+    <string name="action_dialer">Zəng edicini aç</string>
+    <string name="action_email">E-poçt tətbiqini aç</string>
+    <string name="action_messages">Mesaj tətbiqini aç</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">Bağlı ekran hərəkətlərini idarə edin</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">Sola sürüşdürmə hərəkəti seçin</string>
+    <string name="swipe_right_dlg_title">Sağa sürüşdürmə hərəkəti seçin</string>
+    <string name="swipe_up_dlg_title">Yuxarı sürüşdürmə hərəkəti seçin</string>
+    <string name="swipe_down_dlg_title">Aşağı sürüşdürmə hərəkəti seçin</string>
+    <string name="tap_title">Tək toxunma</string>
+    <string name="double_tap_title">2 dəfə toxunma</string>
+    <string name="long_tap_title">Basıb saxlama</string>
+    <string name="tap_dlg_title">Tək toxunma hərəkəti seçin</string>
+    <string name="double_tap_dlg_title">2 dəfə toxunma hərəkəti seçin</string>
+    <string name="long_tap_dlg_title">Basıb saxlama hərəkəti seçin</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">Oyatmaq üçün toxunun</string>
+    <string name="tap_to_wake_summary">Cihazı oyatmaq üçün ekranın istənilən yerinə iki dəfə toxunun</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">Yaxınlıq sensoruna icazə ver</string>
+    <string name="allow_proximity_sensor_summary">Əməliyyatı etməzdən qabaq yaxınlıq sensorunu yoxlayın</string>
+    <!-- OnePlus - General -->
+    <string name="oneplus_advanced_settings">OnePlus Tənzimləmələri</string>
+    <string name="oneplus_advanced_settings_summary">Cihazınız üçün xüsusiləşdirilmiş tənzimləmələr</string>
+    <!-- OnePlus - Alert slider settings -->
+    <string name="notification_slider_selection_dialog_title">Hərəkət</string>
+    <string name="notification_slider_top_position">Yuxarı hissə</string>
+    <string name="notification_slider_middle_position">Orta hissə</string>
+    <string name="notification_slider_bottom_position">Aşağı hissə</string>
+    <string name="notification_slider_mode_total_silence">Tamamilə səssiz</string>
+    <string name="notification_slider_mode_priority_only">Yalnız üstünlük verilənlər</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Optimizasiya profili</string>
+    <string name="thermal_default">Optimizasiya yoxdur</string>
+    <string name="thermal_benchmark">Performans</string>
+    <string name="thermal_browser">İnternet səyyahı</string>
+    <string name="thermal_camera">Kamera</string>
+    <string name="thermal_dialer">Telefon</string>
+    <string name="thermal_gaming">Oyunlar</string>
+    <!-- Refresh Rate Settings -->
+</resources>

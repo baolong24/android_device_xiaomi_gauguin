@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <!-- Dirac settings -->
+    <!-- Dirac settings: Hi-Fi -->
+    <!-- Dirac settings: Headset types -->
+    <!-- Dirac settings: Equalizer presets -->
+    <!-- Popup camera settings -->
+    <!-- Popup camera strings -->
+    <!-- Title and summary -->
+    <!-- Device gestures -->
+    <!-- Ambient display gestures -->
+    <!-- Fingerprint gestures -->
+    <!-- Fingerprint gestures screen off -->
+    <!-- Actions -->
+    <string name="action_home">Эхлэл</string>
+    <string name="action_power">Дэлгэц асах/унтрах</string>
+    <string name="action_wake">Сэрэх</string>
+    <string name="action_back">Буцах</string>
+    <string name="action_recents">Сүүлийн</string>
+    <string name="action_last_app">Өмнөх апп</string>
+    <string name="action_volume_up">Дуу чангалах</string>
+    <string name="action_volume_down">Дуу суллах</string>
+    <string name="action_voice_assistant">Дуут туслах</string>
+    <string name="action_play_pause">Тоглуулах/Түр зогсоох</string>
+    <!-- Screen off gestures -->
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_down_dlg_title">Доош шудрахад хийх үйлдлийг сонгох</string>
+    <string name="long_tap_title">Удаан дарах</string>
+    <string name="long_tap_dlg_title">Удаан дарахад хийх үйлдлийг сонгох</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">Дарж сэрээх</string>
+    <string name="tap_to_wake_summary">Дэлгэц дээр 2 удаа дарж сэрээх</string>
+    <!-- Proximity sensor -->
+    <!-- OnePlus - General -->
+    <string name="oneplus_advanced_settings">OnePlus тохиргоонууд</string>
+    <!-- OnePlus - Alert slider settings -->
+    <!-- Thermal profiles -->
+    <!-- Refresh Rate Settings -->
+</resources>

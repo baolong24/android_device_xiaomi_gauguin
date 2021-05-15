@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="dirac_title">Mi ljudförstärkare</string>
+    <string name="dirac_summary">Optimera ljudkvalitet</string>
+    <string name="dirac_headset_title">Välj hörlurstyper</string>
+    <string name="dirac_preset_title">Framkamera kan inte användas under kalibrering</string>
+    <string name="dirac_hifi_title">Hi-Fi ljud</string>
+    <string name="dirac_hifi_summary">Reducera brus och störningar och öka ljudkvaliteten</string>
+    <string name="dirac_headset_default">Standardinställning</string>
+    <string name="dirac_headset_earbuds">Mi Hörlurar</string>
+    <string name="dirac_headset_general">Allmänt</string>
+    <string name="dirac_headset_general_inear">Allmänna In-Ear</string>
+    <string name="dirac_headset_piston_basic">Grundläggande upplaga</string>
+    <string name="dirac_headset_piston_standard">Standardupplaga</string>
+    <string name="dirac_headset_headphone">Mi Hörlurar</string>
+    <string name="dirac_headset_piston_youth">Ungdomlig upplaga</string>
+    <string name="dirac_headset_piston_color">Färgad upplaga</string>
+    <string name="dirac_headset_reduction_noise">Mi Brusreducering Type-C</string>
+    <string name="dirac_headset_cancelling">Mi Brusreducering 3.5mm</string>
+    <string name="dirac_headset_earphone_basic">Mi Hörlurar Basic</string>
+    <string name="dirac_headset_earphone">Mi Hörlurar</string>
+    <string name="dirac_preset_default">Standard</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_classical">Klassisk</string>
+    <string name="dirac_preset_electronic">Elektroniskt</string>
+    <string name="dirac_preset_dance">Dansa</string>
+    <string name="dirac_preset_metal">Metall</string>
+    <string name="popup_sound_title">Ljudeffekter</string>
+    <string name="popup_title_muqin">Xylofon</string>
+    <string name="popup_title_yingyan">Kondor</string>
+    <string name="popup_title_mofa">Magi</string>
+    <string name="popup_title_chilun">Kugghjul</string>
+    <string name="popup_title_cangmen">Kabindörr</string>
+    <string name="popup_camera_tip">Uppmärksamma</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Misslyckades att stänga främre kameran flera gånger. Prova att kalibrera kameran.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Misslyckades att öppna främre kameran flera gånger. Prova att kalibrera kameran.</string>
+    <string name="popup_camera_calibrate_running">Framkamera kan inte användas under kalibrering.</string>
+    <string name="popup_camera_calibrate_now">Kalibrera</string>
+    <string name="popup_camera_calibrate_failed">Det gick inte att kalibrera</string>
+    <string name="popup_camera_calibrate_success">Kalibrerad. Du kan öppna främre kameran nu.</string>
+    <string name="stop_operate_camera_frequently">Du öppnar främre kameran för ofta.</string>
+    <string name="takeback_camera_front_failed">Det gick inte att stänga främre kameran. Försök igen.</string>
+    <string name="popup_camera_front_failed">Det gick inte att öppna främre kameran. Försök igen.</string>
+    <string name="device_gestures_title">Enhetsgester</string>
+    <string name="device_gestures_summary">Hantera enhetesgester</string>
+    <string name="ambient_display_manage_summary">Hantera omgivningsskärmsgester</string>
+    <string name="fingerprint_gestures_title">Fingeravtrycksgester</string>
+    <string name="fingerprint_gestures_summary">Använd fingeravtrycksgester</string>
+    <string name="fingerprint_gestures_manage_summary">Hantera fingeravtrycksgester</string>
+    <string name="fingerprint_actions_screenon">Åtgärder med skärmen på</string>
+    <string name="fingerprint_gestures_screenoff_title">Fingeravtrycksgester när skärmen är av</string>
+    <string name="fingerprint_gestures_screenoff_summary">Använda fingeravtrycksgester när skärmen är av.\n\nFingeravtrycksupplåsning måste inaktiveras för att använda den här funktionen.</string>
+    <string name="fingerprint_actions_screenoff">Åtgärder med skärmen avstängd</string>
+    <string name="action_home">Hem</string>
+    <string name="action_power">Skärm av/på</string>
+    <string name="action_wake">Väck</string>
+    <string name="action_back">Bakåt</string>
+    <string name="action_recents">Senaste</string>
+    <string name="action_last_app">Senaste app</string>
+    <string name="action_volume_up">Volym upp</string>
+    <string name="action_volume_down">Volym ned</string>
+    <string name="action_voice_assistant">Röstassistent</string>
+    <string name="action_play_pause">Spela/pausa</string>
+    <string name="action_previous_track">Föregående spår</string>
+    <string name="action_next_track">Nästa spår</string>
+    <string name="action_flashlight">Flicklampa på/av</string>
+    <string name="action_camera">Öppna kameran</string>
+    <string name="action_screenshot">Ta skärmdump</string>
+    <string name="action_browser">Öppna webbläsaren</string>
+    <string name="action_dialer">Öppna nummerplattan</string>
+    <string name="action_email">Öppna epostappen</string>
+    <string name="action_messages">Öppna meddelandappen</string>
+    <string name="screen_off_gestures_manage_summary">Hantera rörelser när skärmen är avstängd</string>
+    <string name="swipe_left_dlg_title">Välj åtgärd för svep vänster</string>
+    <string name="swipe_right_dlg_title">Välj åtgärd för svep höger</string>
+    <string name="swipe_up_dlg_title">Välj åtgärd för svep uppåt</string>
+    <string name="swipe_down_dlg_title">Välj åtgärd för svep nedåt</string>
+    <string name="tap_title">Enkeltryck</string>
+    <string name="double_tap_title">Dubbeltryck</string>
+    <string name="long_tap_title">Långtryck</string>
+    <string name="tap_dlg_title">Välj åtgärd för enkeltryck</string>
+    <string name="double_tap_dlg_title">Välj åtgärd för dubbeltryck</string>
+    <string name="long_tap_dlg_title">Välj åtgärd för långt tryck</string>
+    <string name="tap_to_wake">Väck genom att trycka</string>
+    <string name="tap_to_wake_summary">Väck enheten genom att trycka två gånger var som helst på skärmen</string>
+    <string name="allow_proximity_sensor_title">Tillåt rörelsesensor</string>
+    <string name="allow_proximity_sensor_summary">Kontrollera närhetssensorn innan du utför åtgärden</string>
+    <string name="oneplus_advanced_settings">OnePlus inställingar</string>
+    <string name="oneplus_advanced_settings_summary">Speciella Inställningar för din mobil</string>
+    <string name="notification_slider_selection_dialog_title">Åtgärd</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <string name="thermal_title">Optimerings profil</string>
+    <string name="thermal_default">Ingen optimering</string>
+    <string name="thermal_benchmark">Prestanda</string>
+    <string name="thermal_browser">Bläddrare</string>
+    <string name="thermal_camera">Kamera</string>
+    <string name="thermal_dialer">Uppringare</string>
+    <string name="thermal_gaming">Spel</string>
+    <string name="refresh_rate_settings_title">Skärm uppdateringsfrekvens</string>
+</resources>

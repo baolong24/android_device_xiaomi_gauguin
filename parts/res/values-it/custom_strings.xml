@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="display_title">Display</string>
+    <string name="dc_dimming_enable_title">Anti-sfarfallio</string>
+    <string name="dc_dimming_enable_summary">La modalità anti-sfarfallio aiuta a ridurre l\'affaticamento degli occhi in condizioni di scarsa luminosità utilizzando la funzione \"DC dimming\". Essa potrebbe diminuire l\'accuratezza dei colori ed influire sul modo in cui alcuni elementi sono visualizzati.</string>
+    <string name="dc_dimming_enable_summary_not_supported">l\'anti-sfarfallio non é attualmente supportato dal kernel</string>
+    <string name="dirac_title">Ottimizzazione Mi Sound</string>
+    <string name="dirac_summary">Ottimizza qualità audio</string>
+    <string name="dirac_headset_title">Scegli il tipo di cuffie</string>
+    <string name="dirac_preset_title">Scegli una regolazione audio predefinita</string>
+    <string name="dirac_hifi_title">Audio ad alta fedeltà (Hi-Fi)</string>
+    <string name="dirac_hifi_summary">Riduce disturbo e distorsione ed aumenta la qualità audio</string>
+    <string name="dirac_hifi_enable_title">Abilita Hi-fi</string>
+    <string name="dirac_headset_default">Predefinite</string>
+    <string name="dirac_headset_earbuds">Auricolari Mi</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">Generiche</string>
+    <string name="dirac_headset_general_inear">In-Ear generiche</string>
+    <string name="dirac_headset_piston_basic">Edizione base</string>
+    <string name="dirac_headset_piston_2">Mi Piston 2</string>
+    <string name="dirac_headset_piston_standard">Mi Piston Standard</string>
+    <string name="dirac_headset_headphone">Cuffie Mi</string>
+    <string name="dirac_headset_piston_youth">Mi Piston Youth Edition</string>
+    <string name="dirac_headset_piston_color">Mi Piston Colorful Edition</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Cancellazione Rumore Mi Type-C</string>
+    <string name="dirac_headset_cancelling">Cancellazione Rumore Mi 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi In-ear parziale</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Auricolari Mi Basic</string>
+    <string name="dirac_headset_earphone">Auricolari Mi</string>
+    <string name="dirac_preset_default">Predefinito</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Musica classica</string>
+    <string name="dirac_preset_hiphop">Hip-hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Elettronica</string>
+    <string name="dirac_preset_country">Country</string>
+    <string name="dirac_preset_dance">Dance</string>
+    <string name="dirac_preset_metal">Metal</string>
+    <string name="popup_settings_title">Impostazioni fotocamera anteriore</string>
+    <string name="popup_led_title">Luce lampeggiante</string>
+    <string name="popup_led_summary">Lampeggia la luce quando la fotocamera anteriore viene aperta o chiusa</string>
+    <string name="popup_sound_title">Effetto musicale</string>
+    <string name="popup_title_muqin">Xilofono</string>
+    <string name="popup_title_yingyan">Condor</string>
+    <string name="popup_title_mofa">Magia</string>
+    <string name="popup_title_jijia">Robot</string>
+    <string name="popup_title_chilun">Ingranaggio</string>
+    <string name="popup_title_cangmen">Portellone</string>
+    <string name="popup_camera_tip">Attenzione</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Impossibile chiudere la fotocamera anteriore più volte. Prova a calibrarla.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Impossibile aprire la fotocamera anteriore più volte. Prova a calibrarla.</string>
+    <string name="popup_camera_calibrate_running">Impossibile usare la fotocamera anteriore durante la calibrazione.</string>
+    <string name="popup_camera_calibrate_now">Calibra</string>
+    <string name="popup_camera_calibrate_failed">Impossibile calibrare la fotocamera anteriore</string>
+    <string name="popup_camera_calibrate_success">Fotocamera anteriore calibrata correttamente. Puoi adesso aprirla.</string>
+    <string name="stop_operate_camera_frequently">Stai aprendo la fotocamera anteriore troppo frequentemente.</string>
+    <string name="takeback_camera_front_failed">Impossibile chiudere la fotocamera anteriore. Riprova.</string>
+    <string name="popup_camera_front_failed">Impossibile aprire la fotocamera anteriore. Riprova.</string>
+    <string name="popup_camera_proximity_obstructed">Allontana la mano dal sensore di prossimità per aprire la fotocamera anteriore.</string>
+    <string name="clear_speaker_title">Pulisci altoparlante</string>
+    <string name="clear_speaker_summary">Riproduce un audio di 30 secondi per ripulire l\'altoparlante</string>
+    <string name="clear_speaker_description">Eseguire questa funzione una o due volte se si scopre che l\'altoparlante è leggermente bloccato dalla polvere.
+Se l\'altoparlante è bloccato pesantemente, eseguire questa funzione 2-5 volte mentre si agita il dispositivo con l\'altoparlante rivolto verso il basso.</string>
+    <string name="moto_actions_title">Azioni di movimento</string>
+    <string name="device_gestures_title">Gestures del dispositivo</string>
+    <string name="device_gestures_summary">Gestione delle gestures del dispositivo</string>
+    <string name="ambient_display_manage_summary">Gestisci i gesti del Display ambient</string>
+    <string name="fingerprint_gestures_title">Gestures del sensore di impronte digitali</string>
+    <string name="fingerprint_gestures_summary">Utilizza le gestures del sensore di impronte digitali</string>
+    <string name="fingerprint_gestures_manage_summary">Gestisci le gestures del sensore di impronte digitali</string>
+    <string name="fingerprint_actions_screenon">Azioni con schermo acceso</string>
+    <string name="fingerprint_gestures_screenoff_title">Gesti del sensore di impronte digitali quando lo schermo è spento</string>
+    <string name="fingerprint_gestures_screenoff_summary">Utilizza i gesti del sensore di impronte digitali quando lo schermo è spento.\n\nLo sblocco tramite impronta digitale deve essere disattivato per poter utilizzare questa funzione.</string>
+    <string name="fingerprint_actions_screenoff">Azioni con schermo spento</string>
+    <string name="action_home">Pagina iniziale</string>
+    <string name="action_power">Accendi/spegni schermo</string>
+    <string name="action_wake">Riattiva</string>
+    <string name="action_back">Indietro</string>
+    <string name="action_recents">Recenti</string>
+    <string name="action_last_app">Ultima applicazione</string>
+    <string name="action_volume_up">Aumenta il volume</string>
+    <string name="action_volume_down">Abbassa il volume</string>
+    <string name="action_voice_assistant">Assistente vocale</string>
+    <string name="action_play_pause">Riproduci/pausa</string>
+    <string name="action_previous_track">Brano precedente</string>
+    <string name="action_next_track">Brano successivo</string>
+    <string name="action_flashlight">Accendi/spegni torcia</string>
+    <string name="action_camera">Avvia fotocamera</string>
+    <string name="action_screenshot">Acquisisci screenshot</string>
+    <string name="action_browser">Apri il browser</string>
+    <string name="action_dialer">Apri l\'app Telefono</string>
+    <string name="action_email">Apri l\'app e-mail</string>
+    <string name="action_messages">Apri l\'app Messaggi</string>
+    <string name="screen_off_gestures_manage_summary">Personalizza i gesti per quando lo schermo è spento</string>
+    <string name="swipe_left_dlg_title">Seleziona l\'azione per lo scorrimento verso sinistra</string>
+    <string name="swipe_right_dlg_title">Seleziona l\'azione per lo scorrimento verso destra</string>
+    <string name="swipe_up_dlg_title">Seleziona l\'azione per lo scorrimento verso l\'alto</string>
+    <string name="swipe_down_dlg_title">Seleziona l\'azione per lo scorrimento verso il basso</string>
+    <string name="tap_title">Singolo tocco</string>
+    <string name="double_tap_title">Doppio tocco</string>
+    <string name="long_tap_title">Pressione prolungata</string>
+    <string name="tap_dlg_title">Seleziona l\'azione per il singolo tocco</string>
+    <string name="double_tap_dlg_title">Seleziona l\'azione per il doppio tocco</string>
+    <string name="long_tap_dlg_title">Seleziona l\'azione per la pressione prolungata</string>
+    <string name="tap_to_wake">Tocca per riattivare</string>
+    <string name="tap_to_wake_summary">Tocca due volte un punto qualsiasi dello schermo per riattivare il dispositivo</string>
+    <string name="allow_proximity_sensor_title">Autorizza il sensore di prossimità</string>
+    <string name="allow_proximity_sensor_summary">Controlla il sensore di prossimità prima di eseguire l\'azione</string>
+    <string name="oneplus_advanced_settings">Impostazioni OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Impostazioni personalizzate per il tuo dispositivo</string>
+    <string name="notification_slider_category_title">Dispositivo di scorrimento delle notifiche</string>
+    <string name="notification_slider_selection_dialog_title">Azione</string>
+    <string name="notification_slider_top_position">Silenzioso</string>
+    <string name="notification_slider_middle_position">Vibrazione</string>
+    <string name="notification_slider_bottom_position">Squillo</string>
+    <string name="notification_slider_mode_total_silence">Silenzio totale</string>
+    <string name="notification_slider_mode_alarms_only">Solo sveglie</string>
+    <string name="notification_slider_mode_priority_only">Solo con priorità</string>
+    <string name="notification_slider_mode_silent">Silenzioso</string>
+    <string name="notification_slider_mode_vibrate">Vibrazione</string>
+    <string name="notification_slider_mode_none">Normale</string>
+    <string name="thermal_title">Profilo di ottimizzazione</string>
+    <string name="thermal_summary">Regola per-app profile per prestazioni ottimale</string>
+    <string name="thermal_default">Nessuna ottimizzazione</string>
+    <string name="thermal_benchmark">Prestazioni massime</string>
+    <string name="thermal_browser">Browser</string>
+    <string name="thermal_camera">Fotocamera</string>
+    <string name="thermal_dialer">Telefono</string>
+    <string name="thermal_gaming">Gioco</string>
+    <string name="thermal_streaming">Streaming</string>
+    <string name="raise_to_wake_gesture_title">Solleva il dispositivo per risvegliare</string>
+    <string name="raise_to_wake_gesture_summary">Sveglia il dispositivo al posto delle notifiche tramite pulsazioni</string>
+    <string name="device_min_refresh_rate">Refresh rate minimo</string>
+    <string name="refresh_rate_settings_title">Frequenza di aggiornamento</string>
+    <string name="refresh_rate_settings_summary">Modifica la frequenza di aggiornamento dello schermo</string>
+    <string name="touch_control_title">Ottimizzazioni del touch screen</string>
+    <string name="touch_game_mode_title">Ablitia modalitá gioco</string>
+    <string name="touch_game_mode_summary">Aiuta a migliorare l\'esperienza di gioco ottimizzando il touch screen</string>
+    <string name="touch_response_title">Responsività touch</string>
+    <string name="touch_response_summary">Controlla la risposta del touch</string>
+    <string name="touch_sensitivity_title">Sensibilità del touch</string>
+    <string name="touch_sensitivity_summary">Controlla la sensibilità dei tocchi ripetuti</string>
+    <string name="touch_resistant_title">Area non-touch</string>
+    <string name="touch_resistant_summary">Riduce la sensibilità vicino ai bordi per prevenire tocchi accidentali</string>
+    <string name="home_button_extra_settings">Personalizza il comportamento del tasto home</string>
+    <string name="assistant_button_action">Azione chiave dell\'assistente</string>
+    <string name="stylus_title">Penne stilografiche</string>
+</resources>

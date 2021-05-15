@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <!-- Dirac settings -->
+    <string name="dirac_title">Mi சவுண்ட் என்ஹேன்சர்</string>
+    <string name="dirac_summary">ஆடியோ தரத்தை மேம்படுத்து</string>
+    <string name="dirac_headset_title">ஹெட்ஃபோன் வகையைத் தேர்வுசெய்க</string>
+    <string name="dirac_preset_title">ஒரு முன்னமைவைத் தேர்ந்தெடு</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">ஹை-ஃபை ஆடியோ</string>
+    <string name="dirac_hifi_summary">இரைச்சல் மற்றும் ஒலிச்சிதறலைக் குறைத்து, ஆடியோ தரத்தை அதிகரிக்க</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">இயல்பு</string>
+    <string name="dirac_headset_earbuds">Mi இயர்பட்ஸ்</string>
+    <string name="dirac_headset_in_ear_2013">Mi இன்-இயர்(2013)</string>
+    <string name="dirac_headset_piston_1">Mi பிஸ்டன்-1</string>
+    <string name="dirac_headset_general">பொதுவானது</string>
+    <string name="dirac_headset_general_inear">பொதுவான இன்-இயர்</string>
+    <string name="dirac_headset_piston_basic">அடிப்படை பதிப்பு</string>
+    <string name="dirac_headset_piston_2">Mi பிஸ்டன்-2</string>
+    <string name="dirac_headset_piston_standard">இயல்பு பதிப்பு</string>
+    <string name="dirac_headset_headphone">Mi ஹெட்ஃபோன்கள்</string>
+    <string name="dirac_headset_piston_youth">யூத் எடிஷன்</string>
+    <string name="dirac_headset_piston_color">கலர் பதிப்பு</string>
+    <string name="dirac_headset_in_ear">Mi இன்-இயர்</string>
+    <string name="dirac_headset_capsule">Mi கேப்ஸ்யூல்</string>
+    <string name="dirac_headset_in_ear_pro">Mi இன்-இயர் ப்ரோ</string>
+    <string name="dirac_headset_comfort">Mi வசதி</string>
+    <string name="dirac_headset_reduction_noise">Mi இரைச்சல் குறைப்பு Type-C</string>
+    <string name="dirac_headset_cancelling">Mi இரைச்சல் குறைப்பு 3.5மிமீ</string>
+    <string name="dirac_headset_half_in_ear">Mi ஹாஃப் இன்-இயர்</string>
+    <string name="dirac_headset_in_ear2">Mi இன்-இயர் 2</string>
+    <string name="dirac_headset_earphone_basic">Mi இயர்ஃபோன் பேசிக்</string>
+    <string name="dirac_headset_earphone">Mi இயர்போன்கள்</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">இயல்புநிலை</string>
+    <string name="dirac_preset_rock">ராக்</string>
+    <string name="dirac_preset_jazz">ஜாஸ்</string>
+    <string name="dirac_preset_pop">பாப்</string>
+    <string name="dirac_preset_classical">கிளாசிக்கல்</string>
+    <string name="dirac_preset_hiphop">ஹிப் ஹாப்</string>
+    <string name="dirac_preset_blues">ப்ளூஸ்</string>
+    <string name="dirac_preset_electronic">எலக்ட்ரானிக்</string>
+    <string name="dirac_preset_country">கண்ட்ரி</string>
+    <string name="dirac_preset_dance">நடனம்</string>
+    <string name="dirac_preset_metal">மெட்டல்</string>
+    <!-- Popup camera settings -->
+    <string name="popup_title_muqin">சைலோஃபோன்</string>
+    <string name="popup_title_yingyan">காண்டோர்</string>
+    <string name="popup_title_mofa">மேஜிக்</string>
+    <string name="popup_title_jijia">மெச்சா</string>
+    <string name="popup_title_chilun">கியர்வீல்</string>
+    <string name="popup_title_cangmen">கேபின் கதவு</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">கவனம்</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">பலமுறைகளாக முன்புற கேமராவை மூட முடியவில்லை. கேமராவை அளவுத்திருத்தம் செய்ய முயலவும்.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">பலமுறைகளாக முன்புற கேமராவைத் திறக்க முடியவில்லை. கேமராவை அளவுத்திருத்தம் செய்ய முயலவும்.</string>
+    <string name="popup_camera_calibrate_running">அளவுத்திருத்தத்தின் போது முன் கேமராவைப் பயன்படுத்த முடியாது.</string>
+    <string name="popup_camera_calibrate_now">அளவுத்திருத்து</string>
+    <string name="popup_camera_calibrate_failed">அளவுதிருத்த செய்ய முடியாது</string>
+    <string name="popup_camera_calibrate_success">வெற்றிகரமாக அளவுத்திருத்தம் செய்யப்பட்டது. நீங்கள் இப்போது முன்புற கேமராவைத் திறக்கலாம்.</string>
+    <string name="stop_operate_camera_frequently">நீங்கள் அடிக்கடி முன்புற கேமராவைத் திறக்கிறீர்கள்.</string>
+    <string name="takeback_camera_front_failed">முன்புற கேமராவை மூட முடியவில்லை. மீண்டும் முயலவும்.</string>
+    <string name="popup_camera_front_failed">முன்புற கேமராவைத் திறக்க முடியவில்லை. மீண்டும் முயலவும்.</string>
+    <string name="popup_camera_proximity_obstructed">முன் கேமராவைத் திறக்க உங்கள் கையை ப்ராக்ஸிமிட்டி சென்சாரிலிருந்து அகற்றவும் ...</string>
+    <!-- Title and summary -->
+    <string name="moto_actions_title">மோட்டோ செயல்கள்</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">சாதன சைகைகள்</string>
+    <string name="device_gestures_summary">சாதன சைகைகளை நிர்வகி</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">சுற்றுப்புற காட்சி சைகைகளை நிர்வகி</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">கைரேகை சைகைகள்</string>
+    <string name="fingerprint_gestures_summary">கைரேகை சைகைளை பயன்படுத்து</string>
+    <string name="fingerprint_gestures_manage_summary">கைரேகை சைகைகளை நிர்வகி</string>
+    <string name="fingerprint_actions_screenon">திரை இயக்கப்படும் போது விளக்குகள்</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">விரல்ரேகை சைகைகள் போது திரை</string>
+    <string name="fingerprint_gestures_screenoff_summary">திரையின் போது கைரேகை சைகைகளைப் பயன்படுத்தவும். \ N இந்த வேறொன்றைப் பயன்படுத்துவதற்கு கைரேகையைத் திறக்க இயலாமல் இருக்க வேண்டும்.</string>
+    <string name="fingerprint_actions_screenoff">திரை இயக்கப்படும் போது விளக்குகள்</string>
+    <!-- Actions -->
+    <string name="action_home">முகப்பு</string>
+    <string name="action_power">திரை இயக்கு/அணை</string>
+    <string name="action_wake">விழித்தெழு</string>
+    <string name="action_back">பின்செல்</string>
+    <string name="action_recents">சமீபத்திய</string>
+    <string name="action_last_app">கடைசி செயலி</string>
+    <string name="action_volume_up">ஒலியை பெருக்கு</string>
+    <string name="action_volume_down">ஒலியை குறை</string>
+    <string name="action_voice_assistant">குரல் உதவியாளர்</string>
+    <string name="action_play_pause">இயக்கு/நிறுத்து</string>
+    <string name="action_previous_track">முந்தைய பாடல்</string>
+    <string name="action_next_track">அடுத்த பாடல்</string>
+    <string name="action_flashlight">பிளஷ்லைட் ஆன்/ஆப்</string>
+    <string name="action_camera">கேமராவை திற</string>
+    <string name="action_screenshot">திரையை படம் எடு</string>
+    <string name="action_browser">உலாவியில் திறக்கவும்</string>
+    <string name="action_dialer">டயலரை திறக்கவும்</string>
+    <string name="action_email">மின்னஞ்சல் பயன்பாட்டைத் திறக்கவும்</string>
+    <string name="action_messages">செய்திகளின் பயன்பாட்டைத் திறக்கவும்</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">திரை ஆஃப் ஆகும் போது சைகைகள் நிர்வகி</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">ஒறுமுறை தட்டுதல் செயல்பாட்டைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="swipe_right_dlg_title">ஒறுமுறை தட்டுதல் செயல்பாட்டைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="swipe_up_dlg_title">ஒறுமுறை தட்டுதல் செயல்பாட்டைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="swipe_down_dlg_title">ஒறுமுறை தட்டுதல் செயல்பாட்டைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="tap_title">ஒறுமுறை தட்டு</string>
+    <string name="double_tap_title">இருமுறை தட்டவும்</string>
+    <string name="long_tap_title">நீண்டமுனற தட்டு</string>
+    <string name="tap_dlg_title">ஒறுமுறை தட்டுதல் செயல்பாட்டைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="double_tap_dlg_title">ஒறுமுறை தட்டுதல் செயல்பாட்டைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="long_tap_dlg_title">ஒறுமுறை தட்டுதல் செயல்பாட்டைத் தேர்ந்தெடுக்கவும்</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">எழுப்ப தட்டவும்</string>
+    <string name="tap_to_wake_summary">சாதனத்தை எடுப்பதற்கு திரையில் எங்கிருந்தும் இருமுறை தட்டவும்</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">ப்ரோக்ஸிமிட்டி சென்சார் அனுமதி</string>
+    <string name="allow_proximity_sensor_summary">செயலைச் செய்வதற்கு முன்னர் அலைபேசி சென்சார் சரிபார்க்கவும்</string>
+    <!-- OnePlus - General -->
+    <string name="oneplus_advanced_settings">ஒன்ப்ளஸ் அமைப்புகள்</string>
+    <string name="oneplus_advanced_settings_summary">உங்கள் சாதனத்திற்கான தனிப்பயன் அமைப்புகள்</string>
+    <!-- OnePlus - Alert slider settings -->
+    <!-- Thermal profiles -->
+    <string name="thermal_benchmark">செயற்திறன்</string>
+    <string name="thermal_browser">உலாவி</string>
+    <string name="thermal_camera">கேமரா</string>
+    <string name="thermal_gaming">ஆட்டங்கள்</string>
+    <!-- Refresh Rate Settings -->
+</resources>

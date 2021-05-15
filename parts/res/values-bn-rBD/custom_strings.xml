@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <!-- Dirac settings -->
+    <string name="dirac_title">Mi সাউন্ড বিবর্ধক</string>
+    <string name="dirac_summary">অডিওয়ের গুণমান অপ্টিমাইজ করুন</string>
+    <string name="dirac_headset_title">হেডফোনের প্রকার বেছে নিন</string>
+    <string name="dirac_preset_title">একটি প্রিসেট বাছুন</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Hi-Fi অডিও</string>
+    <string name="dirac_hifi_summary">শব্দ ও বিকৃতি কমিয়ে অডিও গুণমান বাড়ান</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">ডিফল্ট</string>
+    <string name="dirac_headset_earbuds">Mi ইয়ারবাড</string>
+    <string name="dirac_headset_in_ear_2013">Mi  ইন- ইয়ার(2013)</string>
+    <string name="dirac_headset_piston_1">Mi পিসটন-১</string>
+    <string name="dirac_headset_general">সাধারণ</string>
+    <string name="dirac_headset_general_inear">সাধারণত কানে</string>
+    <string name="dirac_headset_piston_basic">বেসিক সংস্করণ</string>
+    <string name="dirac_headset_piston_2">Mi পিসটন-২</string>
+    <string name="dirac_headset_piston_standard"> আদর্শ সংস্করণ</string>
+    <string name="dirac_headset_headphone">Mi হেডফোন</string>
+    <string name="dirac_headset_piston_youth">যুবা সংস্করণ</string>
+    <string name="dirac_headset_piston_color">রঙ সম্পাদক</string>
+    <string name="dirac_headset_in_ear">Mi ইন-ইয়ার</string>
+    <string name="dirac_headset_capsule">Mi ক্যাপসুল</string>
+    <string name="dirac_headset_in_ear_pro">Mi ইন ইয়ার প্রো</string>
+    <string name="dirac_headset_comfort">Mi কমফর্ট</string>
+    <string name="dirac_headset_reduction_noise">Mi কোলাহল বাতিল টাইপ-C</string>
+    <string name="dirac_headset_cancelling">Mi কোলাহল বাতিল (3.5মি. মি.)</string>
+    <string name="dirac_headset_half_in_ear">Mi হাফ ইন ইয়ার</string>
+    <string name="dirac_headset_in_ear2">Mi ইন-ইয়ার 2</string>
+    <string name="dirac_headset_earphone_basic">Mi ইয়ারফোন বেসিক</string>
+    <string name="dirac_headset_earphone">Mi ইয়েরফোন</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">ডিফল্ট</string>
+    <string name="dirac_preset_rock">রক</string>
+    <string name="dirac_preset_jazz">জ্যাজ</string>
+    <string name="dirac_preset_pop">পপ</string>
+    <string name="dirac_preset_classical">ক্লাসিকাল</string>
+    <string name="dirac_preset_hiphop">হিপ হপ</string>
+    <string name="dirac_preset_blues">ব্লুজ</string>
+    <string name="dirac_preset_electronic">ইলেক্ট্রনিক</string>
+    <string name="dirac_preset_country">কান্ট্রি</string>
+    <string name="dirac_preset_dance">নাচ</string>
+    <string name="dirac_preset_metal">মেটাল</string>
+    <!-- Popup camera settings -->
+    <string name="popup_title_muqin">জাইলোফেন</string>
+    <string name="popup_title_yingyan">কন্ডর</string>
+    <string name="popup_title_mofa">জাদু</string>
+    <string name="popup_title_jijia">মেচা</string>
+    <string name="popup_title_chilun">গিয়ার হুইল</string>
+    <string name="popup_title_cangmen">কেবিন ডোর</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">খেয়াল রাখবেন</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">সামনের ক্যামেরা একাধিক বার বন্ধ করা যায় নি।ক্যামেরা ক্যালিব্রেট করে দেখুন।</string>
+    <string name="popup_camera_popup_failed_times_calibrate">সামনের ক্যামেরা একাধিক বার খোলা যায় নি।ক্যামেরা ক্যালিব্রেট করে দেখুন।</string>
+    <string name="popup_camera_calibrate_now">ক্যালিব্রেট করুন</string>
+    <string name="popup_camera_calibrate_failed">ক্যালিব্রেট করা গেল না</string>
+    <string name="popup_camera_calibrate_success">সফলভাবে ক্যালিব্রেট করা হচ্ছে। আপনি এখন সামনের ক্যামেরা খুলতে পারেন।</string>
+    <string name="stop_operate_camera_frequently">আপনি সামনের ক্যামেরা মাঝে মধ্যেই খুলছেন।</string>
+    <string name="takeback_camera_front_failed">সামনের ক্যামেরা বন্ধ করা যায় নি।আবার চেষ্টা করুন।</string>
+    <string name="popup_camera_front_failed">সামনের ক্যামেরা খোলা যায় নি।আবার চেষ্টা করুন।</string>
+    <!-- Title and summary -->
+    <string name="moto_actions_title">মোটো অ্যাকশন</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">ডিভাইস-ইঙ্গিত</string>
+    <string name="device_gestures_summary">ডিভাইস-ইঙ্গিত পরিচালনা করুন</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">অ্যামবিয়েন্ট ডিসপ্লে ইঙ্গিত পরিচালনা করুন</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">ফিঙ্গারপ্রিন্টের মাধ্যমে নির্দেশনা</string>
+    <string name="fingerprint_gestures_summary">ফিঙ্গারপ্রিন্টের মাধ্যমে নির্দেশনা দিন</string>
+    <string name="fingerprint_gestures_manage_summary">ফিঙ্গারপ্রিন্ট নির্দেশনা পরিচালনা করুন</string>
+    <string name="fingerprint_actions_screenon">স্ক্রিন চালুর সাথে কার্যসমুহ</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">স্ক্রিন বন্ধ থাকা অবস্থায় ফিঙ্গারপ্রিন্ট আকার-ইঙ্গিত</string>
+    <string name="fingerprint_gestures_screenoff_summary">স্ক্রিন বন্ধ অবস্থায় ফিঙ্গারপ্রিন্ট আকার-ইঙ্গিত ব্যবহার করুন।\n\nএই বৈশিষ্ট্যটি ব্যবহার করার সময় এই ফিঙ্গারপ্রিন্টিং আনলকিং বন্ধ করা আবশ্যক।</string>
+    <string name="fingerprint_actions_screenoff">স্ক্রিন বন্ধের সময় কার্যসমুহ</string>
+    <!-- Actions -->
+    <string name="action_home">মূল পাতা</string>
+    <string name="action_power">পর্দা অন/অফ</string>
+    <string name="action_wake">जागना</string>
+    <string name="action_back">পেছনে</string>
+    <string name="action_recents">সাম্প্রতিক</string>
+    <string name="action_last_app">সর্বশেষ অ্যাপ</string>
+    <string name="action_volume_up">ভলিউম বাড়ান</string>
+    <string name="action_volume_down">ভলিউম কমান</string>
+    <string name="action_voice_assistant">ভয়েস অ্যাসিস্ট্যান্ট</string>
+    <string name="action_play_pause">চালান/বিরতি</string>
+    <string name="action_previous_track">আগের গান</string>
+    <string name="action_next_track">পরের গান</string>
+    <string name="action_flashlight">উজ্জ্বল বাতি চালু/বন্ধ</string>
+    <string name="action_camera">ক্যামেরা খুলুন</string>
+    <string name="action_screenshot">স্ক্রীনের স্থির চিত্র নিন</string>
+    <string name="action_browser">ব্রাউজার খুলুন</string>
+    <string name="action_dialer">ডায়ালার খুলুন</string>
+    <string name="action_email">ই-মেইল অ্যাপ খুলুন</string>
+    <string name="action_messages">বার্তার অ্যাপ খুলুন</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">স্ক্রিন বন্ধ অবস্থার আকার-ইঙ্গিত পরিচালনা করুন</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">বামে সোয়াইপের জন্য ক্রিয়া নির্বাচন করুন</string>
+    <string name="swipe_right_dlg_title">ডানে সোয়াইপের জন্য ক্রিয়া নির্বাচন করুন</string>
+    <string name="swipe_up_dlg_title">উপরে সোয়াইপের জন্য ক্রিয়া নির্বাচন করুন</string>
+    <string name="swipe_down_dlg_title">নিচে সোয়াইপের জন্য ক্রিয়া নির্বাচন করুন</string>
+    <string name="tap_title">একটি ট্যাপ করুন</string>
+    <string name="double_tap_title">ডাবল ট্যাপ</string>
+    <string name="long_tap_title">দীর্ঘায়িত ট্যাপ</string>
+    <string name="tap_dlg_title">একটি ট্যাপের জন্য ক্রিয়া নির্বাচন করুন</string>
+    <string name="double_tap_dlg_title">ডাবল ট্যাপের জন্য ক্রিয়া নির্বাচন করুন</string>
+    <string name="long_tap_dlg_title">দীর্ঘায়িত ট্যাপের জন্য ক্রিয়া নির্বাচন করুন</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">জাগিয়ে তুলতে ট্যাপ করুন</string>
+    <string name="tap_to_wake_summary">জাগিয়ে তুলতে ডিভাইস স্ক্রিনের যেকোন স্থানে ডাবল ট্যাপ করুন</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">প্রক্সিমিটি সেন্সর অনুমোদন করুন</string>
+    <string name="allow_proximity_sensor_summary">কার্যটি শুরু করার আগে সান্নিধ্য পরীক্ষা করুন</string>
+    <!-- OnePlus - General -->
+    <string name="oneplus_advanced_settings">ওয়ানপ্লাস সেটিংস</string>
+    <string name="oneplus_advanced_settings_summary">আপনার ডিভাইসের জন্য পছন্দসই নিয়ন্ত্রণ</string>
+    <!-- OnePlus - Alert slider settings -->
+    <string name="notification_slider_selection_dialog_title">আচরণ</string>
+    <string name="notification_slider_top_position">উপরের স্থান</string>
+    <string name="notification_slider_middle_position">মধ্য স্থান</string>
+    <string name="notification_slider_bottom_position">নিচের স্থান</string>
+    <string name="notification_slider_mode_total_silence">সম্পূর্ণ নিশ্চুপ</string>
+    <string name="notification_slider_mode_priority_only">শুধু অগ্রাধিকার</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_benchmark">পারফরম্যান্স</string>
+    <string name="thermal_browser">ব্রাউজার</string>
+    <string name="thermal_camera">ক্যামেরা</string>
+    <string name="thermal_dialer">ডায়ালার</string>
+    <string name="thermal_gaming">গেমস</string>
+    <!-- Refresh Rate Settings -->
+</resources>

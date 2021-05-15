@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="display_title">Affichage</string>
+    <string name="dc_dimming_enable_title">Anti-scintillement</string>
+    <string name="dc_dimming_enable_summary">Le mode anti-scintillement aide à réduire la fatigue oculaire dans des conditions de faible lumière en utilisant la fonction \"DC dégradation\". Cela peut dégrader la précision des couleurs et affecter les éléments affichés à l\'écran.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Le mode anti-scintillement n\'est actuellement pas supporté par le noyau</string>
+    <string name="dirac_title">Amélioration audio Mi</string>
+    <string name="dirac_summary">Optimiser la qualité audio</string>
+    <string name="dirac_headset_title">Sélectionnez le type d\'écouteurs</string>
+    <string name="dirac_preset_title">Choisir une présélection</string>
+    <string name="dirac_hifi_title">Audio Hi-Fi</string>
+    <string name="dirac_hifi_summary">Réduire le bruit et la distorsion et augmenter la qualité audio</string>
+    <string name="dirac_hifi_enable_title">Activer le Hi-fi</string>
+    <string name="dirac_headset_default">Par défaut</string>
+    <string name="dirac_headset_earbuds">Écouteurs Mi</string>
+    <string name="dirac_headset_in_ear_2013">Écouteurs intra Mi (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">Général</string>
+    <string name="dirac_headset_general_inear">Intra générique</string>
+    <string name="dirac_headset_piston_basic">Édition basique</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Édition standard</string>
+    <string name="dirac_headset_headphone">Casque Mi</string>
+    <string name="dirac_headset_piston_youth">Édition Jeunesse</string>
+    <string name="dirac_headset_piston_color">Édition colorée</string>
+    <string name="dirac_headset_in_ear">Intra Mi</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Intra Mi Pro</string>
+    <string name="dirac_headset_comfort">Confort</string>
+    <string name="dirac_headset_reduction_noise">Mi Annulation de bruit Type C</string>
+    <string name="dirac_headset_cancelling">Mi Annulation de bruit 3,5 mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half in-Ear</string>
+    <string name="dirac_headset_in_ear2">Écouteurs intra Mi 2</string>
+    <string name="dirac_headset_earphone_basic">Écouteurs Basiques Mi</string>
+    <string name="dirac_headset_earphone">Écouteurs Mi</string>
+    <string name="dirac_preset_default">Par défaut</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Classique</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Électronique</string>
+    <string name="dirac_preset_country">Country</string>
+    <string name="dirac_preset_dance">Dance</string>
+    <string name="dirac_preset_metal">Métal</string>
+    <string name="popup_settings_title">Paramètres de caméra pop-up</string>
+    <string name="popup_led_title">LED de la caméra</string>
+    <string name="popup_led_summary">Allumer la LED lorsque la caméra frontale apparaît et se rétracte</string>
+    <string name="popup_sound_title">Effets sonores</string>
+    <string name="popup_title_muqin">Xylophone</string>
+    <string name="popup_title_yingyan">Condor</string>
+    <string name="popup_title_mofa">Magique</string>
+    <string name="popup_title_jijia">Mecha</string>
+    <string name="popup_title_chilun">Roue dentée</string>
+    <string name="popup_title_cangmen">Porte de cabine</string>
+    <string name="popup_camera_tip">Attention</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Impossible de fermer l\'appareil photo frontale plusieurs fois. Essayez de calibrer l\'appareil photo.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Impossible d\'ouvrir l\'appareil photo frontale plusieurs fois. Essayez de calibrer l\'appareil photo.</string>
+    <string name="popup_camera_calibrate_running">La caméra frontale ne peut pas être utilisée pendant l\'étalonnage.</string>
+    <string name="popup_camera_calibrate_now">Calibrer</string>
+    <string name="popup_camera_calibrate_failed">Impossible de calibrer</string>
+    <string name="popup_camera_calibrate_success">Calibré avec succès. Vous pouvez ouvrir l\'appareil photo frontale maintenant.</string>
+    <string name="stop_operate_camera_frequently">Tu ouvres trop souvent la l\'appareil photo frontale.</string>
+    <string name="takeback_camera_front_failed">Impossible de fermer l\'appareil photo avant. Réessayer.</string>
+    <string name="popup_camera_front_failed">Impossible d\'ouvrir l\'appareil photo frontale. Réessayer.</string>
+    <string name="popup_camera_proximity_obstructed">Retirez votre main du capteur de proximité pour activer la caméra avant ...</string>
+    <string name="clear_speaker_title">Nettoyer le haut-parleur</string>
+    <string name="clear_speaker_summary">Joue un son de 30 secondes pour nettoyer le haut-parleur</string>
+    <string name="clear_speaker_description">Éxécutez cette fonction une ou deux fois si votre haut-parleur est légèrement bouché par de la poussière. Réglez le volume au maximum.\n\nSi le haut-parleur est plus encombré, répétez de 2 à 5 fois la procédure tout en secouant le téléphone avec le haut-parleur vers le bas.</string>
+    <string name="moto_actions_title">Gestes Moto</string>
+    <string name="device_gestures_title">Gestes de balayage</string>
+    <string name="device_gestures_summary">Gérer les mouvements de l’appareil</string>
+    <string name="ambient_display_manage_summary">Gestes pour les options de réveil de l\'affichage en mode veille</string>
+    <string name="fingerprint_gestures_title">Gestes d’empreintes</string>
+    <string name="fingerprint_gestures_summary">Utiliser des gestes d’empreintes digitales</string>
+    <string name="fingerprint_gestures_manage_summary">Gérer les gestes d’empreintes digitales</string>
+    <string name="fingerprint_actions_screenon">Actions avec écran sur</string>
+    <string name="fingerprint_gestures_screenoff_title">D’empreintes digitales de gestes quand écran éteint</string>
+    <string name="fingerprint_gestures_screenoff_summary">Utiliser les gestes d’empreintes digitales quand l’écran est éteint.\n\nL\'enpreinte de déverrouillage doit être désactivé pour utiliser cette fonctionnalité.</string>
+    <string name="fingerprint_actions_screenoff">Actions avec écran sur</string>
+    <string name="action_home">Accueil</string>
+    <string name="action_power">Écran éteint</string>
+    <string name="action_wake">Réveil</string>
+    <string name="action_back">Retour</string>
+    <string name="action_recents">Vue des applications récentes</string>
+    <string name="action_last_app">Application précédente</string>
+    <string name="action_volume_up">Augmenter le volume</string>
+    <string name="action_volume_down">Diminuer le volume</string>
+    <string name="action_voice_assistant">Assistant vocal</string>
+    <string name="action_play_pause">Lecture/Pause</string>
+    <string name="action_previous_track">Titre précédent</string>
+    <string name="action_next_track">Titre suivant</string>
+    <string name="action_flashlight">Lampe de poche désactivée.</string>
+    <string name="action_camera">Ouvrir l\'appareil photo</string>
+    <string name="action_screenshot">Faire une capture d\'écran</string>
+    <string name="action_browser">Ouvrir le navigateur</string>
+    <string name="action_dialer">Ouvrir le composeur</string>
+    <string name="action_email">Ouvrir l\'application d\'e-mail</string>
+    <string name="action_messages">Ouvrir l\'application message</string>
+    <string name="screen_off_gestures_manage_summary">Gérer les gestes lorsque l’écran est désactivé</string>
+    <string name="swipe_left_dlg_title">Sélectionnez l’action de balayage gauche</string>
+    <string name="swipe_right_dlg_title">Sélectionnez l’action de coup droit</string>
+    <string name="swipe_up_dlg_title">Sélectionnez l’action de balayage gauche</string>
+    <string name="swipe_down_dlg_title">Sélectionnez l’action de balayage gauche</string>
+    <string name="tap_title">Appui court</string>
+    <string name="double_tap_title">Appuyer deux fois</string>
+    <string name="long_tap_title">Appui long</string>
+    <string name="tap_dlg_title">Sélectionnez action pour seul robinet</string>
+    <string name="double_tap_dlg_title">Action de sélection pour le double robinet</string>
+    <string name="long_tap_dlg_title">Sélectionnez l’action de clic long</string>
+    <string name="tap_to_wake">Appuyez pour revenir en arrière</string>
+    <string name="tap_to_wake_summary">Appuyez deux fois n\'importe où sur l\'écran pour réactiver l\'appareil.</string>
+    <string name="allow_proximity_sensor_title">Afficher le Capteur de Proximité</string>
+    <string name="allow_proximity_sensor_summary">Vérifiez le capteur de proximité avant d’exécuter l’action</string>
+    <string name="oneplus_advanced_settings">Paramètres OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Paramètres personnalisés pour votre appareil</string>
+    <string name="notification_slider_category_title">Le curseur d\'alerte</string>
+    <string name="notification_slider_selection_dialog_title">Action</string>
+    <string name="notification_slider_top_position">Position haute</string>
+    <string name="notification_slider_middle_position">Position intermédiaire</string>
+    <string name="notification_slider_bottom_position">Position basse</string>
+    <string name="notification_slider_mode_total_silence">Silence complet</string>
+    <string name="notification_slider_mode_alarms_only">Alarmes uniquement</string>
+    <string name="notification_slider_mode_priority_only">Prioritaires uniquement</string>
+    <string name="notification_slider_mode_silent">Silencieux</string>
+    <string name="notification_slider_mode_vibrate">Vibreur</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <string name="thermal_title">Profil d\'optimisation</string>
+    <string name="thermal_summary">Ajustez les profils pour chaque application pour des performances optimales</string>
+    <string name="thermal_default">Aucune optimisation</string>
+    <string name="thermal_benchmark">Performance</string>
+    <string name="thermal_browser">Internet</string>
+    <string name="thermal_camera">Appareil photo</string>
+    <string name="thermal_dialer">Téléphone</string>
+    <string name="thermal_gaming">Jeux</string>
+    <string name="thermal_streaming">Flux des applications</string>
+    <string name="raise_to_wake_gesture_title">Lever pour faire sortir de veille</string>
+    <string name="raise_to_wake_gesture_summary">Réveiller l\'appareil au lieu de pulser les notifications</string>
+    <string name="device_min_refresh_rate">Taux de rafraîchissement minimum</string>
+    <string name="refresh_rate_settings_title">Taux de rafraîchissement de l\'écran </string>
+    <string name="refresh_rate_settings_summary">Ajuster la fréquence de rafraîchissement de l\'écran</string>
+    <string name="touch_control_title">Optimisations de l\'écran tactile</string>
+    <string name="touch_game_mode_title">Activer le mode jeu</string>
+    <string name="touch_game_mode_summary">Aide à améliorer l\'expérience de jeu en optimisant l\'écran tactile</string>
+    <string name="touch_response_title">Taux de réponse tactile</string>
+    <string name="touch_response_summary">Contrôler le taux de réponse tactile </string>
+    <string name="touch_sensitivity_title">Sensibilité du toucher</string>
+    <string name="touch_sensitivity_summary">Contrôle la sensibilité des touchers répétés</string>
+    <string name="touch_resistant_title">Zone non-tactile</string>
+    <string name="touch_resistant_summary">Réduit la sensibilité près des bords pour éviter des manipulations involontaires</string>
+    <string name="home_button_extra_settings">Customiser l\'action du bouton d\'accueil</string>
+    <string name="assistant_button_action">Action de la touche d\'Assistant</string>
+    <string name="stylus_title">Stylet</string>
+</resources>

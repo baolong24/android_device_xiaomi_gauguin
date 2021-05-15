@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <!-- Dirac settings -->
+    <string name="dirac_title">Mi အသံကောင်းမွန်စေသူ</string>
+    <string name="dirac_summary">အသံ အရည်အသွေးကို မြှင့်တင်မည်</string>
+    <string name="dirac_headset_title">နားကြပ်အမျိုးအစားရွေးချယ်ပါ</string>
+    <string name="dirac_preset_title">ကြိုတင်သတ်မှတ်မှု တစ်ခု ရွေးပါ</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">ဟိုင်ဖိုင် အော်ဒီယို</string>
+    <string name="dirac_hifi_summary">ဆူညံသံ နှင့် အဖျက်သံများကို လျော့ပြီး အသံအရည်အသွေးကို မြှင့်တင်ပါ</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">မူရင်း</string>
+    <string name="dirac_headset_earbuds">Mi နားကြပ်ပေါက်</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi ပစ်စတန်-1</string>
+    <string name="dirac_headset_general">အထွေထွေ</string>
+    <string name="dirac_headset_general_inear">နားတွင်းအထွေထွေ</string>
+    <string name="dirac_headset_piston_basic">အခြေခံ တည်းဖြတ်ချက်</string>
+    <string name="dirac_headset_piston_2">Mi ပစ်စတန်-2</string>
+    <string name="dirac_headset_piston_standard">စံ တည်းဖြတ်ချက်</string>
+    <string name="dirac_headset_headphone">Mi နားကြပ်များ</string>
+    <string name="dirac_headset_piston_youth">လူငယ်နှင့်ဆိုင်သော</string>
+    <string name="dirac_headset_piston_color">အရောင်တည်းဖြတ်မှု</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear နားကြပ်</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro နားကြပ်</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi ဆူညံသံလျှော့ချခြင်း Type-C</string>
+    <string name="dirac_headset_cancelling">Mi ဆူညံသံလျှော့ချခြင်း 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Mi နားကြပ်</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">ပုံသေ</string>
+    <string name="dirac_preset_rock">ရော့ခ်</string>
+    <string name="dirac_preset_jazz">ဂျတ်ဇ်ဂီတ</string>
+    <string name="dirac_preset_pop">ပေါ့ပ်</string>
+    <string name="dirac_preset_classical">ဂန္ထဝင်ဂီတ</string>
+    <string name="dirac_preset_hiphop">ဟစ်ဟော့ပ်</string>
+    <string name="dirac_preset_blues">ဘလူးစ်ဂီတ</string>
+    <string name="dirac_preset_electronic">အီလက်ထရွန်နစ် ဂီတ</string>
+    <string name="dirac_preset_country">ကျေးလက်ဂီတ</string>
+    <string name="dirac_preset_dance">ဒန့်စ်</string>
+    <string name="dirac_preset_metal">မက်တယ်လ် ဂီတ</string>
+    <!-- Popup camera settings -->
+    <string name="popup_title_muqin">ပတ္တလား</string>
+    <string name="popup_title_yingyan">လင်းယုန် မျက်လုံး</string>
+    <string name="popup_title_mofa">မျက်လှည့်</string>
+    <string name="popup_title_jijia">မက္ကင်းနစ်</string>
+    <string name="popup_title_chilun">ဂီယာဘီး</string>
+    <string name="popup_title_cangmen">လေယာဉ် တံခါး</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">သတိပြုရန်</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">အရှေ့ကင်မရာ ပိတ်ရာတွင် မအောင်မြင်ပါ။ ချိန်ညှိပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="popup_camera_popup_failed_times_calibrate">အရှေ့ကင်မရာ ဖွင့်ရာတွင် မအောင်မြင်ပါ။ ချိန်ညှိပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="popup_camera_calibrate_now">ချိန်ညှိပါ</string>
+    <string name="popup_camera_calibrate_failed">ချိန်ညှိ၍ မရခဲ့ပါ</string>
+    <string name="popup_camera_calibrate_success">ချိန်ညှိပြီးပါပြီ။ အရှေ့ကင်မရာအား ယခု ဖွင့်နိုင်ပါပြီ။</string>
+    <string name="stop_operate_camera_frequently">အရှေ့ကင်မရာအား ခဏခဏ ဖွင့်နေသည်။</string>
+    <string name="takeback_camera_front_failed">အရှေ့ကင်မရာအား ပိတ်၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="popup_camera_front_failed">အရှေ့ကင်မရာအား ဖွင့်၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <!-- Title and summary -->
+    <string name="moto_actions_title">Moto လုပ်ဆောင်ချက်များ</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">ဖုန်းလုပ်ဆောင်ချက်များအား ခြေဟန်လက်ဟန်ဖြင့် အသုံးပြုခြင်း</string>
+    <string name="device_gestures_summary">ခြေဟန်လက်ဟန်များအား စီမံခြင်း</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">အလင်းအမှောင်ပြသမှုအသုံးပြု ခြေဟန်လက်ဟန်များကို စီမံခြင်း</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">လက်ဗွေရာအသုံးပြု ခြေဟန်လက်ဟန်များ</string>
+    <string name="fingerprint_gestures_summary">လက်ဗွေရာအသုံးပြု ခြေဟန်လက်ဟန်များအား သုံးမည်</string>
+    <string name="fingerprint_gestures_manage_summary">လက်ဗွေရာအသုံးပြု ခြေဟန်လက်ဟန်များအား စီမံမည်</string>
+    <string name="fingerprint_actions_screenon">မျက်နှာပြင်ပွင့်နေသည့်အခါ ပြုလုပ်သည့် လုပ်ဆောင်ချက်များ</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">မျက်နှာပြင်ပိတ်ထားသည့်အခါ အသုံးပြုသည့် လက်ဗွေရာအသုံးပြု ခြေဟန်လက်ဟန်များ</string>
+    <string name="fingerprint_gestures_screenoff_summary">မျက်နှာပြင်ပိတ်ထားသည့်အချိန်တွင် လက်ဗွေရာအသုံးပြုခြေဟန်လက်ဟန်များအား အသုံးပြုပါ။\n\nယင်းစနစ်ကို အသုံးပြုလျှင် လက်ဗွေရာအသုံးပြု၍ ဖုန်းဖွင့်ခြင်းကို ပိတ်ထားရမည်ဖြစ်ပါသည်။</string>
+    <string name="fingerprint_actions_screenoff">မျက်နှာပြင်ပိတ်ထားသည့်အခါ ပြုလုပ်သည့် လုပ်ဆောင်ချက်များ</string>
+    <!-- Actions -->
+    <string name="action_home">ပင်မ</string>
+    <string name="action_power">မျက်နှာပြင်ပိတ်/ဖွင့်</string>
+    <string name="action_wake">မျက်နှာပြင်ပွင့်သည်</string>
+    <string name="action_back">ပြန်ထွက်ခြင်း</string>
+    <string name="action_recents">လတ်တလောအသုံးပြုထားသည့် အက်ပ်များအား ပြန်လည်ခေါ်ယူခြင်း</string>
+    <string name="action_last_app">နောက်ဆုံးအသုံးပြုခဲ့သည့် အက်ပ်</string>
+    <string name="action_volume_up">အသံမြှင့်</string>
+    <string name="action_volume_down">အသံနိမ့်</string>
+    <string name="action_voice_assistant">အသံဖြင့် ဖုန်းကို ခိုင်းစေ၍ ရသည့် စနစ်</string>
+    <string name="action_play_pause">ဖွင့်သည်/ခေတ္တရပ်သည်</string>
+    <string name="action_previous_track">ယခင် အပုဒ်</string>
+    <string name="action_next_track">နောက် အပုဒ်</string>
+    <string name="action_flashlight">ဓာတ်မီးဖွင့်/ပိတ်</string>
+    <string name="action_camera">ကင်မရာ ဖွင့်ပါ</string>
+    <string name="action_screenshot">မျက်နှာပြင်ကို ဓာတ်ပုံရိုက်ပါ</string>
+    <string name="action_browser">ဘရောက်ဇာတွင် ဖွင့်ပါ</string>
+    <string name="action_dialer">ဖုန်းခေါ်ဆိုသည့် မျက်နှာပြင်ကို ဖွင့်ခြင်း</string>
+    <string name="action_email">အီးမေးလ်ကို ဖွင့်ခြင်း</string>
+    <string name="action_messages">စာတိုဖွင့်ခြင်း</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">မျက်နှာပြင်ပိတ်ထားသည့် အချိန်တွင် ခြေဟန်လက်ဟန်များအား စီမံခြင်း</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">မျက်နှာပြင် ဘယ်ဘက်သို့ ဖိဆွဲသည့်အခါ ပြုလုပ်မည့် လုပ်ဆောင်ချက်ကို ရွေးပါ။</string>
+    <string name="swipe_right_dlg_title">မျက်နှာပြင် ညာဘက်သို့ ဖိဆွဲသည့်အခါ ပြုလုပ်မည့် လုပ်ဆောင်ချက်ကို ရွေးပါ။</string>
+    <string name="swipe_up_dlg_title">မျက်နှာပြင် အပေါ်ဘက်သို့ ဖိဆွဲသည့်အခါ ပြုလုပ်မည့် လုပ်ဆောင်ချက်ကို ရွေးပါ။</string>
+    <string name="swipe_down_dlg_title">မျက်နှာပြင် အောက်ဘက်သို့ ဖိဆွဲသည့်အခါ ပြုလုပ်မည့် လုပ်ဆောင်ချက်ကို ရွေးပါ။</string>
+    <string name="tap_title">မျက်နှာပြင်ကို တချက်ခေါက်ခြင်း</string>
+    <string name="double_tap_title">နှစ်ကြိမ်ခေါက်ခြင်း</string>
+    <string name="long_tap_title">အကြာကြီး ဖိထားခြင်း</string>
+    <string name="tap_dlg_title">မျက်နှာပြင်ကို တချက်ခေါက်သည့်အခါ ပြုလုပ်မည့် လုပ်ဆောင်ချက်ကို ရွေးပါ။</string>
+    <string name="double_tap_dlg_title">မျက်နှာပြင်ကို နှစ်ချက်ခေါက်သည့်အခါ ပြုလုပ်မည့် လုပ်ဆောင်ချက်ကို ရွေးပါ။</string>
+    <string name="long_tap_dlg_title">မျက်နှာပြင်ကို ကြာကြာဖိထားသည့်အခါ ပြုလုပ်မည့် လုပ်ဆောင်ချက်ကို ရွေးပါ။</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">ဖုန်းမျက်နှာပြင် လင်းလာစေရန် တို့ခြင်း</string>
+    <string name="tap_to_wake_summary">ဖုန်းမျက်နှာပြင် လင်းစေရန် မျက်နှာပြင်ပေါ်ရှိ မည်သည့်နေရာမဆိုအား နှစ်ကြိမ်-တို့ပါ</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">အကွာအ‌ဝေးအာရုံခံကိရိယာကို ခွင့်ပြုမည်</string>
+    <string name="allow_proximity_sensor_summary">လုပ်ဆောင်ချက်တခုကို မပြုလုပ်မီ အကွာအ‌ဝေးအာရုံခံကိရိယာကို စစ်ဆေးပါ</string>
+    <!-- OnePlus - General -->
+    <string name="oneplus_advanced_settings">OnePlus ချိန်ညှိမှုများ</string>
+    <string name="oneplus_advanced_settings_summary">သင့်ဖုန်းအတွက် သင့်စိတ်ကြိုက်ချိန်ညှိမှုများ</string>
+    <!-- OnePlus - Alert slider settings -->
+    <!-- Thermal profiles -->
+    <string name="thermal_title">ဖုန်းကို ပိုမိုကောင်းမွန်အောင် ပြုလုပ်ပေးခြင်း အချက်အလက်များ</string>
+    <string name="thermal_default">ပိုမိုကောင်းမွန်အောင် ပြုလုပ်ထားခြင်း မရှိ</string>
+    <string name="thermal_benchmark">ဖုန်းအသုံးပြုမှု အချက်အလက်များ</string>
+    <string name="thermal_browser">ဘရောက်ဇာ</string>
+    <string name="thermal_camera">ကင်မရာ</string>
+    <string name="thermal_dialer">ဖုန်းခေါ်ဆိုရန်</string>
+    <string name="thermal_gaming">ဂိမ်းများ</string>
+    <!-- Refresh Rate Settings -->
+</resources>

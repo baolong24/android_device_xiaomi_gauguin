@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="display_title">Näyttö</string>
+    <string name="dc_dimming_enable_title">Vilkkumisen esto</string>
+    <string name="dc_dimming_enable_summary">Vilkkumisen esto tila vähentää silmien väsymistä vähäisessä valossa käyttämällä \"DC hämärrys\" ominaisuutta. Se voi heikentää väritoiston tarkkuutta ja se voi vaikuttaa miten jotkin kohteet näkyvät näytöllä.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Vilkkumattomuuden poisto ei ole nyt kernelin tukema</string>
+    <string name="dirac_title">Mi Sound Enhancer</string>
+    <string name="dirac_summary">Optimoi äänenlaatua</string>
+    <string name="dirac_headset_title">Valitse kuuloke tyyppi</string>
+    <string name="dirac_preset_title">Valitse esiasetus</string>
+    <string name="dirac_hifi_title">Hi-Fi ääni</string>
+    <string name="dirac_hifi_summary">Vähennä melua ja häiriöitä ja paranna äänenlaatua</string>
+    <string name="dirac_hifi_enable_title">Hi-fi päälle</string>
+    <string name="dirac_headset_default">Oletus</string>
+    <string name="dirac_headset_earbuds">Mi Earbuds</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">Yleinen</string>
+    <string name="dirac_headset_general_inear">Yleinen In-ear -kuuloke</string>
+    <string name="dirac_headset_piston_basic">Basic Edition</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Standard Edition</string>
+    <string name="dirac_headset_headphone">Mi-kuulokkeet</string>
+    <string name="dirac_headset_piston_youth">Youth Edition</string>
+    <string name="dirac_headset_piston_color">Color Edition</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi Noise Cancelling Type-C</string>
+    <string name="dirac_headset_cancelling">Mi Noise Cancelling 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Mi Earphones</string>
+    <string name="dirac_preset_default">Oletus</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Klassinen</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Electronic</string>
+    <string name="dirac_preset_country">Kantri</string>
+    <string name="dirac_preset_dance">Dance</string>
+    <string name="dirac_preset_metal">Metalli</string>
+    <string name="popup_settings_title">Popup-kameran asetukset</string>
+    <string name="popup_led_title">Kameran LED</string>
+    <string name="popup_led_summary">Näytä LED valo kun etukamera ilmestyy ja vetäytyy</string>
+    <string name="popup_sound_title">Äänitehosteet</string>
+    <string name="popup_title_muqin">Ksylofoni</string>
+    <string name="popup_title_yingyan">Korppikotka</string>
+    <string name="popup_title_mofa">Taika</string>
+    <string name="popup_title_jijia">Mecha</string>
+    <string name="popup_title_chilun">Hammaspyörä</string>
+    <string name="popup_title_cangmen">Mökin ovi</string>
+    <string name="popup_camera_tip">Huomio</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Etukameraa ei voitu sulkea useaan kertaan. Yritä kameran kalibrointia.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Etukameraa ei voitu avata useaan kertaan. Yritä kameran kalibrointia.</string>
+    <string name="popup_camera_calibrate_running">Etukameraa ei voi käyttää kalibroinnin aikana.</string>
+    <string name="popup_camera_calibrate_now">Kalibroi</string>
+    <string name="popup_camera_calibrate_failed">Ei voitu kalibroida</string>
+    <string name="popup_camera_calibrate_success">Kalibroitiin onnistuneesti. Voit avata etukameran nyt.</string>
+    <string name="stop_operate_camera_frequently">Avaat etukameraa liian usein.</string>
+    <string name="takeback_camera_front_failed">Etukameraa ei voitu sulkea. Yritä uudelleen.</string>
+    <string name="popup_camera_front_failed">Etukameraa ei voitu avata. Yritä uudelleen</string>
+    <string name="popup_camera_proximity_obstructed">Poista kätesi etäisyysanturilta avataksesi etukameran...</string>
+    <string name="clear_speaker_title">Selvä kaijutin</string>
+    <string name="clear_speaker_summary">Soita 30-sekunttia ääntä puhdistaaksesi kaijuttimen.</string>
+    <string name="clear_speaker_description">Käytä tätä toimintoa muutaman kerran, jos kaijutin on pölyssä tai tukossa. Aseta volyymi maksimiin \n\n jos kaijutin on tukossa pahasti, niin toista tämä monta kertaa ravistaen kaijutin alaspäin.</string>
+    <string name="moto_actions_title">Moto Toiminnot</string>
+    <string name="device_gestures_title">Laite-eleet</string>
+    <string name="device_gestures_summary">Hallitse laite-eleitä</string>
+    <string name="ambient_display_manage_summary">Hallitse ambient-näytön eleitä</string>
+    <string name="fingerprint_gestures_title">Sormenjälkieleet</string>
+    <string name="fingerprint_gestures_summary">Käytä sormenjälkieleitä</string>
+    <string name="fingerprint_gestures_manage_summary">Hallitse sormenjälkieleitä</string>
+    <string name="fingerprint_actions_screenon">Toiminnot näytön ollessa päällä</string>
+    <string name="fingerprint_gestures_screenoff_title">Sormenjälkieleet näytön ollessa suljettuna</string>
+    <string name="fingerprint_gestures_screenoff_summary">Käytä sormenjälkieleitä, näytön ollessa suljettuna.\n\nSormenjälkiavauksen täytyy olla poistettuna käytöstä, jotta voit käyttää tätä ominaisuutta.</string>
+    <string name="fingerprint_actions_screenoff">Toiminnot näytön ollessa suljettu</string>
+    <string name="action_home">Etusivu</string>
+    <string name="action_power">Näyttö päälle/pois</string>
+    <string name="action_wake">Herätä</string>
+    <string name="action_back">Takaisin</string>
+    <string name="action_recents">Viimeaikaiset</string>
+    <string name="action_last_app">Viimeisin sovellus</string>
+    <string name="action_volume_up">Äänenvoimakkuus ylös</string>
+    <string name="action_volume_down">Äänenvoimakkuus alas</string>
+    <string name="action_voice_assistant">Google Assistantti</string>
+    <string name="action_play_pause">Toista/tauko</string>
+    <string name="action_previous_track">Edellinen kappale</string>
+    <string name="action_next_track">Seuraava kappale</string>
+    <string name="action_flashlight">Taskulamppu päälle/pois</string>
+    <string name="action_camera">Avaa kamera</string>
+    <string name="action_screenshot">Ota kuvakaappaus</string>
+    <string name="action_browser">Avaa selain</string>
+    <string name="action_dialer">Avaa puhelinsovellus</string>
+    <string name="action_email">Avaa sähköpostiohjelma</string>
+    <string name="action_messages">Avaa viestisovellus</string>
+    <string name="screen_off_gestures_manage_summary">Hallitse toimintoja, kun näyttö on pois päältä</string>
+    <string name="swipe_left_dlg_title">Valitse toiminto vasemmalle pyyhkäisylle</string>
+    <string name="swipe_right_dlg_title">Valitse toiminto oikealle pyyhkäisylle</string>
+    <string name="swipe_up_dlg_title">Valitse toiminto ylöspäin pyyhkäisylle</string>
+    <string name="swipe_down_dlg_title">Valitse toiminto alaspäin pyyhkäisylle</string>
+    <string name="tap_title">Yksi napautus</string>
+    <string name="double_tap_title">Kaksoisnapautus</string>
+    <string name="long_tap_title">Pitkä painallus</string>
+    <string name="tap_dlg_title">Valitse toiminto yhdelle napautukselle</string>
+    <string name="double_tap_dlg_title">Valitse toiminto kaksoisnapautukselle</string>
+    <string name="long_tap_dlg_title">Valitse toiminto pitkälle napautukselle</string>
+    <string name="tap_to_wake">Herätä napauttamalla</string>
+    <string name="tap_to_wake_summary">Herätä laite napauttamalla näyttöä kahdesti</string>
+    <string name="allow_proximity_sensor_title">Ota etäisyysanturi käyttöön</string>
+    <string name="allow_proximity_sensor_summary">Tarkista etäisyysanturi ennen toiminnon suorittamista</string>
+    <string name="oneplus_advanced_settings">OnePlus Asetukset</string>
+    <string name="oneplus_advanced_settings_summary">Muokatut asetukset laitteellesi</string>
+    <string name="notification_slider_category_title">Hälytys säädin</string>
+    <string name="notification_slider_selection_dialog_title">Toiminto</string>
+    <string name="notification_slider_top_position">Yläasento</string>
+    <string name="notification_slider_middle_position">Keskiasento</string>
+    <string name="notification_slider_bottom_position">Ala-asento</string>
+    <string name="notification_slider_mode_total_silence">Täysin äänetön</string>
+    <string name="notification_slider_mode_alarms_only">Vain hälytykset</string>
+    <string name="notification_slider_mode_priority_only">Vain tärkeät</string>
+    <string name="notification_slider_mode_silent">Äänetön</string>
+    <string name="notification_slider_mode_vibrate">Värinä</string>
+    <string name="notification_slider_mode_none">Normaali</string>
+    <string name="thermal_title">Optimointi profiili</string>
+    <string name="thermal_summary">Säädä ohjelmakohtasia profiileja optimaaliselle suorituskyvylle</string>
+    <string name="thermal_default">Ei optimointia</string>
+    <string name="thermal_benchmark">Suorituskyky</string>
+    <string name="thermal_browser">Selain</string>
+    <string name="thermal_camera">Kamera</string>
+    <string name="thermal_dialer">Puhelin</string>
+    <string name="thermal_gaming">Pelit</string>
+    <string name="thermal_streaming">Suoratoistosovellukset</string>
+    <string name="raise_to_wake_gesture_title">Nosta herättääksesi</string>
+    <string name="raise_to_wake_gesture_summary">Herätä laite ilmoitusten vilkuttamisen sijaan</string>
+    <string name="device_min_refresh_rate">Minimi virkistystaajuus</string>
+    <string name="refresh_rate_settings_title">Näytön virkistystaajuus</string>
+    <string name="refresh_rate_settings_summary">Säädä näytön päivitystaajuus</string>
+    <string name="touch_control_title">Kosketusnäytön optimoinnit</string>
+    <string name="touch_game_mode_title">Ota pelitila käyttöön</string>
+    <string name="touch_game_mode_summary">Auttaa parantamaan pelikokemusta optimoimalla kosketusnäyttöä</string>
+    <string name="touch_response_title">Kosketusherkkyys</string>
+    <string name="touch_response_summary">Kontrolloi kosketusherkkyyttä</string>
+    <string name="touch_sensitivity_title">Kosketusherkkyys</string>
+    <string name="touch_sensitivity_summary">Kontrolloi toistettavien näpäytysten herkkyyttä</string>
+    <string name="touch_resistant_summary">Vähentää lähellä reunaa tapahtuvia vahinko kosketuksia</string>
+    <string name="home_button_extra_settings">Mukauta kotinäppäimen käyttäytymistä</string>
+    <string name="assistant_button_action">Assistant painikkeen toiminto</string>
+    <string name="stylus_title">Kosketusnäyttökynä</string>
+</resources>

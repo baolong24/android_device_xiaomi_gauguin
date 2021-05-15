@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <!-- Dirac settings -->
+    <string name="dirac_title">Mi శబ్ద మెరుగుదల సాధనం</string>
+    <string name="dirac_summary">ఆడియో నాణ్యతను అనుకూలపరచండి</string>
+    <string name="dirac_headset_title">హెడ్‌ఫోన్‌ల రకాన్ని ఎంచుకోండి</string>
+    <string name="dirac_preset_title">ప్రీసెట్‌ను ఎంచుకోండి</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Hi-Fi ఆడియో</string>
+    <string name="dirac_hifi_summary">రొద మరియు వక్రతని తగ్గిస్తుంది మరియు ఆడియో నాణ్యతను పెంచుతుంది</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">డిఫాల్ట్</string>
+    <string name="dirac_headset_earbuds">Mi ఇయర్ బడ్స్</string>
+    <string name="dirac_headset_in_ear_2013">Mi ఇన్-ఇయర్ (2013)</string>
+    <string name="dirac_headset_piston_1">Mi పిస్టన్-1</string>
+    <string name="dirac_headset_general">సాధారణం</string>
+    <string name="dirac_headset_general_inear">సాధారణ ఇన్-ఇయర్</string>
+    <string name="dirac_headset_piston_basic">బేసిక్ ఎడిషన్</string>
+    <string name="dirac_headset_piston_2">Mi పిస్టన్-2</string>
+    <string name="dirac_headset_piston_standard">ప్రామాణిక ఎడిషన్</string>
+    <string name="dirac_headset_headphone">Mi హెడ్‌ఫోన్స్</string>
+    <string name="dirac_headset_piston_youth">యూత్ ఎడిషన్</string>
+    <string name="dirac_headset_piston_color">రంగుల ఎడిషన్</string>
+    <string name="dirac_headset_in_ear">Mi ఇన్-ఇయర్</string>
+    <string name="dirac_headset_capsule">Mi క్యాప్స్యూల్</string>
+    <string name="dirac_headset_in_ear_pro">Mi ఇన్-ఇయర్ ప్రో</string>
+    <string name="dirac_headset_comfort">Mi కంఫర్ట్</string>
+    <string name="dirac_headset_reduction_noise">Mi రొద తగ్గింపు టైప్-C</string>
+    <string name="dirac_headset_cancelling">Mi రొద తగ్గింపు 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi హాఫ్ ఇన్ ఇయర్</string>
+    <string name="dirac_headset_in_ear2">Mi ఇన్-ఇయర్ 2</string>
+    <string name="dirac_headset_earphone_basic">Mi ఇయర్‌ఫోన్స్ బేసిక్</string>
+    <string name="dirac_headset_earphone">Mi ఇయర్‌ఫోన్స్</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">డిఫాల్ట్</string>
+    <string name="dirac_preset_rock">రాక్</string>
+    <string name="dirac_preset_jazz">జాజ్</string>
+    <string name="dirac_preset_pop">పాప్</string>
+    <string name="dirac_preset_classical">సాంప్రదాయ</string>
+    <string name="dirac_preset_hiphop">హిప్ హాప్</string>
+    <string name="dirac_preset_blues">బ్లూస్</string>
+    <string name="dirac_preset_electronic">ఎలక్ట్రానిక్</string>
+    <string name="dirac_preset_country">కంట్రీ</string>
+    <string name="dirac_preset_dance">నృత్యం</string>
+    <string name="dirac_preset_metal">మెటల్</string>
+    <!-- Popup camera settings -->
+    <string name="popup_title_muqin">జైలోఫోన్</string>
+    <string name="popup_title_yingyan">కాండర్</string>
+    <string name="popup_title_mofa">మ్యాజిక్</string>
+    <string name="popup_title_jijia">మెచా</string>
+    <string name="popup_title_chilun">గేర్‌వీల్</string>
+    <string name="popup_title_cangmen">క్యాబిన్ డోర్</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">గమనిక</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">పలుమార్లు ముందు కెమెరాని మూసివేయలేకపోయాము. కెమెరాని ప్రామాణీకరించేందుకు ప్రయత్నించండి.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">పలుమార్లు ముందు కెమెరాని తెరవలేకపోయాము. కెమెరాని ప్రామాణీకరించేందుకు ప్రయత్నించండి.</string>
+    <string name="popup_camera_calibrate_running">అమరిక సమయంలో ముందు కెమెరా ఉపయోగించబడదు.</string>
+    <string name="popup_camera_calibrate_now">ప్రామాణీకరణ చేయి</string>
+    <string name="popup_camera_calibrate_failed">ప్రామాణీకరణ చేయలేకపోయాము</string>
+    <string name="popup_camera_calibrate_success">విజయవంతంగా ప్రామాణీకరించబడింది. మీరు ఇప్పుడు ముందు కెమెరాని తెరవవచ్చు.</string>
+    <string name="stop_operate_camera_frequently">మీరు చాలా తరచుగా ముందు కెమెరాని తెరుస్తున్నారు.</string>
+    <string name="takeback_camera_front_failed">ముందు కెమెరాని మూసివేయలేకపోయాము. మళ్లీ ప్రయత్నించండి.</string>
+    <string name="popup_camera_front_failed">ముందు కెమెరాని తెరవలేకపోయాము. మళ్లీ ప్రయత్నించండి.</string>
+    <!-- Title and summary -->
+    <!-- Device gestures -->
+    <string name="device_gestures_title">పరికరం సంజ్ఞలు</string>
+    <string name="device_gestures_summary">పరికర సంజ్ఞలను నిర్వహించండి</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">పరిసర ప్రదర్శన చిహ్నాలను నిర్వహించండి</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">వేలిముద్ర సంజ్ఞలు</string>
+    <string name="fingerprint_gestures_summary">వేలిముద్ర సంజ్ఞలను ఉపయోగించండి</string>
+    <string name="fingerprint_gestures_manage_summary">వేలిముద్ర సంజ్ఞలను నిర్వహించండి</string>
+    <string name="fingerprint_actions_screenon">చర్యలతొ స్క్రీన్ ఆన్ చేయండి</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">స్క్రీన్ ఆఫ్ ఉన్నప్పుడు వేలిముద్ర సంజ్ఞలు</string>
+    <string name="fingerprint_gestures_screenoff_summary">స్క్రీన్ ఆపివేసినప్పుడు వేలిముద్ర సంజ్ఞలను ఉపయోగించండి.\n\nఈ లక్షణాన్ని ఉపయోగించడానికి వేలిముద్ర అన్లాకింగ్ తప్పనిసరిగా నిలిపివేయబడాలి.</string>
+    <string name="fingerprint_actions_screenoff">స్క్రీన్ ఆఫ్లో ఉన్నప్పుడు చర్యలు</string>
+    <!-- Actions -->
+    <string name="action_home">ప్రారంభ స్థానం</string>
+    <string name="action_power">స్క్రీన్ ఆన్ / ఆఫ్</string>
+    <string name="action_wake">వేక్</string>
+    <string name="action_back">వెనక్కు</string>
+    <string name="action_recents">ఇటీవలి</string>
+    <string name="action_last_app">చివరి అనువర్తనం</string>
+    <string name="action_volume_up">ధ్వని పెంచు</string>
+    <string name="action_volume_down">ధ్వని డౌన్</string>
+    <string name="action_voice_assistant">వాయిస్ అసిస్టెంట్</string>
+    <string name="action_play_pause">ఫ్లే/ఫాజ్</string>
+    <string name="action_previous_track">మునుపటి ట్రాక్</string>
+    <string name="action_next_track">తదుపరి ట్రాక్</string>
+    <string name="action_flashlight">ఫ్లాష్లైట్ ఆన్ అయ్యింది</string>
+    <string name="action_camera">కెమెరా తెరువు</string>
+    <string name="action_screenshot">స్క్రీన్షాట్ని తీసుకోండి</string>
+    <string name="action_browser">బ్రౌజర్ను తెరవండి</string>
+    <string name="action_dialer">డయలర్ తెరవండి</string>
+    <string name="action_email">ఇమెయిల్ అనువర్తనం తెరువు</string>
+    <string name="action_messages">సందేశాలు అనువర్తనం తెరువు</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">స్క్రీన్ ఆఫ్ ఉన్నప్పుడు సంజ్ఞలను నిర్వహించండి</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">ఎడమకు స్వైప్ కోసం చర్యను ఎంచుకోండి</string>
+    <string name="swipe_right_dlg_title">కుడివైపుకి స్వైప్ చేయడానికి చర్యను ఎంచుకోండి</string>
+    <string name="swipe_up_dlg_title">తుడుపు పైని కోసం చర్యను ఎంచుకోండి</string>
+    <string name="swipe_down_dlg_title">తుడుపు డౌన్ కోసం చర్యను ఎంచుకోండి</string>
+    <string name="tap_title">ఒకే ట్యాప్</string>
+    <string name="double_tap_title">రెండుసార్లు నొక్కండి</string>
+    <string name="long_tap_title">లాంగ్ ట్యాప్</string>
+    <string name="tap_dlg_title">సింగిల్ టాప్ కోసం చర్య సెట్ చెయ్యండి</string>
+    <string name="double_tap_dlg_title">డబుల్ ట్యాప్ కోసం చర్యను ఎంచుకోండి</string>
+    <string name="long_tap_dlg_title">దీర్ఘ పంపు కోసం చర్యను ఎంచుకోండి</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">మేల్కొనడానికి నొక్కండి</string>
+    <string name="tap_to_wake_summary">పరికరాన్ని ఎక్కించడానికి స్క్రీన్పై ఎక్కడైనా రెండుసార్లు నొక్కండి</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">సన్నిహిత సెన్సార్ను అనుమతించండి</string>
+    <string name="allow_proximity_sensor_summary">చర్యను అమలు చేయడానికి ముందు సన్నిహిత సెన్సార్ను తనిఖీ చేయండి</string>
+    <!-- OnePlus - General -->
+    <!-- OnePlus - Alert slider settings -->
+    <!-- Thermal profiles -->
+    <!-- Refresh Rate Settings -->
+</resources>

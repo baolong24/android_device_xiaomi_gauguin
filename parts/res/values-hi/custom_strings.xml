@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="display_title">Tampilan</string>
+    <string name="dc_dimming_enable_title">Anti kerlip</string>
+    <string name="dc_dimming_enable_summary">Mode anti kerlip membantu mengurangi kelelahan mata dalam kondisi cahaya redup dengan menggunakan fitur \"Peredupan DC\". Ini dapat menurunkan akurasi warna dan mempengaruhi cara beberapa item ditampilkan.</string>
+    <string name="dc_dimming_enable_summary_not_supported">एंटी फ़्लिकर वर्तमान में कर्नेल द्वारा समर्थित नहीं है</string>
+    <string name="dirac_title">Mi ध्वनि एन्हांसर</string>
+    <string name="dirac_summary">Optimalkan kualitas audio</string>
+    <string name="dirac_headset_title">Pilih tipe headphone</string>
+    <string name="dirac_preset_title">Pilih preset</string>
+    <string name="dirac_hifi_title">Audio Hi-Fi</string>
+    <string name="dirac_hifi_summary">Mengurangi bising dan gangguan serta meningkatkan kualitas audio</string>
+    <string name="dirac_headset_default">डिफ़ॉल्ट</string>
+    <string name="dirac_headset_earbuds">Mi इयरबड्स</string>
+    <string name="dirac_headset_in_ear_2013">Mi इन-ईयर (2013)</string>
+    <string name="dirac_headset_piston_1">Mi पिस्टन-1</string>
+    <string name="dirac_headset_general">Umum</string>
+    <string name="dirac_headset_general_inear">In-Ear umum</string>
+    <string name="dirac_headset_piston_basic">Edisi Basic</string>
+    <string name="dirac_headset_piston_2">Mi पिस्टन-2</string>
+    <string name="dirac_headset_piston_standard">Edisi standar</string>
+    <string name="dirac_headset_headphone">Mi Headphone</string>
+    <string name="dirac_headset_piston_youth">Edisi Youth</string>
+    <string name="dirac_headset_piston_color">Edisi Warna</string>
+    <string name="dirac_headset_in_ear">Mi इन-इयर</string>
+    <string name="dirac_headset_capsule">Mi कैपसूल</string>
+    <string name="dirac_headset_in_ear_pro">Mi इन-ईयर प्रो</string>
+    <string name="dirac_headset_comfort">Mi आराम</string>
+    <string name="dirac_headset_reduction_noise">Mi नॉइज कैंसलिंग टाइप-C</string>
+    <string name="dirac_headset_cancelling">Mi नॉइज कैंसलिंग 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi हाल्फ इन ईयर</string>
+    <string name="dirac_headset_in_ear2">Mi इन-ईयर 2</string>
+    <string name="dirac_headset_earphone_basic">Mi ईयरफ़ोन बेसिक</string>
+    <string name="dirac_headset_earphone">Mi Earphone</string>
+    <string name="dirac_preset_default">डिफ़ॉल्ट</string>
+    <string name="dirac_preset_rock">रॉक</string>
+    <string name="dirac_preset_jazz">जैज़</string>
+    <string name="dirac_preset_pop">पॉप</string>
+    <string name="dirac_preset_classical">Klasik</string>
+    <string name="dirac_preset_hiphop">हिप हॉप</string>
+    <string name="dirac_preset_blues">ब्लूज़</string>
+    <string name="dirac_preset_electronic">Elektronik</string>
+    <string name="dirac_preset_country">कंट्री</string>
+    <string name="dirac_preset_dance">डांस</string>
+    <string name="dirac_preset_metal">मेटल</string>
+    <string name="popup_settings_title">Pengaturan Pop-Up Kamera</string>
+    <string name="popup_led_title">Lampu Kamera</string>
+    <string name="popup_led_summary">Nyalakan lampu kamera saat kamera depan terbuka dan tertutup</string>
+    <string name="popup_sound_title">Efek suara</string>
+    <string name="popup_title_muqin">Xilofon</string>
+    <string name="popup_title_yingyan">Elang</string>
+    <string name="popup_title_mofa">जादू</string>
+    <string name="popup_title_jijia">Robot mekanik (Mecha)</string>
+    <string name="popup_title_chilun">Roda gigi</string>
+    <string name="popup_title_cangmen">Pintu kabin</string>
+    <string name="popup_camera_tip">Perhatian</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Tidak dapat menutup kamera berulang kali. Coba kalibrasi kamera.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Tidak dapat membuka kamera depan berulang kali. Coba kalibrasi kamera.</string>
+    <string name="popup_camera_calibrate_running">Kamera depan tidak dapat digunakan selama kalibrasi.</string>
+    <string name="popup_camera_calibrate_now">Kalibrasi</string>
+    <string name="popup_camera_calibrate_failed">Tidak dapat kalibrasi</string>
+    <string name="popup_camera_calibrate_success">Berhasil kalibrasi. Anda dapat membuka kamera depan sekarang.</string>
+    <string name="stop_operate_camera_frequently">Anda terlalu sering membuka kamera depan.</string>
+    <string name="takeback_camera_front_failed">Tidak dapat menutup kamera depan. Coba lagi.</string>
+    <string name="popup_camera_front_failed">Tidak dapat membuka kamera depan. Coba lagi.</string>
+    <string name="popup_camera_proximity_obstructed">Pindahkan tangan Anda dari sensor proximity untuk membuka kamera depan...</string>
+    <string name="clear_speaker_title">स्पष्ट वक्ता</string>
+    <string name="clear_speaker_summary">स्पीकर को साफ़ करने के लिए 30 सेकंड का ऑडियो चलाएं</string>
+    <string name="clear_speaker_description">इस सुविधा को एक या दो बार चलाएं यदि आप पाते हैं कि आपका स्पीकर धूल से हल्का अवरुद्ध है। मीडिया वॉल्यूम को अधिकतम पर सेट करें। \ N \ n यदि स्पीकर को बहुत अधिक अवरुद्ध किया गया है, तो अपने डिवाइस को नीचे की ओर स्पीकर के साथ हिलाते हुए इस सुविधा को 2-5 बार चलाएं।</string>
+    <string name="moto_actions_title">Aksi Moto</string>
+    <string name="device_gestures_title">Gerakan pada perangkat</string>
+    <string name="device_gestures_summary">Kelola gerakan pada perangkat</string>
+    <string name="ambient_display_manage_summary">Kelola gerakan tampilan ambient</string>
+    <string name="fingerprint_gestures_title">Gestur sidik jari</string>
+    <string name="fingerprint_gestures_summary">Gunakan gerakan sidik jari</string>
+    <string name="fingerprint_gestures_manage_summary">Kelola gerakan sidik jari</string>
+    <string name="fingerprint_actions_screenon">Aksi saat layar hidup</string>
+    <string name="fingerprint_gestures_screenoff_title">Gerakan sidik jari saat layar mati</string>
+    <string name="fingerprint_gestures_screenoff_summary">Gunakan gerakan sidik jari saat layar mati.\n\nPembuka kunci dengan sidik jari harus dimatikan untuk menggunakan fitur ini.</string>
+    <string name="fingerprint_actions_screenoff">Aksi saat layar mati</string>
+    <string name="action_home">Beranda</string>
+    <string name="action_power">Layar hidup/mati</string>
+    <string name="action_wake">Bangunkan</string>
+    <string name="action_back">Kembali</string>
+    <string name="action_recents">Terkini</string>
+    <string name="action_last_app">Aplikasi terakhir</string>
+    <string name="action_volume_up">Volume naik</string>
+    <string name="action_volume_down">Volume turun</string>
+    <string name="action_voice_assistant">Asisten suara</string>
+    <string name="action_play_pause">Putar/jeda</string>
+    <string name="action_previous_track">Trek sebelumnya</string>
+    <string name="action_next_track">Trek selanjutnya</string>
+    <string name="action_flashlight">Senter hidup/mati</string>
+    <string name="action_camera">Buka kamera</string>
+    <string name="action_screenshot">Ambil tangkapan layar</string>
+    <string name="action_browser">Buka peramban</string>
+    <string name="action_dialer">Buka telepon</string>
+    <string name="action_email">Buka aplikasi email</string>
+    <string name="action_messages">Buka aplikasi pesan</string>
+    <string name="screen_off_gestures_manage_summary">Kelola gerakan ketika layar mati</string>
+    <string name="swipe_left_dlg_title">Pilih aksi saat mengusap ke kiri</string>
+    <string name="swipe_right_dlg_title">Pilih aksi saat mengusap ke kanan</string>
+    <string name="swipe_up_dlg_title">Pilih aksi saat mengusap ke atas</string>
+    <string name="swipe_down_dlg_title">Pilih aksi saat mengusap ke bawah</string>
+    <string name="tap_title">Ketuk sekali</string>
+    <string name="double_tap_title">Ketukan ganda</string>
+    <string name="long_tap_title">Ketukan lama</string>
+    <string name="tap_dlg_title">Pilih tindakan untuk sekali ketuk</string>
+    <string name="double_tap_dlg_title">Pilih tindakan untuk ketukan ganda</string>
+    <string name="long_tap_dlg_title">Pilih tindakan untuk ketukan lama</string>
+    <string name="tap_to_wake">Ketuk untuk bangunkan</string>
+    <string name="tap_to_wake_summary">Ketuk dua kali dimana saja pada layar untuk membangunkan perangkat</string>
+    <string name="allow_proximity_sensor_title">Izinkan sensor jarak</string>
+    <string name="allow_proximity_sensor_summary">Periksa sensor jarak sebelum melakukan aksi</string>
+    <string name="oneplus_advanced_settings">Setelan OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Setelan kustom untuk perangkat anda</string>
+    <string name="notification_slider_category_title">Slider pengingat</string>
+    <string name="notification_slider_selection_dialog_title">Aksi</string>
+    <string name="notification_slider_top_position">Posisi atas</string>
+    <string name="notification_slider_middle_position">Posisi tengah</string>
+    <string name="notification_slider_bottom_position">Posisi bawah</string>
+    <string name="notification_slider_mode_total_silence">Senyap total</string>
+    <string name="notification_slider_mode_alarms_only">Hanya alarm</string>
+    <string name="notification_slider_mode_priority_only">Hanya prioritas</string>
+    <string name="notification_slider_mode_silent">Diam</string>
+    <string name="notification_slider_mode_vibrate">Getar</string>
+    <string name="thermal_title">Profil pengoptimalan</string>
+    <string name="thermal_summary">Sesuaikan profil per-aplikasi untuk kinerja optimal</string>
+    <string name="thermal_default">Tidak ada optimasi</string>
+    <string name="thermal_benchmark">Performa</string>
+    <string name="thermal_browser">Peramban</string>
+    <string name="thermal_camera">Kamera</string>
+    <string name="thermal_dialer">Telepon</string>
+    <string name="thermal_gaming">Permainan</string>
+    <string name="thermal_streaming">Aplikasi streaming</string>
+    <string name="refresh_rate_settings_title">स्क्रीन रिफ्रेश दर</string>
+</resources>

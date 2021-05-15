@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="dirac_summary">Optimiziranje kvalitete zvoka</string>
+    <string name="dirac_headset_title">Določi tip slušalk</string>
+    <string name="dirac_preset_title">Izberi prednastavitev</string>
+    <string name="dirac_hifi_title">Hi-Fi zvok</string>
+    <string name="dirac_hifi_summary">Zmanjšajte hrup in popačenost in povečajte kvaliteto zvoka</string>
+    <string name="dirac_headset_default">Privzeto</string>
+    <string name="dirac_headset_general">Splošno</string>
+    <string name="dirac_headset_general_inear">Splošne In-Ear</string>
+    <string name="dirac_headset_headphone">Mi slušalke</string>
+    <string name="dirac_headset_piston_color">Barvna Izdaja</string>
+    <string name="dirac_headset_reduction_noise">Mi Odvzem hrupa Type-C</string>
+    <string name="dirac_headset_cancelling">Mi Odvzem hrupa 3.5mm</string>
+    <string name="dirac_preset_default">Privzeto</string>
+    <string name="dirac_preset_classical">Klasika</string>
+    <string name="dirac_preset_electronic">Elektronska</string>
+    <string name="popup_title_muqin">Ksilofon</string>
+    <string name="popup_title_mofa">Čarovnija</string>
+    <string name="popup_title_cangmen">Vrata kabine</string>
+    <string name="popup_camera_tip">Pozor</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Ne morem odpreti sprednje kamere večkrat. Poskusite kalibrirati kamero.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Ne morem odpreti sprednje kamere večkrat. Poskusite kalibrirati kamero.</string>
+    <string name="popup_camera_calibrate_running">Sprednje kamere ni mogoče uporabiti med umerjanjem.</string>
+    <string name="popup_camera_calibrate_now">Kalibriraj</string>
+    <string name="popup_camera_calibrate_failed">Ne morem kalibrirati. Približajte napravo bliže Mi Home-u da ugotovite problem.</string>
+    <string name="popup_camera_calibrate_success">Uspešno kalibrirano. Zdaj lahko odprete sprednjo kamero.</string>
+    <string name="stop_operate_camera_frequently">Kaže da prevečkrat menjate kamere.</string>
+    <string name="takeback_camera_front_failed">Ne morem zapreti sprednjo kamero. Poskusite ponovno.</string>
+    <string name="popup_camera_front_failed">Ne morem odpreti sprednje kamere. Poskusite ponovno.</string>
+    <string name="popup_camera_proximity_obstructed">Odstranite roko s tipala bližine za odprtje sprednjega fotoaparata ...</string>
+    <string name="moto_actions_title">Moto dejanja</string>
+    <string name="device_gestures_title">Poteze naprave</string>
+    <string name="device_gestures_summary">Upravljanje s potezami naprave</string>
+    <string name="ambient_display_manage_summary">Upravljanje s potezami okoliškega zaslona</string>
+    <string name="fingerprint_gestures_title">Poteze prstnega odtisa</string>
+    <string name="fingerprint_gestures_summary">Uporabi poteze prstnega odtisa</string>
+    <string name="fingerprint_gestures_manage_summary">Upravljanje s potezami prstnega odtisa</string>
+    <string name="fingerprint_actions_screenon">Dejanja pri vklopljenem zaslonu</string>
+    <string name="fingerprint_gestures_screenoff_title">Poteze prstnega odtisa, ko je zaslon izklopljen</string>
+    <string name="fingerprint_gestures_screenoff_summary">Uporaba potez prstnega odtisa, ko je zaslon izklopljen.\n\nOdklepanje s prstnim odtisom mora biti onemogočeno za uporabo te značilnosti.</string>
+    <string name="fingerprint_actions_screenoff">Dejanja pri izklopljenem zaslonu</string>
+    <string name="action_home">Domov</string>
+    <string name="action_power">Vklop/izklop zaslona</string>
+    <string name="action_wake">Zbudi</string>
+    <string name="action_back">Nazaj</string>
+    <string name="action_recents">Nedavno</string>
+    <string name="action_last_app">Zadnja aplikacija</string>
+    <string name="action_volume_up">Povečaj glasnost</string>
+    <string name="action_volume_down">Zmanjšaj glasnost</string>
+    <string name="action_voice_assistant">Glasovni pomočnik</string>
+    <string name="action_play_pause">Predvajaj/premor</string>
+    <string name="action_previous_track">Prejšnja skladba</string>
+    <string name="action_next_track">Naslednja skladba</string>
+    <string name="action_flashlight">Vklopi/izklopi svetilko</string>
+    <string name="action_camera">Odpri fotoaparat</string>
+    <string name="action_screenshot">Zajemi posnetek zaslona</string>
+    <string name="action_browser">Odpri brskalnik</string>
+    <string name="action_dialer">Odpri klicalnik</string>
+    <string name="action_email">Odpri aplikacijo za e-pošto</string>
+    <string name="action_messages">Odpri aplikacijo za sporočila</string>
+    <string name="screen_off_gestures_manage_summary">Upravljanje s potezami, ko je zaslon izklopljen</string>
+    <string name="swipe_left_dlg_title">Izberite dejanje za poteg levo</string>
+    <string name="swipe_right_dlg_title">Izberite dejanje za poteg desno</string>
+    <string name="swipe_up_dlg_title">Izberite dejanje za poteg gor</string>
+    <string name="swipe_down_dlg_title">Izberite dejanje za poteg dol</string>
+    <string name="tap_title">Enojni tap</string>
+    <string name="double_tap_title">Dvojni tap</string>
+    <string name="long_tap_title">Dolgi tap</string>
+    <string name="tap_dlg_title">Izberite dejanje za enojni tap</string>
+    <string name="double_tap_dlg_title">Izberite dejanje za dvojni tap</string>
+    <string name="long_tap_dlg_title">Izberite dejanje za dolgi tap</string>
+    <string name="tap_to_wake">Tap za bujenje</string>
+    <string name="tap_to_wake_summary">Dvakrat tapnite kjerkoli na zaslonu, da zbudite napravo</string>
+    <string name="allow_proximity_sensor_title">Dovoli tipalo bližine</string>
+    <string name="allow_proximity_sensor_summary">Preveri tipalo bližine preden se izvede dejanje</string>
+    <string name="oneplus_advanced_settings">OnePlus nastavitve</string>
+    <string name="oneplus_advanced_settings_summary">Nastavitve po meri za vašo napravo</string>
+    <string name="notification_slider_selection_dialog_title">Dejanje</string>
+    <string name="notification_slider_top_position">Zgornji položaj</string>
+    <string name="notification_slider_middle_position">Srednji položaj</string>
+    <string name="notification_slider_bottom_position">Spodnji položaj</string>
+    <string name="notification_slider_mode_total_silence">Popolna tišina</string>
+    <string name="notification_slider_mode_priority_only">Samo prednostno</string>
+    <string name="notification_slider_mode_none">Običajno</string>
+    <string name="thermal_title">Profil optimizacije</string>
+    <string name="thermal_default">Brez optimizacije</string>
+    <string name="thermal_benchmark">Zmogljivost</string>
+    <string name="thermal_browser">Brskalnik</string>
+    <string name="thermal_camera">Fotoaparat</string>
+    <string name="thermal_dialer">Klicalnik</string>
+    <string name="thermal_gaming">Igre</string>
+    <string name="refresh_rate_settings_title">Hitrost osveževanja zaslona</string>
+</resources>

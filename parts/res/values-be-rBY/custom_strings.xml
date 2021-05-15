@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Дысплэй</string>
+    <string name="dc_dimming_enable_title">Анты-мігаценне</string>
+    <string name="dc_dimming_enable_summary">Рэжым барацьбы з мігаценнем дапамагае знізіць напружанне вачэй ва ўмовах нізкай асветленасці пры дапамозе функцыі \"DC dimming\". Гэта можа пагоршыць дакладнасць колеру і паўплываць на адлюстраванне некаторых прадметаў.</string>
+    <!-- Dirac settings -->
+    <string name="dirac_title">Паляпшэнне гуку Mi</string>
+    <string name="dirac_summary">Паляпшэнне якасці гуку</string>
+    <string name="dirac_headset_title">Выберыце тып навушнікаў</string>
+    <string name="dirac_preset_title">Выбар усталёўкі</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Hi-Fi гук</string>
+    <string name="dirac_hifi_summary">Зніжэнне шуму і скажэнняў для паляпшэння якасці гуку</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">Стандартныя</string>
+    <string name="dirac_headset_earbuds">Mi-навушнікі</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi-пістоны 1</string>
+    <string name="dirac_headset_general">Звычайныя навушнікі</string>
+    <string name="dirac_headset_general_inear">Звычайныя ўкладышы</string>
+    <string name="dirac_headset_piston_basic">Звыч. пістоны</string>
+    <string name="dirac_headset_piston_2">Mi-пістоны 2</string>
+    <string name="dirac_headset_piston_standard">Стандартная версія</string>
+    <string name="dirac_headset_headphone">Mi навушнікі</string>
+    <string name="dirac_headset_piston_youth">Моладзевая версія</string>
+    <string name="dirac_headset_piston_color">Каляровае версія</string>
+    <string name="dirac_headset_in_ear">Mi-укладышы</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi Noise Cancelling Type-C</string>
+    <string name="dirac_headset_cancelling">Mi Noise Cancelling 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi-укладышы</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Mi Earphones</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">Па змаўчанні</string>
+    <string name="dirac_preset_rock">Рок</string>
+    <string name="dirac_preset_jazz">Джаз</string>
+    <string name="dirac_preset_pop">Поп</string>
+    <string name="dirac_preset_classical">Класіка</string>
+    <string name="dirac_preset_hiphop">Хіп-хоп</string>
+    <string name="dirac_preset_blues">Блюз</string>
+    <string name="dirac_preset_electronic">Электра</string>
+    <string name="dirac_preset_country">Кантры</string>
+    <string name="dirac_preset_dance">Танцавальная</string>
+    <string name="dirac_preset_metal">Метал</string>
+    <!-- Popup camera settings -->
+    <string name="popup_settings_title">Налады ўсплывальнай камеры</string>
+    <string name="popup_led_title">LED індыкацыя камеры</string>
+    <string name="popup_led_summary">Паказваць LED індыкацыю пры адкрыцці і закрыцці франтальнай камеры</string>
+    <string name="popup_sound_title">Гукавыя эфекты</string>
+    <string name="popup_title_muqin">Ксылафон</string>
+    <string name="popup_title_yingyan">Кондор</string>
+    <string name="popup_title_mofa">Магія</string>
+    <string name="popup_title_jijia">Механіка</string>
+    <string name="popup_title_chilun">Шасцярня</string>
+    <string name="popup_title_cangmen">Дзверы каюты</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">Увага</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Не атрымалася зачыніць франтальную камеру некалькі разоў. Паспрабуйце адкалібраваць камеру.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Не атрымалася адкрыць франтальную камеру некалькі разоў. Паспрабуйце адкалібраваць камеру.</string>
+    <string name="popup_camera_calibrate_running">Пярэднюю камеру нельга выкарыстоўваць падчас каліброўкі.</string>
+    <string name="popup_camera_calibrate_now">Каліброўка</string>
+    <string name="popup_camera_calibrate_failed">Памылка каліброўкі</string>
+    <string name="popup_camera_calibrate_success">Каліброўка завершана. Вы можаце адкрыць франтальную камеру.</string>
+    <string name="stop_operate_camera_frequently">Вы занадта часта адкрываеце франтальную камеру.</string>
+    <string name="takeback_camera_front_failed">Не атрымалася зачыніць франтальную камеру. Паспрабуйце яшчэ раз.</string>
+    <string name="popup_camera_front_failed">Не атрымалася адкрыць франтальную камеру. Паспрабуйце яшчэ раз.</string>
+    <string name="popup_camera_proximity_obstructed">Прыбярыце руку з датчыка набліжэння, каб адкрыць франтальную камеру...</string>
+    <!-- Title and summary -->
+    <string name="moto_actions_title">Дадатковыя жэсты</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">Жэсты прылады</string>
+    <string name="device_gestures_summary">Кіраванне жэстамі</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">Кіраванне жэстамі актыўнага экрана</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">Жэсты адбіткаў пальцаў</string>
+    <string name="fingerprint_gestures_summary">Выкарыстоўваць жэсты сканэра адбіткаў пальцаў</string>
+    <string name="fingerprint_gestures_manage_summary">Кіраванне жэстамі сканэра адбіткаў пальцаў</string>
+    <string name="fingerprint_actions_screenon">Дзеянні пры ўключаным экране</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">Жэсты сканэра адбіткаў пальцаў калі экран выключаны</string>
+    <string name="fingerprint_gestures_screenoff_summary">Выкарыстанне сканэра адбіткаў пальцаў пры выключаным экране.\n\nРазблакіроўка сканэрам павінна быць адключана для выкарыстання гэтай функцыі.</string>
+    <string name="fingerprint_actions_screenoff">Дзеянні пры выключаным экране</string>
+    <!-- Actions -->
+    <string name="action_home">Галоўная</string>
+    <string name="action_power">Экран укл./выкл.</string>
+    <string name="action_wake">Абуджаць</string>
+    <string name="action_back">Назад</string>
+    <string name="action_recents">Нядаўнія</string>
+    <string name="action_last_app">Апошняя праграма</string>
+    <string name="action_volume_up">Павялічыць гучнасць</string>
+    <string name="action_volume_down">Паменшыць гучнасць</string>
+    <string name="action_voice_assistant">Галасавы асістэнт</string>
+    <string name="action_play_pause">Прайграваць/спыніць</string>
+    <string name="action_previous_track">Папярэдні трэк</string>
+    <string name="action_next_track">Наступны трэк</string>
+    <string name="action_flashlight">Ліхтарык укл./выкл.</string>
+    <string name="action_camera">Адкрыць камеру</string>
+    <string name="action_screenshot">Зрабіць скрыншот</string>
+    <string name="action_browser">Адкрыць браўзэр</string>
+    <string name="action_dialer">Адкрыць Тэлефон</string>
+    <string name="action_email">Адкрыць прыладу пошты</string>
+    <string name="action_messages">Адкрыць прыладу паведамленняў</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">Упраўленне жэстамі калі экран выключаны</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">Выберыце дзеянне для свайпа ўлева</string>
+    <string name="swipe_right_dlg_title">Выберыце дзеянне для свайпа управа</string>
+    <string name="swipe_up_dlg_title">Выберыце дзеянне для свайпа наверх</string>
+    <string name="swipe_down_dlg_title">Выберыце дзеянне для свайпа ўніз</string>
+    <string name="tap_title">Адзіночны націск</string>
+    <string name="double_tap_title">Падвойны націск</string>
+    <string name="long_tap_title">Доўгі націск</string>
+    <string name="tap_dlg_title">Выберыце дзеянне для адзіночнага націску</string>
+    <string name="double_tap_dlg_title">Выберыце дзеянне для падвойнага націску</string>
+    <string name="long_tap_dlg_title">Выберыце дзеянне для доўгага націску</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">Краніце, каб абудзіць</string>
+    <string name="tap_to_wake_summary">Дакраніцеся двойчы ў любым месцы экрана, каб абудзіць прыладу</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">Датчык прыбліжэння</string>
+    <string name="allow_proximity_sensor_summary">Перад выкананнем дзеяння праверыць датчык прыбліжэння</string>
+    <!-- OnePlus - General -->
+    <string name="oneplus_advanced_settings">Налады OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Карыстацкія налады для вашай прылады</string>
+    <!-- OnePlus - Alert slider settings -->
+    <string name="notification_slider_category_title">Пераключальнік апавяшчэнняў</string>
+    <string name="notification_slider_selection_dialog_title">Дзеянне</string>
+    <string name="notification_slider_top_position">Верхняе становішча</string>
+    <string name="notification_slider_middle_position">Сярэдняе становішча</string>
+    <string name="notification_slider_bottom_position">Ніжняе становішча</string>
+    <string name="notification_slider_mode_total_silence">Поўная цішыня</string>
+    <string name="notification_slider_mode_alarms_only">Толькі будзільнікі</string>
+    <string name="notification_slider_mode_priority_only">Толькі важныя</string>
+    <string name="notification_slider_mode_silent">Без гуку</string>
+    <string name="notification_slider_mode_vibrate">Вібрацыя</string>
+    <string name="notification_slider_mode_none">Звычайная</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Профіль аптымізацыі</string>
+    <string name="thermal_summary">Наладзьце дадатковыя профілі для дасягнення аптымальнай прадукцыйнасці</string>
+    <string name="thermal_default">Без аптымізацыі</string>
+    <string name="thermal_benchmark">Прадукцыйнасць</string>
+    <string name="thermal_browser">Браўзер</string>
+    <string name="thermal_camera">Камера</string>
+    <string name="thermal_dialer">Набіральнік нумара</string>
+    <string name="thermal_gaming">Гульні</string>
+    <string name="thermal_streaming">Патокавыя прыкладанні</string>
+    <!-- Refresh Rate Settings -->
+</resources>
