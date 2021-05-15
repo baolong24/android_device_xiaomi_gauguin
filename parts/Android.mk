@@ -16,8 +16,7 @@ LOCAL_USE_AAPT2 := true
 
 LOCAL_STATIC_ANDROID_LIBRARIES := \
     androidx.core_core \
-    androidx.preference_preference \
-    org.pixelexperience.settings.resources_custom
+    androidx.preference_preference
 
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
 
