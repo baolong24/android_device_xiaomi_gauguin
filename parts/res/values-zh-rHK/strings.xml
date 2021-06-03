@@ -85,8 +85,4 @@
     <string name="touch_sensitivity_summary">控制連續點擊的觸摸靈敏度</string>
     <string name="touch_resistant_title">防誤觸</string>
     <string name="touch_resistant_summary">通過降低邊緣的觸摸靈敏度，來防誤觸。 </string>
-
-    <!-- DT2W -->
-    <string name="dt2w_enable_title">雙擊喚醒</string>
-    <string name="dt2w_enable_summary">在屏幕上的任意位置點按兩次即可喚醒設備</string>
 </resources>
