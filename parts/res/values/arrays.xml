@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2021 The LineageOS Project
-
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
@@ -13,7 +12,6 @@
      limitations under the License.
 -->
 <resources>
-
     <!-- Values for Dirac headset pref -->
     <string-array name="dirac_headset_pref_entries" translatable="false">
         <item>@string/dirac_headset_default</item>
